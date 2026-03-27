@@ -24,6 +24,7 @@ body::-webkit-scrollbar {
   align-items: center;
   padding: 1rem;
   background-color: #001cb9;
+  position: relative;
 }
 
 .div-logo {
@@ -42,11 +43,12 @@ body::-webkit-scrollbar {
 }
 
 .input-div {
-  width: 100%;
+  flex: 1;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-right: 1rem;
 }
 
 .input-div input {
@@ -80,6 +82,76 @@ body::-webkit-scrollbar {
   font-size: 1.2rem;
 }
 
+/* Botão Menu Hamburger */
+.btn-menu-hamburger {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  padding: 0.5rem;
+  width: 40px;
+  height: auto;
+  margin-left: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-menu-hamburger span {
+  width: 25px;
+  height: 3px;
+  background-color: #ffffff;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  display: block;
+  opacity: 1;
+}
+
+.btn-menu-hamburger:hover span {
+  background-color: rgb(228, 224, 0);
+  width: 30px;
+}
+
+/* Menu de Categorias */
+.menu-categorias {
+  position: absolute;
+  align-items: center;
+  top: 100%;
+  right: 0;
+  width: 100%;
+  height: auto;
+  background-color: #001cb9b4;
+  transition: all 0.3s ease;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.menu-categorias.aberto {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.menu-categorias .lista-categorias {
+  list-style: none;
+  padding: 1rem;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-categorias .item-categoria {
+  width: 20rem;
+
+}
+
+
 /*Termina o estilo da navbar*/
 
 
@@ -97,6 +169,7 @@ body::-webkit-scrollbar {
   padding: 0.5rem;
   color: white;
 }
+
 
 .main-contexto h1 {
   font-size: 2.5rem;
@@ -184,6 +257,39 @@ body::-webkit-scrollbar {
     width: 44px;
     height: 44px;
   }
+
+  /* Navbar Responsiva */
+  .nav-bar {
+    flex-wrap: wrap;
+    padding: 0.5rem;
+  }
+
+  .div-logo {
+    width: 8rem;
+    height: 2.5rem;
+    padding-right: 1rem;
+    flex-shrink: 0;
+  }
+
+  .btn-menu-hamburger {
+    position: absolute;
+    right: 1rem;
+    top: 35%;
+    transform: translateY(-50%);
+    margin-left: 0;
+  }
+
+  .input-div {
+    order: 3;
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.5rem;
+    flex: none;
+  }
+
+  .input-div input {
+    width: 100%;
+  }
 }
 
 
@@ -194,13 +300,15 @@ body::-webkit-scrollbar {
     height: 8rem;
     padding: 1.1rem 1rem;
   }
+
   .dados-com-img {
     width: 100%;
     min-width: 0;
   }
 
   .dados-com-img img {
-    width: 7rem;  /* aumentado no mobile */
+    width: 7rem;
+    /* aumentado no mobile */
     height: 6rem;
   }
 }
@@ -213,8 +321,6 @@ body::-webkit-scrollbar {
   width: 100%;
   max-width: none;
   margin: 0;
-  border-bottom-left-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
   overflow: hidden;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
@@ -363,6 +469,8 @@ body::-webkit-scrollbar {
     width: 100%;
     max-width: 260px;
   }
+
+
 }
 
 @media (max-width: 480px) {
@@ -524,3 +632,31 @@ body::-webkit-scrollbar {
 }
 
 /*Fim da lista de Produtos*/
+
+
+.card-categorias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  width: 100%;
+}
+
+.card-categorias a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 6rem;
+  height: 2rem;
+  padding: 0.8rem;
+  background-color: #001cb9fd;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+}

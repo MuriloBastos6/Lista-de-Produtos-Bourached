@@ -88,7 +88,13 @@ function Categorias(props) {
       slug: "potes",
     },
   ];
-  return <div></div>;
+  return <div className="card-categorias">
+    {categoria.map((cat) => (
+      <a href="../pages/AmendoimPage" key={cat.slug}         style={{ backgroundImage: `url(${cat.capa})` }}>
+        {cat.titulo}
+      </a>
+    ))}
+  </div>;
 }
 
 export default Categorias;
