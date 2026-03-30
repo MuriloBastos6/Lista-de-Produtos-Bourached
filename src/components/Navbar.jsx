@@ -12,8 +12,11 @@ function Navbar(props) {
     <nav className="nav-bar">
       <div className="div-logo">
         <a href="/">
-          <img src="bourached-logo-350.png" alt="Logo da bourached" />
+          <img src="logoBourached.png" alt="Logo da bourached" />
         </a>
+      </div>
+      <div>
+        <h1>Lista de Produtos</h1>
       </div>
       <div className="input-div">
         <input type="search" placeholder="Buscar produtos..." />

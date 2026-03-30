@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700&display=swap');
+
+body.AmendoimPage {
+    background-color: rgb(153, 44, 255);
+    min-height: 100vh;
+}
+
+.amendoim-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.9rem;
+}
+
+.titulo-container {
+    width: 80%;
+    height: 7rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(255, 230, 0);
+    display: flex;
+    background: linear-gradient(180deg,
+            rgba(0, 0, 0, 0.12) 20%,
+            rgba(0, 0, 0, 0.56) 100%), url("/src/assets/amendoins.jpeg") center/cover;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-container:hover {
+    border-color: rgb(255, 221, 31);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    transform: translateY(2px);
+    transition: all 0.3s ease;
+}
+
+.titulo-container h1 {
+    color: rgb(245, 245, 245);
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-family: 'Outfit', sans-serif;
+    text-transform: uppercase;
+}

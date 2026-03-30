@@ -1,11 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Categorias(props) {
   const categoria = [
     {
       titulo: "Amendois & castanhas",
       capa: "/banner.png",
-      slug: "amendoins-castanhas",
+      slug: "amendoim",
     },
     {
       titulo: "Arroz",
@@ -30,7 +31,7 @@ function Categorias(props) {
     {
       titulo: "Grãos",
       capa: "/banner.png",
-      slug: "grãos",
+      slug: "graos",
     },
     {
       titulo: "Panificação",
@@ -55,27 +56,27 @@ function Categorias(props) {
     {
       titulo: "Produtos naturais",
       capa: "/banner.png",
-      slug: "produtos-naturais",
+      slug: "naturais",
     },
     {
       titulo: "Refrigerantes & sucos",
       capa: "/banner.png",
-      slug: "refrigerantes-e-sucos",
+      slug: "refrigerantes",
     },
     {
       titulo: "Óleo vegetal",
       capa: "/banner.png",
-      slug: "oleo-vegetal",
+      slug: "oleo",
     },
     {
       titulo: "Goma pronta",
       capa: "/banner.png",
-      slug: "goma-pronta",
+      slug: "goma",
     },
     {
       titulo: "Salgadinho & snacks",
       capa: "/banner.png",
-      slug: "salgadinho-e-snacks",
+      slug: "salgadinho",
     },
     {
       titulo: "Doces",
@@ -90,9 +91,9 @@ function Categorias(props) {
   ];
   return <div className="card-categorias">
     {categoria.map((cat) => (
-      <a href="../pages/AmendoimPage" key={cat.slug}         style={{ backgroundImage: `url(${cat.capa})` }}>
+      <Link to={`/${cat.slug}`} key={cat.slug}         style={{ backgroundImage: `url(${cat.capa})` }}>
         {cat.titulo}
-      </a>
+      </Link>
     ))}
   </div>;
 }

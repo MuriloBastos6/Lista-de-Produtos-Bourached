@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg-primary: #015bc2;
+  --bg-primary-deep: #003a88;
+  --bg-surface: #ffffff;
+  --bg-surface-soft: #f3f6fb;
+  --text-primary: #0f1f2c;
+  --text-muted: #4b5563;
+  --accent: #ffe100;
+  --accent-deep: #f4cc00;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --shadow-soft: 0 10px 26px rgba(1, 17, 38, 0.14);
+  --shadow-elevated: 0 18px 34px rgba(1, 17, 38, 0.2), 0 6px 14px rgba(1, 17, 38, 0.12);
+  --transition-fast: 180ms ease;
+  --transition-smooth: 280ms ease;
+}
+
 html,
 body {
   scrollbar-width: none;
@@ -6,7 +25,8 @@ body {
   /* IE/Edge antigo */
   overflow-x: hidden;
   margin: 0;
-  background: #015bc2;
+  background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-primary-deep) 100%);
+  font-family: "Manrope", sans-serif;
   /* evita barra horizontal */
 }
 
@@ -22,10 +42,23 @@ body::-webkit-scrollbar {
 .nav-bar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 1rem;
-  background-color: #001cb9;
+  background: rgba(0, 28, 185, 0.92);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
   position: relative;
+  z-index: 1200;
 }
+
+.nav-bar h1 {
+  color: rgb(224, 224, 0);
+  font-size: 3rem;
+  font-weight: 800;
+  font-family: "Outfit", sans-serif;
+}
+
 
 .div-logo {
   width: 10rem;
@@ -58,12 +91,19 @@ body::-webkit-scrollbar {
   border-end-start-radius: 0.5rem;
   border: 2px solid rgb(228, 224, 0);
   padding: 0.5rem;
-  font-size: 1.2rem;
+  font-size: 1.05rem;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.input-div input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(255, 225, 0, 0.26);
 }
 
 .input-div button {
   height: 3rem;
-  background-color: rgb(228, 224, 0);
+  background-color: var(--accent);
   border-end-end-radius: 0.5rem;
   border-start-end-radius: 0.5rem;
   border: none;
@@ -73,6 +113,13 @@ body::-webkit-scrollbar {
   display: inline-block;
   font-size: 1rem;
   cursor: pointer;
+  font-weight: 700;
+  transition: transform var(--transition-fast), background-color var(--transition-fast);
+}
+
+.input-div button:hover {
+  background-color: var(--accent-deep);
+  transform: translateY(-1px);
 }
 
 .nav-bar a {
@@ -114,6 +161,27 @@ body::-webkit-scrollbar {
   width: 30px;
 }
 
+/* Desktop: busca abaixo da primeira linha da navbar */
+@media (min-width: 769px) {
+  .nav-bar {
+    flex-wrap: wrap;
+    row-gap: 0.8rem;
+  }
+
+  .input-div {
+    order: 4;
+    flex: 0 0 100%;
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.2rem;
+  }
+
+  .btn-menu-hamburger {
+    order: 3;
+    margin-left: 1rem;
+  }
+}
+
 /* Menu de Categorias */
 .menu-categorias {
   position: absolute;
@@ -126,6 +194,7 @@ body::-webkit-scrollbar {
   transition: all 0.3s ease;
   max-height: 0;
   overflow: hidden;
+  z-index: 1201;
 }
 
 .menu-categorias.aberto {
@@ -133,22 +202,104 @@ body::-webkit-scrollbar {
   overflow-y: auto;
 }
 
+.menu-categorias.aberto {
+  padding: 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  background: linear-gradient(160deg, rgba(0, 22, 110, 0.9), rgba(0, 55, 150, 0.86));
+  box-shadow: 0 18px 28px rgba(0, 8, 40, 0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
 .menu-categorias .lista-categorias {
   list-style: none;
-  padding: 1rem;
+  padding: 0.8rem;
+  padding-right: 5rem;
   margin: 0;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
   width: 100%;
   justify-content: center;
   align-items: center;
 }
 
 .menu-categorias .item-categoria {
-  width: 20rem;
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  padding-right: 3rem;
 
+}
+
+.menu-categorias.aberto .card-categorias {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  column-gap: 1.4rem;
+  row-gap: 1.4rem;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.menu-categorias.aberto .card-categorias a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 72px;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  background-color: rgba(1, 26, 122, 0.62);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.24);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+  font-size: 0.9rem;
+  text-align: center;
+  width: auto;
+}
+
+.menu-categorias.aberto .card-categorias a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 22px rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 225, 0, 0.6);
+}
+
+@media (min-width: 769px) {
+  .menu-categorias.aberto {
+    overflow: hidden;
+    width: 100vw;
+    right: 0;
+    left: 0;
+    scrollbar-width: none;
+  }
+
+  .menu-categorias.aberto::-webkit-scrollbar {
+    display: none;
+  }
+
+  .menu-categorias.aberto .card-categorias {
+    width: 100%;
+    min-width: 0;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    column-gap: 1.2rem;
+    row-gap: 1.2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .menu-categorias.aberto .card-categorias {
+    grid-template-rows: repeat(2, minmax(72px, auto));
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    grid-template-columns: none;
+  }
 }
 
 
@@ -157,7 +308,13 @@ body::-webkit-scrollbar {
 
 /*Começa o estilo do main*/
 .main-contexto {
-  background-image: url('loja-Bourached_LE_upscale_prime.jpg');
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg,
+      rgba(0, 0, 0, 0.42) 0%,
+      rgba(0, 0, 0, 0.28) 35%,
+      rgba(0, 0, 0, 0) 70%),
+    url('bourachedStore.jpg');
   background-size: cover;
   background-position: center;
   height: 60vh;
@@ -166,25 +323,48 @@ body::-webkit-scrollbar {
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  padding: 0.5rem;
+  padding: 0.5rem 0.5rem 5.5rem;
   color: white;
+}
+
+.main-contexto::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 130px;
+  background: linear-gradient(to bottom,
+      rgba(1, 91, 194, 0) 0%,
+      rgba(1, 91, 194, 0.72) 68%,
+      rgba(1, 91, 194, 1) 100%);
+  pointer-events: none;
 }
 
 
 .main-contexto h1 {
-  font-size: 2.5rem;
+  font-size: clamp(2rem, 4vw, 3.2rem);
   margin: 0;
   padding: 0.5rem;
+  font-family: "Outfit", sans-serif;
+  letter-spacing: 0.4px;
+  text-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
 
 .main-contexto button {
-  background-color: #001cb92c;
+  background: rgba(0, 28, 185, 0.28);
   color: white;
   border: solid 2px rgba(255, 255, 255, 0.233);
-  border-radius: 0.5rem;
+  border-radius: 999px;
   padding: 0.5rem 1rem;
   font-size: 1.2rem;
   cursor: pointer;
+  transition: transform var(--transition-fast), background-color var(--transition-fast);
+}
+
+.main-contexto button:hover {
+  transform: translateY(-2px);
+  background: rgba(0, 28, 185, 0.45);
 }
 
 /*Fim da Main*/
@@ -192,7 +372,7 @@ body::-webkit-scrollbar {
 .bloco-de-dados {
   width: 100%;
   min-height: 14rem;
-  margin: -4.5rem auto 0;
+  margin-top: -3.2rem;
   padding: 1.6rem 2rem;
   display: flex;
   flex-direction: row;
@@ -200,13 +380,24 @@ body::-webkit-scrollbar {
   justify-content: center;
   gap: 1.2rem;
   text-align: center;
-  background-color: #fff;
-  box-shadow:
-    0 18px 34px rgba(0, 0, 0, 0.22),
-    inset 0 1px 0 rgba(255, 255, 255, 0.18);
-
+  background: rgba(255, 255, 255, 0.95);
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.58);
+  box-shadow: var(--shadow-elevated);
   position: relative;
   overflow: hidden;
+}
+
+.bloco-de-dados::before {
+  content: "";
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  top: 0;
+  height: 3px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #ffd400, #fff28a, #ffd400);
 }
 
 
@@ -219,6 +410,11 @@ body::-webkit-scrollbar {
   justify-content: center;
   gap: 0.35rem;
   margin: 0;
+  transition: transform var(--transition-fast);
+}
+
+.dados-com-img:hover {
+  transform: translateY(-2px);
 }
 
 .dados-com-img img {
@@ -264,17 +460,22 @@ body::-webkit-scrollbar {
     padding: 0.5rem;
   }
 
-  .div-logo {
-    width: 8rem;
-    height: 2.5rem;
-    padding-right: 1rem;
-    flex-shrink: 0;
+  .nav-bar h1 {
+    font-size: 1.5rem;
+    padding-right: 3.5rem;
   }
+
+  .div-logo a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
 
   .btn-menu-hamburger {
     position: absolute;
     right: 1rem;
-    top: 35%;
+    top: 30%;
     transform: translateY(-50%);
     margin-left: 0;
   }
@@ -322,7 +523,19 @@ body::-webkit-scrollbar {
   max-width: none;
   margin: 0;
   overflow: hidden;
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+  box-shadow: var(--shadow-elevated);
+}
+
+.carrossel::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 42px;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.26), transparent);
+  z-index: 2;
+  pointer-events: none;
 }
 
 .carrossel-track {
@@ -507,7 +720,7 @@ body::-webkit-scrollbar {
 /*Inicio da Lista de Produtos*/
 .secao-produtos-categoria {
   width: min(95%, 1220px);
-  margin: 2rem auto;
+  margin: 2.5rem auto 3rem;
   padding: 1rem;
   border-radius: 10px;
 }
@@ -519,13 +732,38 @@ body::-webkit-scrollbar {
   margin-right: calc(50% - 47.5vw);
   margin-top: -4.5rem;
   /* sobe sobre o carrossel */
-  border-radius: 12px;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
   overflow: hidden;
   background-size: cover;
   background-position: center;
   position: relative;
   margin-bottom: 1.2rem;
   z-index: 2;
+  box-shadow: var(--shadow-soft);
+}
+
+.data-promocao {
+  width: 95vw;
+  height: 3rem;
+  margin-left: calc(50% - 47.5vw);
+  margin-right: calc(50% - 47.5vw);
+  margin-top: -1.5rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  background-color: yellow;
+  z-index: 20;
+}
+
+.data-promocao p {
+  display: flex;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
 }
 
 .categoria-overlay {
@@ -534,7 +772,7 @@ body::-webkit-scrollbar {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: right;
+  align-items: flex-start;
   padding: 1rem 1.2rem;
   color: #fff;
   background: linear-gradient(180deg,
@@ -555,16 +793,25 @@ body::-webkit-scrollbar {
 }
 
 .categoria-grid {
+  padding-top: 2rem;
   display: grid;
   grid-template-columns: repeat(2, minmax(240px, 1fr));
   gap: 1rem;
 }
 
 .card-produto {
-  background: #ececec;
-  border-radius: 10px;
+  background: #f0f3f8;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
   overflow: hidden;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.11);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.card-produto:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 28px rgba(0, 0, 0, 0.14);
 }
 
 .card-imagem-area {
@@ -587,10 +834,11 @@ body::-webkit-scrollbar {
 
 .card-conteudo h3 {
   margin: 0 0 0.5rem;
-  color: #0f1f2c;
+  color: var(--text-primary);
   font-size: 1.55rem;
   font-weight: 800;
   letter-spacing: 0.2px;
+  font-family: "Outfit", sans-serif;
 }
 
 .card-codigo {
@@ -637,7 +885,7 @@ body::-webkit-scrollbar {
 .card-categorias {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.4rem;
   align-items: center;
   justify-content: center;
   border-radius: 1rem;
@@ -649,6 +897,7 @@ body::-webkit-scrollbar {
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  margin-left: 0;
   width: 6rem;
   height: 2rem;
   padding: 0.8rem;
@@ -659,4 +908,25 @@ body::-webkit-scrollbar {
   border-radius: 0.5rem;
   font-size: 1rem;
   text-align: center;
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast), background-color var(--transition-fast);
+}
+
+.card-categorias a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 28, 185, 0.25);
+  background-color: #0024de;
+}
+
+@media (max-width: 768px) {
+  .main-contexto {
+    padding-bottom: 4rem;
+  }
+
+  .data-promocao {
+    height: 2rem;
+  }
+
+  .data-promocao p {
+    font-size: 0.7rem;
+  }
 }
