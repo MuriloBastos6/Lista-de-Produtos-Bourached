@@ -21,7 +21,7 @@ function Categorias(props) {
     {
       titulo: "Chás",
       capa: "/banner.png",
-      slug: "chas",
+      slug: "cha",
     },
     {
       titulo: "Farinhas",
@@ -56,12 +56,12 @@ function Categorias(props) {
     {
       titulo: "Produtos naturais",
       capa: "/banner.png",
-      slug: "naturais",
+      slug: "produtosnaturais",
     },
     {
       titulo: "Refrigerantes & sucos",
       capa: "/banner.png",
-      slug: "refrigerantes",
+      slug: "refris",
     },
     {
       titulo: "Óleo vegetal",
@@ -76,7 +76,7 @@ function Categorias(props) {
     {
       titulo: "Salgadinho & snacks",
       capa: "/banner.png",
-      slug: "salgadinho",
+      slug: "salgadinhos",
     },
     {
       titulo: "Doces",

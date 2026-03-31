@@ -1,6 +1,5 @@
 import { useEffect } from "react";
-import "./Amendoim.css"
-import ListaDeProdutos from "../components/ListaDeProdutos";
+import "./Amendoim.css";
 import ProdutosGrid from "../components/ProdutosGrid";
 
 function AmendoimPage() {

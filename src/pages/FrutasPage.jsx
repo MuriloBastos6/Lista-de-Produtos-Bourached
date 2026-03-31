@@ -1,9 +1,9 @@
-import React from "react";
+
 import { useEffect } from "react";
 import "./Amendoim.css";
 
-function FarinhaPage(props) {
-  useEffect(() => {
+function FrutasPage(props) {
+      useEffect(() => {
     document.body.classList.add("AmendoimPage");
     return () => {
       document.body.classList.remove("AmendoimPage");
@@ -12,4 +12,4 @@ function FarinhaPage(props) {
   return <div></div>;
 }
 
-export default FarinhaPage;
+export default FrutasPage;
