@@ -1,16 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700&display=swap');
 
-body.AmendoimPage {
-    background-color: rgb(153, 44, 255);
-    min-height: 100vh;
+body.produtos-page-body {
+    margin: 0;
+    padding: 0;
 }
 
-.amendoim-page {
+.produtosPage {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 0.9rem;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.conteudo-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.conteudo-container .categoria-grid {
+    width: min(1200px, 100%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 901px) {
+    .conteudo-container .categoria-grid {
+        width: 90vw;
+        max-width: 90vw;
+    }
+}
+
+@media (max-width: 900px) {
+    .conteudo-container .categoria-grid {
+        width: 90vw;
+        max-width: 90vw;
+        padding-left: 0;
+        padding-right: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .conteudo-container .card-produto {
+        width: 100%;
+        max-width: 90vw;
+        box-sizing: border-box;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 .titulo-container {

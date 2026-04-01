@@ -1,28 +1,36 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import Categorias from "./Categorias";
+import BuscaProdutos from "./BuscaProdutos";
 
 function Navbar(props) {
   const [menuAberto, setMenuAberto] = useState(false);
+  const location = useLocation();
 
   const toggleMenu = () => {
     setMenuAberto(!menuAberto);
   };
 
+  const fecharMenu = () => {
+    setMenuAberto(false);
+  };
+
+  useEffect(() => {
+    fecharMenu();
+  }, [location.pathname]);
+
   return (
     <nav className="nav-bar">
       <div className="div-logo">
-        <a href="/">
+        <Link to="/" onClick={fecharMenu}>
           <img src="logoBourached.png" alt="Logo da bourached" />
-        </a>
+        </Link>
       </div>
       <div>
         <h1>Lista de Produtos</h1>
       </div>
       <div className="input-div">
-        <input type="search" placeholder="Buscar produtos..." />
-        <button type="submit" value="Buscar" className="btn-pesquisar">
-          Pesquisar
-        </button>
+        <BuscaProdutos />
       </div>
 
       {/* Menu Hamburger */}
@@ -40,7 +48,7 @@ function Navbar(props) {
       <div className={`menu-categorias ${menuAberto ? "aberto" : ""}`}>
         <ul className="lista-categorias">
           <li className="item-categoria">
-            <Categorias />
+            <Categorias onSelectCategory={fecharMenu} />
           </li>
         </ul>
       </div>

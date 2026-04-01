@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function Categorias(props) {
+function Categorias({ onSelectCategory }) {
   const categoria = [
     {
       titulo: "Amendois & castanhas",
@@ -91,7 +91,12 @@ function Categorias(props) {
   ];
   return <div className="card-categorias">
     {categoria.map((cat) => (
-      <Link to={`/${cat.slug}`} key={cat.slug}         style={{ backgroundImage: `url(${cat.capa})` }}>
+      <Link
+        to={`/${cat.slug}`}
+        key={cat.slug}
+        onClick={onSelectCategory}
+        style={{ backgroundImage: `url(${cat.capa})` }}
+      >
         {cat.titulo}
       </Link>
     ))}
