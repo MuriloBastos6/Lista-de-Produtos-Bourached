@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import Categorias from "./Categorias";
 import BuscaProdutos from "./BuscaProdutos";
 
-function Navbar(props) {
+function Navbar() {
   const [menuAberto, setMenuAberto] = useState(false);
   const location = useLocation();
 
@@ -16,24 +16,19 @@ function Navbar(props) {
   };
 
   useEffect(() => {
-    fecharMenu();
+    setMenuAberto(false);
   }, [location.pathname]);
 
   return (
     <nav className="nav-bar">
+      <div className="nav-titulo">
+        <h1>Lista de Produtos</h1>
+      </div>
       <div className="div-logo">
         <Link to="/" onClick={fecharMenu}>
           <img src="logoBourached.png" alt="Logo da bourached" />
         </Link>
       </div>
-      <div>
-        <h1>Lista de Produtos</h1>
-      </div>
-      <div className="input-div">
-        <BuscaProdutos />
-      </div>
-
-      {/* Menu Hamburger */}
       <button
         className="btn-menu-hamburger"
         onClick={toggleMenu}
@@ -43,6 +38,11 @@ function Navbar(props) {
         <span></span>
         <span></span>
       </button>
+      <div className="input-div">
+        <BuscaProdutos />
+      </div>
+
+      {/* Menu Hamburger */}
 
       {/* Menu de Categorias */}
       <div className={`menu-categorias ${menuAberto ? "aberto" : ""}`}>

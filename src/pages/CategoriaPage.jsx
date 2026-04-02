@@ -65,16 +65,19 @@ function CategoriaPage() {
     setCarregando(true);
     setErro("");
 
-    fetch(`http://localhost:8000/${slug}`)
+    fetch("/produtos.json")
       .then((response) => {
         if (!response.ok) {
-          throw new Error(`Falha ao buscar categoria: ${slug}`);
+          throw new Error("Falha ao buscar produtos");
         }
         return response.json();
       })
       .then((data) => {
         if (!cancelado) {
-          setProdutos(Array.isArray(data) ? data : []);
+          const produtosCategoria = Array.isArray(data?.[slug])
+            ? data[slug]
+            : [];
+          setProdutos(produtosCategoria);
         }
       })
       .catch(() => {

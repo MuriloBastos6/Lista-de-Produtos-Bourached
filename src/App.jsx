@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./components/Navbar.jsx";
 import Main from "./components/Main.jsx";
 import Carrosel from "./components/Carrosel.jsx";
@@ -8,7 +7,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import CategoriaPage from "./pages/CategoriaPage.jsx";
 import BuscaPage from "./pages/BuscaPage.jsx";
 
-function App(props) {
+function App() {
   return (
     <Router>
       <div>
@@ -19,7 +18,7 @@ function App(props) {
               path="/"
               element={
                 <div>
-                  <Main /> 
+                  <Main />
                   <BlocoDados />
                   <Carrosel />
                   <ListaDeProdutos />

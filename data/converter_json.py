@@ -8,7 +8,7 @@ def converter_xlsx_para_json():
 
     base_dir = Path(__file__).resolve().parents[1]
     xlsx_path = base_dir / 'data' / 'ProdutosFomatodos.xlsx'
-    json_output = base_dir / 'data' / 'produtos.json'
+    json_output = base_dir / 'public' / 'produtos.json'
 
     # Garantir que a pasta de output existe
     json_output.parent.mkdir(parents=True, exist_ok=True)

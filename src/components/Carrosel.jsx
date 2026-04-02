@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 function Carrosel() {
   const slides = [
@@ -31,11 +31,11 @@ function Carrosel() {
 
   useEffect(() => {
     const timer = setInterval(() => {
-      nextSlide();
+      setCurrentIndex((prev) => (prev + 1) % slides.length);
     }, 3500);
 
     return () => clearInterval(timer);
-  }, []);
+  }, [slides.length]);
 
   return (
     <section className="carrossel" aria-label="Carrossel de ofertas">

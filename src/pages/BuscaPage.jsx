@@ -3,26 +3,6 @@ import { useSearchParams } from "react-router-dom";
 import ProdutosGrid from "../components/ProdutosGrid";
 import "./produtoPage.css";
 
-const categorias = [
-  "amendoim",
-  "arroz",
-  "sucrilhos",
-  "cha",
-  "farinhas",
-  "graos",
-  "panificacao",
-  "especiarias",
-  "frutas",
-  "sementes",
-  "produtosnaturais",
-  "refris",
-  "oleo",
-  "goma",
-  "salgadinhos",
-  "doces",
-  "potes",
-];
-
 function normalizarTexto(texto = "") {
   return texto
     .normalize("NFD")
@@ -57,25 +37,31 @@ function BuscaPage() {
 
     async function carregarProdutos() {
       try {
-        const respostas = await Promise.all(
-          categorias.map(async (slug) => {
-            const response = await fetch(`http://localhost:8000/${slug}`);
-            if (!response.ok) return [];
+        const response = await fetch("/produtos.json");
+        if (!response.ok) {
+          throw new Error("Falha ao carregar produtos");
+        }
 
-            const dados = await response.json();
-            if (!Array.isArray(dados)) return [];
+        const dadosPorCategoria = await response.json();
+        if (!dadosPorCategoria || typeof dadosPorCategoria !== "object") {
+          throw new Error("Formato de produtos invalido");
+        }
 
-            return dados.map((produto, index) => ({
+        const respostas = Object.entries(dadosPorCategoria).flatMap(
+          ([slug, itens]) => {
+            if (!Array.isArray(itens)) return [];
+
+            return itens.map((produto, index) => ({
               ...produto,
               id: `${slug}-${produto.id ?? index}`,
               slug,
               codigosBusca: montarCodigos(produto),
             }));
-          })
+          },
         );
 
         if (!cancelado) {
-          setTodosProdutos(respostas.flat());
+          setTodosProdutos(respostas);
         }
       } catch {
         if (!cancelado) {
@@ -122,7 +108,9 @@ function BuscaPage() {
           <p>Produto não encontrado.</p>
         )}
 
-        {!carregando && resultados.length > 0 && <ProdutosGrid produtos={resultados} />}
+        {!carregando && resultados.length > 0 && (
+          <ProdutosGrid produtos={resultados} />
+        )}
       </div>
     </section>
   );
