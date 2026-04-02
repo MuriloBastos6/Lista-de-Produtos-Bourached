@@ -1,7 +1,27 @@
 import { useEffect, useMemo, useState } from "react";
-import { Navigate, useParams } from "react-router-dom";
+import { Link, Navigate, useParams } from "react-router-dom";
 import "./produtoPage.css";
 import ProdutosGrid from "../components/ProdutosGrid";
+
+const ordemCategorias = [
+  "amendoim",
+  "arroz",
+  "sucrilhos",
+  "cha",
+  "farinhas",
+  "graos",
+  "panificacao",
+  "especiarias",
+  "frutas",
+  "sementes",
+  "produtosnaturais",
+  "refris",
+  "oleo",
+  "goma",
+  "salgadinhos",
+  "doces",
+  "potes",
+];
 
 const categoriasValidas = new Set([
   "amendoim",
@@ -41,6 +61,26 @@ const titulos = {
   salgadinhos: "Salgadinhos",
   doces: "Doces",
   potes: "Potes",
+};
+
+const capasPorSlug = {
+  amendoim: "/amendoim.jpeg",
+  arroz: "/arroz.jpeg",
+  sucrilhos: "/sucrilhos.jpeg",
+  cha: "/cha.jpeg",
+  farinhas: "/farinhas.jpeg",
+  graos: "/graos.jpeg",
+  panificacao: "/panificacoes.jpeg",
+  especiarias: "/especiarias.jpeg",
+  frutas: "/frutas.jpeg",
+  sementes: "/sementes.jpeg",
+  produtosnaturais: "/produtosnaturais.jpeg",
+  refris: "/refris.jpeg",
+  oleo: "/oleo.jpeg",
+  goma: "/Goma.png",
+  salgadinhos: "/salgadinho.jpeg",
+  doces: "/doces.jpeg",
+  potes: "/pote.jpeg",
 };
 
 function CategoriaPage() {
@@ -98,6 +138,30 @@ function CategoriaPage() {
   }, [slug, categoriaValida]);
 
   const titulo = useMemo(() => titulos[slug] || "Categoria", [slug]);
+  const capaCategoria = useMemo(
+    () => capasPorSlug[slug] || "/banner.png",
+    [slug],
+  );
+
+  const indiceAtual = useMemo(() => ordemCategorias.indexOf(slug), [slug]);
+  const categoriaAnterior =
+    indiceAtual >= 0
+      ? ordemCategorias[
+          (indiceAtual - 1 + ordemCategorias.length) % ordemCategorias.length
+        ]
+      : ordemCategorias[0];
+  const proximaCategoria =
+    indiceAtual >= 0
+      ? ordemCategorias[(indiceAtual + 1) % ordemCategorias.length]
+      : ordemCategorias[0];
+
+  function focarBarraPesquisa() {
+    const input = document.querySelector(".input-div input");
+    if (input) {
+      input.scrollIntoView({ behavior: "smooth", block: "center" });
+      input.focus();
+    }
+  }
 
   if (!categoriaValida) {
     return <Navigate to="/" replace />;
@@ -105,7 +169,40 @@ function CategoriaPage() {
 
   return (
     <section className="produtosPage">
-      <div className="titulo-container">
+      <div className="navegacao-categorias" aria-label="Navegacao de categorias">
+        <Link
+          className="nav-categoria-btn"
+          to={`/${categoriaAnterior}`}
+          aria-label={`Categoria anterior: ${titulos[categoriaAnterior]}`}
+          title={`Categoria anterior: ${titulos[categoriaAnterior]}`}
+        >
+          &lt;
+        </Link>
+        <button
+          type="button"
+          className="nav-categoria-btn"
+          onClick={focarBarraPesquisa}
+          aria-label="Ir para barra de pesquisa"
+          title="Ir para barra de pesquisa"
+        >
+          🔍
+        </button>
+        <Link
+          className="nav-categoria-btn"
+          to={`/${proximaCategoria}`}
+          aria-label={`Proxima categoria: ${titulos[proximaCategoria]}`}
+          title={`Proxima categoria: ${titulos[proximaCategoria]}`}
+        >
+          &gt;
+        </Link>
+      </div>
+
+      <div
+        className="titulo-container"
+        style={{
+          backgroundImage: `linear-gradient(180deg, rgba(0, 0, 0, 0.12) 20%, rgba(0, 0, 0, 0.56) 100%), url(${capaCategoria})`,
+        }}
+      >
         <h1>{titulo}</h1>
       </div>
       <div className="conteudo-container">

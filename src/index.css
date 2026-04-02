@@ -495,11 +495,20 @@ body::-webkit-scrollbar {
   height: 56vh;
 }
 
+.carrossel-slide-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
 .carrossel-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
+  filter: brightness(0.72);
 }
 
 /* Gradiente + texto por cima da imagem */
@@ -514,9 +523,9 @@ body::-webkit-scrollbar {
   padding: 2rem;
   color: #fff;
   background: linear-gradient(to top,
-      rgba(0, 0, 0, 0.62) 0%,
-      rgba(0, 0, 0, 0.28) 35%,
-      rgba(0, 0, 0, 0) 70%);
+      rgba(0, 0, 0, 0.78) 0%,
+      rgba(0, 0, 0, 0.5) 35%,
+      rgba(0, 0, 0, 0.22) 70%);
 }
 
 .carrossel-overlay h2 {
@@ -551,6 +560,49 @@ body::-webkit-scrollbar {
 
 .carrossel-btn.next {
   right: 12px;
+}
+
+/* Botao flutuante WhatsApp */
+.whatsapp-float {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  width: 60px;
+  height: 60px;
+  border-radius: 999px;
+  background: #25d366;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+  z-index: 1400;
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast), background-color var(--transition-fast);
+}
+
+.whatsapp-float:hover {
+  transform: translateY(-2px) scale(1.04);
+  background: #20bb5a;
+  box-shadow: 0 16px 28px rgba(0, 0, 0, 0.3);
+}
+
+.whatsapp-icon {
+  width: 34px;
+  height: 34px;
+}
+
+@media (max-width: 768px) {
+  .whatsapp-float {
+    width: 54px;
+    height: 54px;
+    right: 0.75rem;
+    bottom: 0.75rem;
+  }
+
+  .whatsapp-icon {
+    width: 30px;
+    height: 30px;
+  }
 }
 
 /*Inicio da Lista de Produtos*/

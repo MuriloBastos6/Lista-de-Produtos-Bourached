@@ -5,102 +5,104 @@ function Categorias({ onSelectCategory }) {
   const categoria = [
     {
       titulo: "Amendois & castanhas",
-      capa: "/banner.png",
+      capa: "/amendoim.jpeg",
       slug: "amendoim",
     },
     {
       titulo: "Arroz",
-      capa: "/banner.png",
+      capa: "/arroz.jpeg",
       slug: "arroz",
     },
     {
       titulo: "Sucrilhos",
-      capa: "/banner.png",
+      capa: "/sucrilhos.jpeg",
       slug: "sucrilhos",
     },
     {
       titulo: "Chás",
-      capa: "/banner.png",
+      capa: "/cha.jpeg",
       slug: "cha",
     },
     {
       titulo: "Farinhas",
-      capa: "/banner.png",
+      capa: "/farinhas.jpeg",
       slug: "farinhas",
     },
     {
       titulo: "Grãos",
-      capa: "/banner.png",
+      capa: "/graos.jpeg",
       slug: "graos",
     },
     {
       titulo: "Panificação",
-      capa: "/banner.png",
+      capa: "/panificacoes.jpeg",
       slug: "panificacao",
     },
     {
       titulo: "Especiarias",
-      capa: "/banner.png",
+      capa: "/especiarias.jpeg",
       slug: "especiarias",
     },
     {
       titulo: "Frutas",
-      capa: "/banner.png",
+      capa: "/frutas.jpeg",
       slug: "frutas",
     },
     {
       titulo: "Sementes",
-      capa: "/banner.png",
+      capa: "/sementes.jpeg",
       slug: "sementes",
     },
     {
       titulo: "Produtos naturais",
-      capa: "/banner.png",
+      capa: "/produtosnaturais.jpeg",
       slug: "produtosnaturais",
     },
     {
       titulo: "Refrigerantes & sucos",
-      capa: "/banner.png",
+      capa: "/refris.jpeg",
       slug: "refris",
     },
     {
       titulo: "Óleo vegetal",
-      capa: "/banner.png",
+      capa: "/oleo.jpeg",
       slug: "oleo",
     },
     {
       titulo: "Goma pronta",
-      capa: "/banner.png",
+      capa: "/Goma.png",
       slug: "goma",
     },
     {
       titulo: "Salgadinho & snacks",
-      capa: "/banner.png",
+      capa: "/salgadinho.jpeg",
       slug: "salgadinhos",
     },
     {
       titulo: "Doces",
-      capa: "/banner.png",
+      capa: "/doces.jpeg",
       slug: "doces",
     },
     {
       titulo: "Potes",
-      capa: "/banner.png",
+      capa: "/pote.jpeg",
       slug: "potes",
     },
   ];
-  return <div className="card-categorias">
-    {categoria.map((cat) => (
-      <Link
-        to={`/${cat.slug}`}
-        key={cat.slug}
-        onClick={onSelectCategory}
-        style={{ backgroundImage: `url(${cat.capa})` }}
-      >
-        {cat.titulo}
-      </Link>
-    ))}
-  </div>;
+  return (
+    <div className="card-categorias">
+      {categoria.map((cat) => (
+        <Link
+          to={`/${cat.slug}`}
+          key={cat.slug}
+          onClick={onSelectCategory}
+          style={{ backgroundImage: `url(${cat.capa})` }}
+        >
+          {cat.titulo}
+        </Link>
+      ))}
+    </div>
+  );
 }
 
 export default Categorias;

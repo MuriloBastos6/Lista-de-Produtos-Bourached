@@ -4,6 +4,7 @@
       "id": "amendoa-w4-ts",
       "descricao": "AMENDOA  W4 T.S",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-w4-t.jpg",
       "variacoes": [
         {
           "codigo": "585",
@@ -18,6 +19,7 @@
       "id": "amendoa-w4-t",
       "descricao": "AMENDOA  W4 T.",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-w4-t.jpg",
       "variacoes": [
         {
           "codigo": "467",
@@ -32,6 +34,7 @@
       "id": "amendoa-confeitada-colorida",
       "descricao": "AMENDOA CONFEITADA COLORIDA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-confeita-colorida.jpg",
       "variacoes": [
         {
           "codigo": "3399",
@@ -53,6 +56,7 @@
       "id": "amendoa-crua",
       "descricao": "AMENDOA CRUA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CAJU_CRUA.jpg",
       "variacoes": [
         {
           "codigo": "2444",
@@ -81,6 +85,7 @@
       "id": "amendoa-confeitada-branca",
       "descricao": "AMENDOA CONFEITADA BRANCA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-confeitada-branca.jpg",
       "variacoes": [
         {
           "codigo": "3404",
@@ -102,6 +107,7 @@
       "id": "amendoa-defumada",
       "descricao": "AMENDOA DEFUMADA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-defumada.jpg",
       "variacoes": [
         {
           "codigo": "2445",
@@ -123,6 +129,7 @@
       "id": "amendoa-laminada",
       "descricao": "AMENDOA LAMINADA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-laminada.jpg",
       "variacoes": [
         {
           "codigo": "3866",
@@ -144,6 +151,7 @@
       "id": "amendoa-torrada-e-salgada",
       "descricao": "AMENDOA TORRADA E SALGADA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoa-torrada-salgada.jpg",
       "variacoes": [
         {
           "codigo": "2781",
@@ -165,6 +173,7 @@
       "id": "amendoim-caramelizado",
       "descricao": "AMENDOIM CARAMELIZADO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-sempele.jpg",
       "variacoes": [
         {
           "codigo": "3367",
@@ -193,6 +202,7 @@
       "id": "amendoim-caramelizado-c-coco",
       "descricao": "AMENDOIM CARAMELIZADO C/ COCO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "3368",
@@ -221,6 +231,7 @@
       "id": "amendoim-caramelizado-c-gergelim",
       "descricao": "AMENDOIM CARAMELIZADO C/ GERGELIM",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "3372",
@@ -242,6 +253,7 @@
       "id": "amendoim-caramelizado-c-mel",
       "descricao": "AMENDOIM CARAMELIZADO C/ MEL",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "3380",
@@ -263,6 +275,7 @@
       "id": "amendoim-casca-cru",
       "descricao": "AMENDOIM CASCA CRU",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-casca-cru.jpg",
       "variacoes": [
         {
           "codigo": "2263",
@@ -284,6 +297,7 @@
       "id": "amendoim-casca-torrado",
       "descricao": "AMENDOIM CASCA TORRADO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "465",
@@ -298,6 +312,7 @@
       "id": "amendoim-frito-c-alho-c-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2643",
@@ -312,6 +327,7 @@
       "id": "amendoim-frito-c-alho-s-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2644",
@@ -326,6 +342,7 @@
       "id": "amendoim-frito-c-sal-c-pele",
       "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2570",
@@ -340,6 +357,7 @@
       "id": "amendoim-frito-c-sal-spele",
       "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "3021",
@@ -354,6 +372,7 @@
       "id": "amendoim-hanner",
       "descricao": "AMENDOIM HANNER",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-sempele.jpg",
       "variacoes": [
         {
           "codigo": "2419",
@@ -375,6 +394,7 @@
       "id": "amendoim-hps",
       "descricao": "AMENDOIM HPS",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-sempele.jpg",
       "variacoes": [
         {
           "codigo": "2443",
@@ -396,6 +416,7 @@
       "id": "amendoim-ovinho",
       "descricao": "AMENDOIM OVINHO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-sempele.jpg",
       "variacoes": [
         {
           "codigo": "2283",
@@ -410,6 +431,7 @@
       "id": "amendoim-ovinho-salsa-e-cebola",
       "descricao": "AMENDOIM OVINHO SALSA E CEBOLA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/amendoim-ovinho-cebola-salsa.jpg",
       "variacoes": [
         {
           "codigo": "4255",
@@ -424,6 +446,7 @@
       "id": "amendoim-s-pele",
       "descricao": "AMENDOIM S/ PELE",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2629",
@@ -445,6 +468,7 @@
       "id": "amendoim-s-pele-torrado-c-sal",
       "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2453",
@@ -473,6 +497,7 @@
       "id": "amendoim-s-pele-torrado-s-sal",
       "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
       "variacoes": [
         {
           "codigo": "2451",
@@ -501,6 +526,7 @@
       "id": "castanha-de-caju-caramelizada",
       "descricao": "CASTANHA DE CAJU CARAMELIZADA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
       "variacoes": [
         {
           "codigo": "2508",
@@ -522,6 +548,7 @@
       "id": "castanha-de-caju-caramelizada-aa",
       "descricao": "CASTANHA DE CAJU CARAMELIZADA AÇAÍ",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
       "variacoes": [
         {
           "codigo": "4138",
@@ -536,6 +563,7 @@
       "id": "castanha-de-caju-w1-assada",
       "descricao": "CASTANHA DE CAJU W1 ASSADA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
       "variacoes": [
         {
           "codigo": "2524",
@@ -557,6 +585,7 @@
       "id": "castanha-de-caju-w1-crua",
       "descricao": "CASTANHA DE CAJU W1 CRUA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
       "variacoes": [
         {
           "codigo": "2523",
@@ -578,6 +607,7 @@
       "id": "castanha-de-caju-w1-t",
       "descricao": "CASTANHA DE CAJU W1 T.",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
       "variacoes": [
         {
           "codigo": "2271",
@@ -606,6 +636,7 @@
       "id": "castanha-de-caju-w1-ts",
       "descricao": "CASTANHA DE CAJU W1 T.S",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CAJU_W1_T_S.jpg",
       "variacoes": [
         {
           "codigo": "285",
@@ -634,6 +665,7 @@
       "id": "castanha-do-para-large-paratini",
       "descricao": "CASTANHA DO PARA LARGE PARATINI",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/PARA_LARGE.jpg",
       "variacoes": [
         {
           "codigo": "2252",
@@ -662,6 +694,7 @@
       "id": "castanha-do-para-media-paratini",
       "descricao": "CASTANHA DO PARA MEDIA PARATINI",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/PARA_MEDIA.jpg",
       "variacoes": [
         {
           "codigo": "2250",
@@ -683,6 +716,7 @@
       "id": "castanha-do-para-pequena-paratini",
       "descricao": "CASTANHA DO PARA PEQUENA PARATINI",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/PARA_PEQUENA.jpg",
       "variacoes": [
         {
           "codigo": "2340",
@@ -704,6 +738,7 @@
       "id": "castanha-do-para-quebrada-paratini",
       "descricao": "CASTANHA DO PARA QUEBRADA PARATINI",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/PARA_QUEBRADA.jpg",
       "variacoes": [
         {
           "codigo": "2251",
@@ -732,6 +767,7 @@
       "id": "crocante-bacon-balsamo",
       "descricao": "CROCANTE BACON BALSAMO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
       "variacoes": [
         {
           "codigo": "3818",
@@ -753,6 +789,7 @@
       "id": "crocante-c-salsa-balsamo",
       "descricao": "CROCANTE C/ SALSA BALSAMO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "2534",
@@ -774,6 +811,7 @@
       "id": "crocante-com-pimenta-balsamo",
       "descricao": "CROCANTE COM  PIMENTA BALSAMO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "2535",
@@ -795,6 +833,7 @@
       "id": "crocante-confeitado",
       "descricao": "CROCANTE CONFEITADO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_CONFEITADO.jpg",
       "variacoes": [
         {
           "codigo": "2537",
@@ -816,6 +855,7 @@
       "id": "crocante-japones-balsamo",
       "descricao": "CROCANTE JAPONES BALSAMO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
       "variacoes": [
         {
           "codigo": "2546",
@@ -837,6 +877,7 @@
       "id": "crocante-natural-balsamo",
       "descricao": "CROCANTE NATURAL BALSAMO",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
       "variacoes": [
         {
           "codigo": "2536",
@@ -858,6 +899,7 @@
       "id": "crocante-vp-bacon",
       "descricao": "CROCANTE VP BACON",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
       "variacoes": [
         {
           "codigo": "3815",
@@ -872,6 +914,7 @@
       "id": "crocante-vp-com-pimenta",
       "descricao": "CROCANTE VP COM PIMENTA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "3713",
@@ -886,6 +929,7 @@
       "id": "crocante-vp-com-salsa",
       "descricao": "CROCANTE VP COM SALSA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "3712",
@@ -900,6 +944,7 @@
       "id": "crocante-vp-japones",
       "descricao": "CROCANTE VP JAPONES",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
       "variacoes": [
         {
           "codigo": "3714",
@@ -914,6 +959,7 @@
       "id": "crocante-vp-natural",
       "descricao": "CROCANTE VP NATURAL",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
       "variacoes": [
         {
           "codigo": "3715",
@@ -928,6 +974,7 @@
       "id": "macadamia-torrada-ssal",
       "descricao": "MACADAMIA TORRADA S/SAL",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/MACADAMIA_S_SAL.jpg",
       "variacoes": [
         {
           "codigo": "4021",
@@ -949,6 +996,7 @@
       "id": "mix-de-castanhas",
       "descricao": "MIX DE CASTANHAS",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/MIX_CASTANHA.jpg",
       "variacoes": [
         {
           "codigo": "2852",
@@ -970,6 +1018,7 @@
       "id": "nozes-mariposa",
       "descricao": "NOZES MARIPOSA",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/MARIPOSA.jpg",
       "variacoes": [
         {
           "codigo": "2632",
@@ -991,6 +1040,7 @@
       "id": "nozes-quartos",
       "descricao": "NOZES QUARTOS",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/NOZES_QUARTS.jpg",
       "variacoes": [
         {
           "codigo": "2385",
@@ -1019,6 +1069,7 @@
       "id": "xerem-de-amendoim",
       "descricao": "XEREM DE AMENDOIM",
       "categoria": "amendoim",
+      "imagem": "/images/amendoim/XEREM_AMENDOIM.jpg",
       "variacoes": [
         {
           "codigo": "2424",
@@ -1049,6 +1100,7 @@
       "id": "arroz-agulha-br",
       "descricao": "ARROZ AGULHA BR",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_AGULHA_BR.jpg",
       "variacoes": [
         {
           "codigo": "2447",
@@ -1070,6 +1122,7 @@
       "id": "arroz-agulha-vmbr",
       "descricao": "ARROZ AGULHA VM/BR",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_AGULHA_VM_BR.jpg",
       "variacoes": [
         {
           "codigo": "2448",
@@ -1091,6 +1144,7 @@
       "id": "arroz-arboreo",
       "descricao": "ARROZ ARBOREO",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_ARBOREO.jpg",
       "variacoes": [
         {
           "codigo": "3560",
@@ -1112,6 +1166,7 @@
       "id": "arroz-cateto-br",
       "descricao": "ARROZ CATETO BR",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_CATETO_VM_BR.jpg",
       "variacoes": [
         {
           "codigo": "2456",
@@ -1133,6 +1188,7 @@
       "id": "arroz-cateto-vmbr",
       "descricao": "ARROZ CATETO VM/BR",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_CATETO_VM_BR.jpg",
       "variacoes": [
         {
           "codigo": "2457",
@@ -1154,6 +1210,7 @@
       "id": "arroz-preto",
       "descricao": "ARROZ PRETO",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_PRETO.jpg",
       "variacoes": [
         {
           "codigo": "2458",
@@ -1175,6 +1232,7 @@
       "id": "arroz-sete-graos",
       "descricao": "ARROZ SETE GRAOS",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_SETE_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "2455",
@@ -1196,6 +1254,7 @@
       "id": "arroz-vermelho",
       "descricao": "ARROZ VERMELHO",
       "categoria": "arroz",
+      "imagem": "/images/arroz/ARROZ_VERMELHO.jpg",
       "variacoes": [
         {
           "codigo": "2459",
@@ -1219,6 +1278,7 @@
       "id": "cer-choco-boll",
       "descricao": "CER. CHOCO BOLL",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_CHOCOBOLL.jpg",
       "variacoes": [
         {
           "codigo": "2314",
@@ -1233,6 +1293,7 @@
       "id": "cer-corn-flakes",
       "descricao": "CER. CORN FLAKES",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_CRONFLAKES.jpg",
       "variacoes": [
         {
           "codigo": "2313",
@@ -1247,6 +1308,7 @@
       "id": "cer-corn-honey-g10",
       "descricao": "CER. CORN HONEY G10",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_HONEY.jpg",
       "variacoes": [
         {
           "codigo": "2316",
@@ -1261,6 +1323,7 @@
       "id": "cer-corn-sugar-g01",
       "descricao": "CER. CORN SUGAR G01",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_SUGAR.jpg",
       "variacoes": [
         {
           "codigo": "2312",
@@ -1275,6 +1338,7 @@
       "id": "cer-corn-sugar-banana-g06",
       "descricao": "CER. CORN SUGAR BANANA G06",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_SUGAR_BANANA.jpg",
       "variacoes": [
         {
           "codigo": "3513",
@@ -1289,6 +1353,7 @@
       "id": "cer-corn-sugar-leite-cond-g05",
       "descricao": "CER. CORN SUGAR LEITE COND G05",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_SUGAR.jpg",
       "variacoes": [
         {
           "codigo": "2315",
@@ -1303,6 +1368,7 @@
       "id": "cer-corn-sugar-mascavo-g18",
       "descricao": "CER. CORN SUGAR MASCAVO G18",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_MASCAVO.jpg",
       "variacoes": [
         {
           "codigo": "3512",
@@ -1317,6 +1383,7 @@
       "id": "cer-fruit-rings-g07",
       "descricao": "CER. FRUIT RINGS G07",
       "categoria": "sucrilhos",
+      "imagem": "/images/sucrilhos/CER_FRUTI_RINGS.jpg",
       "variacoes": [
         {
           "codigo": "2311",
@@ -1333,6 +1400,7 @@
       "id": "anis-estrelado",
       "descricao": "ANIS ESTRELADO",
       "categoria": "cha",
+      "imagem": "/images/cha/ANIS_ESTRELADO.jpg",
       "variacoes": [
         {
           "codigo": "2832",
@@ -1354,6 +1422,7 @@
       "id": "ch-ashwagandha-em-p",
       "descricao": "CHÁ ASHWAGANDHA EM PÓ",
       "categoria": "cha",
+      "imagem": "/images/cha/CHA_ASHWAGANDHA.jpg",
       "variacoes": [
         {
           "codigo": "4337",
@@ -1368,6 +1437,7 @@
       "id": "ch-barbatimo",
       "descricao": "CHÁ BARBATIMÃO",
       "categoria": "cha",
+      "imagem": "/images/cha/BARBATIMAO.jpg",
       "variacoes": [
         {
           "codigo": "2625",
@@ -1396,6 +1466,7 @@
       "id": "ch-boldo-chile",
       "descricao": "CHÁ BOLDO CHILE",
       "categoria": "cha",
+      "imagem": "/images/cha/BOLDO_DO_CHILE.jpg",
       "variacoes": [
         {
           "codigo": "2573",
@@ -1417,6 +1488,7 @@
       "id": "ch-camomila",
       "descricao": "CHÁ CAMOMILA",
       "categoria": "cha",
+      "imagem": "/images/cha/CAMOMILA.jpg",
       "variacoes": [
         {
           "codigo": "2505",
@@ -1438,6 +1510,7 @@
       "id": "ch-canela-de-velho",
       "descricao": "CHÁ CANELA DE VELHO",
       "categoria": "cha",
+      "imagem": "/images/cha/CANELA_DE_VELHO.jpg",
       "variacoes": [
         {
           "codigo": "2557",
@@ -1459,6 +1532,7 @@
       "id": "ch-capim-limao",
       "descricao": "CHÁ CAPIM LIMAO",
       "categoria": "cha",
+      "imagem": "/images/cha/CAPIM_LIMAO.jpg",
       "variacoes": [
         {
           "codigo": "2540",
@@ -1480,6 +1554,7 @@
       "id": "ch-carqueja",
       "descricao": "CHÁ CARQUEJA",
       "categoria": "cha",
+      "imagem": "/images/cha/CARQUEJA.jpg",
       "variacoes": [
         {
           "codigo": "2692",
@@ -1501,6 +1576,7 @@
       "id": "ch-casca-de-aroeira",
       "descricao": "CHÁ CASCA DE AROEIRA",
       "categoria": "cha",
+      "imagem": "/images/cha/CASCA_DE_AROEIRA.jpg",
       "variacoes": [
         {
           "codigo": "3485",
@@ -1522,6 +1598,7 @@
       "id": "ch-cavalinha",
       "descricao": "CHÁ CAVALINHA",
       "categoria": "cha",
+      "imagem": "/images/cha/CAVALINHA.jpg",
       "variacoes": [
         {
           "codigo": "2780",
@@ -1543,6 +1620,7 @@
       "id": "catuaba-em-p",
       "descricao": "CATUABA EM PÓ",
       "categoria": "cha",
+      "imagem": "/images/cha/CATUABA.jpg",
       "variacoes": [
         {
           "codigo": "3406",
@@ -1557,6 +1635,7 @@
       "id": "ch-chapeu-de-couro",
       "descricao": "CHÁ CHAPEU DE COURO",
       "categoria": "cha",
+      "imagem": "/images/cha/CHAPEU_DE_COURO.jpg",
       "variacoes": [
         {
           "codigo": "3041",
@@ -1578,6 +1657,7 @@
       "id": "ch-dente-de-leao",
       "descricao": "CHÁ DENTE DE LEAO",
       "categoria": "cha",
+      "imagem": "/images/cha/DENTE_DE_LEAO.jpg",
       "variacoes": [
         {
           "codigo": "2559",
@@ -1599,6 +1679,7 @@
       "id": "ch-erva-doce-espanhola",
       "descricao": "CHÁ ERVA DOCE ESPANHOLA",
       "categoria": "cha",
+      "imagem": "/images/cha/ERVA_DOCE_ESP.jpg",
       "variacoes": [
         {
           "codigo": "2527",
@@ -1620,6 +1701,7 @@
       "id": "ch-erva-de-so-joo",
       "descricao": "CHÁ ERVA DE SÃO JOÃO",
       "categoria": "cha",
+      "imagem": "/images/cha/ERVA_DE_SAO_JOAO.jpg",
       "variacoes": [
         {
           "codigo": "3063",
@@ -1634,6 +1716,7 @@
       "id": "ch-espinheira-santa-grada",
       "descricao": "CHÁ ESPINHEIRA SANTA GRAÚDA",
       "categoria": "cha",
+      "imagem": "/images/cha/ESPINHEIRA_SANTA_GRAUDA.jpg",
       "variacoes": [
         {
           "codigo": "4250",
@@ -1655,6 +1738,7 @@
       "id": "ch-espinheira-santa",
       "descricao": "CHÁ ESPINHEIRA SANTA",
       "categoria": "cha",
+      "imagem": "/images/cha/ESPINHEIRA_SANTA.jpg",
       "variacoes": [
         {
           "codigo": "2560",
@@ -1676,6 +1760,7 @@
       "id": "ch-folha-de-amora",
       "descricao": "CHÁ FOLHA DE AMORA",
       "categoria": "cha",
+      "imagem": "/images/cha/FOLHA_DE_MARACUJA.jpg",
       "variacoes": [
         {
           "codigo": "2744",
@@ -1697,6 +1782,7 @@
       "id": "ch-folha-de-graviola",
       "descricao": "CHÁ FOLHA DE GRAVIOLA",
       "categoria": "cha",
+      "imagem": "/images/cha/FOLHA_DE_GRAVIOLA.jpg",
       "variacoes": [
         {
           "codigo": "4071",
@@ -1718,6 +1804,7 @@
       "id": "ch-folha-de-maracuja",
       "descricao": "CHÁ FOLHA DE MARACUJA",
       "categoria": "cha",
+      "imagem": "/images/cha/FOLHA_DE_MARACUJA.jpg",
       "variacoes": [
         {
           "codigo": "2697",
@@ -1739,6 +1826,7 @@
       "id": "ch-folha-de-oliveira",
       "descricao": "CHÁ FOLHA DE OLIVEIRA",
       "categoria": "cha",
+      "imagem": "/images/cha/FOLHA_DE_OLIVEIRA.jpg",
       "variacoes": [
         {
           "codigo": "2746",
@@ -1760,6 +1848,7 @@
       "id": "ch-ginkgo-biloba",
       "descricao": "CHÁ GINKGO BILOBA",
       "categoria": "cha",
+      "imagem": "/images/cha/cha-ginko-biloba.jpg",
       "variacoes": [
         {
           "codigo": "2713",
@@ -1774,6 +1863,7 @@
       "id": "ch-guaco",
       "descricao": "CHÁ GUACO",
       "categoria": "cha",
+      "imagem": "/images/cha/GUACO.jpg",
       "variacoes": [
         {
           "codigo": "3038",
@@ -1795,6 +1885,7 @@
       "id": "ch-hibisco-flor",
       "descricao": "CHÁ HIBISCO FLOR",
       "categoria": "cha",
+      "imagem": "/images/cha/HIBISCO.jpg",
       "variacoes": [
         {
           "codigo": "2436",
@@ -1823,6 +1914,7 @@
       "id": "ch-marapuama-p",
       "descricao": "CHÁ MARAPUAMA PÓ",
       "categoria": "cha",
+      "imagem": "/images/cha/MARAPUAMA.jpg",
       "variacoes": [
         {
           "codigo": "4319",
@@ -1844,6 +1936,7 @@
       "id": "ch-mate-verde",
       "descricao": "CHÁ MATE VERDE",
       "categoria": "cha",
+      "imagem": "/images/cha/MATE_VERDE.jpg",
       "variacoes": [
         {
           "codigo": "2563",
@@ -1865,6 +1958,7 @@
       "id": "ch-melissa",
       "descricao": "CHÁ MELISSA",
       "categoria": "cha",
+      "imagem": "/images/cha/MELISSA.jpg",
       "variacoes": [
         {
           "codigo": "2562",
@@ -1886,6 +1980,7 @@
       "id": "ch-mulungu",
       "descricao": "CHÁ MULUNGU",
       "categoria": "cha",
+      "imagem": "/images/cha/MULUNGU.jpg",
       "variacoes": [
         {
           "codigo": "2745",
@@ -1907,6 +2002,7 @@
       "id": "ora-pro-nobis-p",
       "descricao": "ORA PRO NOBIS PÓ",
       "categoria": "cha",
+      "imagem": "/images/cha/ORA_PRO_NOBIS.jpg",
       "variacoes": [
         {
           "codigo": "3769",
@@ -1928,6 +2024,7 @@
       "id": "ch-pata-de-vaca",
       "descricao": "CHÁ PATA DE VACA",
       "categoria": "cha",
+      "imagem": "/images/cha/PATA_DE_VACA.jpg",
       "variacoes": [
         {
           "codigo": "3034",
@@ -1949,6 +2046,7 @@
       "id": "ch-pau-tenente",
       "descricao": "CHÁ PAU TENENTE",
       "categoria": "cha",
+      "imagem": "/images/cha/PAU_TENENTE.jpg",
       "variacoes": [
         {
           "codigo": "2576",
@@ -1977,6 +2075,7 @@
       "id": "ch-pico-preto",
       "descricao": "CHÁ PICÃO PRETO",
       "categoria": "cha",
+      "imagem": "/images/cha/PICAO_PRETO.jpg",
       "variacoes": [
         {
           "codigo": "3032",
@@ -1991,6 +2090,7 @@
       "id": "ch-quebra-pedra",
       "descricao": "CHÁ QUEBRA PEDRA",
       "categoria": "cha",
+      "imagem": "/images/cha/QUEBRA_PEDRA.jpg",
       "variacoes": [
         {
           "codigo": "2743",
@@ -2019,6 +2119,7 @@
       "id": "ch-sene",
       "descricao": "CHÁ SENE",
       "categoria": "cha",
+      "imagem": "/images/cha/SENE.jpg",
       "variacoes": [
         {
           "codigo": "2558",
@@ -2047,6 +2148,7 @@
       "id": "ch-unha-de-gato-rasurada",
       "descricao": "CHÁ UNHA DE GATO RASURADA",
       "categoria": "cha",
+      "imagem": "/images/cha/UNHA_DE_GATO_RASURADA.jpg",
       "variacoes": [
         {
           "codigo": "2561",
@@ -2068,6 +2170,7 @@
       "id": "ch-uxi-amarelo",
       "descricao": "CHÁ UXI AMARELO",
       "categoria": "cha",
+      "imagem": "/images/cha/UXI_AMARELO.jpg",
       "variacoes": [
         {
           "codigo": "4226",
@@ -2091,6 +2194,7 @@
       "id": "abobora-em-p",
       "descricao": "ABOBORA EM PÓ",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/ABOBORA_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4295",
@@ -2105,6 +2209,7 @@
       "id": "farinha-acaraje",
       "descricao": "FARINHA ACARAJE",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "2490",
@@ -2126,6 +2231,7 @@
       "id": "farinha-baianinha-grossa",
       "descricao": "FARINHA BAIANINHA GROSSA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/baianinha-grossa.jpg",
       "variacoes": [
         {
           "codigo": "4552",
@@ -2140,6 +2246,7 @@
       "id": "farinha-baianinha-fina",
       "descricao": "FARINHA BAIANINHA FINA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/baianinha-fina.jpg",
       "variacoes": [
         {
           "codigo": "3893",
@@ -2154,6 +2261,7 @@
       "id": "farinha-d-agua-ce",
       "descricao": "FARINHA D AGUA CE",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/d-agua-ce.jpg",
       "variacoes": [
         {
           "codigo": "2518",
@@ -2175,6 +2283,7 @@
       "id": "farinha-d-agua-pa",
       "descricao": "FARINHA D AGUA PA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/d-agua-pa.jpg",
       "variacoes": [
         {
           "codigo": "2517",
@@ -2196,6 +2305,7 @@
       "id": "farinha-de-amendoa",
       "descricao": "FARINHA DE AMENDOA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "3088",
@@ -2217,6 +2327,7 @@
       "id": "farinha-de-amendoim",
       "descricao": "FARINHA DE AMENDOIM",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "2489",
@@ -2238,6 +2349,7 @@
       "id": "farinha-de-arroz-branco",
       "descricao": "FARINHA DE ARROZ BRANCO",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/ARROZ_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "2437",
@@ -2266,6 +2378,7 @@
       "id": "farinha-de-arroz-integral",
       "descricao": "FARINHA DE ARROZ INTEGRAL",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/ARROZ_INTEGRAL.jpg",
       "variacoes": [
         {
           "codigo": "2485",
@@ -2294,6 +2407,7 @@
       "id": "farinha-de-aveia-n6",
       "descricao": "FARINHA DE AVEIA Nº6",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/DE_AVEIA.jpg",
       "variacoes": [
         {
           "codigo": "2256",
@@ -2315,6 +2429,7 @@
       "id": "farinha-de-banana-verde",
       "descricao": "FARINHA DE BANANA VERDE",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/BANANA_VERDE.jpg",
       "variacoes": [
         {
           "codigo": "3398",
@@ -2336,6 +2451,7 @@
       "id": "farinha-de-berinjela",
       "descricao": "FARINHA DE BERINJELA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "3424",
@@ -2357,6 +2473,7 @@
       "id": "farinha-de-batata-doce",
       "descricao": "FARINHA DE BATATA DOCE",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/BATATA_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "3718",
@@ -2378,6 +2495,7 @@
       "id": "farinha-de-beterraba",
       "descricao": "FARINHA DE BETERRABA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "4117",
@@ -2406,6 +2524,7 @@
       "id": "farinha-de-chia",
       "descricao": "FARINHA DE CHIA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "4317",
@@ -2427,6 +2546,7 @@
       "id": "farinha-de-coco",
       "descricao": "FARINHA DE COCO",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "3078",
@@ -2448,6 +2568,7 @@
       "id": "farinha-de-copioba",
       "descricao": "FARINHA DE COPIOBA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "2538",
@@ -2469,6 +2590,7 @@
       "id": "farinha-de-gengibre",
       "descricao": "FARINHA DE GENGIBRE",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "2811",
@@ -2490,6 +2612,7 @@
       "id": "farinha-de-gro-de-bico",
       "descricao": "FARINHA DE GRÃO DE BICO",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/GRAO_DE_BICO.jpg",
       "variacoes": [
         {
           "codigo": "3722",
@@ -2511,6 +2634,7 @@
       "id": "farinha-de-linhaca-dourada",
       "descricao": "FARINHA DE LINHACA DOURADA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/LINHACA_DOURADA.jpg",
       "variacoes": [
         {
           "codigo": "415",
@@ -2525,6 +2649,7 @@
       "id": "farinha-de-linhaca-marrom",
       "descricao": "FARINHA DE LINHACA MARROM",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/LINHAÇA_MARROM.jpg",
       "variacoes": [
         {
           "codigo": "93",
@@ -2539,6 +2664,7 @@
       "id": "farinha-de-mandioca-fina",
       "descricao": "FARINHA DE MANDIOCA FINA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/MANDIOCA_FINA.jpg",
       "variacoes": [
         {
           "codigo": "2475",
@@ -2560,6 +2686,7 @@
       "id": "farinha-de-mandioca-grossa",
       "descricao": "FARINHA DE MANDIOCA GROSSA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/MANDIOCA_GROSSA.jpg",
       "variacoes": [
         {
           "codigo": "2476",
@@ -2581,6 +2708,7 @@
       "id": "farinha-de-mandioca-torrada",
       "descricao": "FARINHA DE MANDIOCA TORRADA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/MANDIOCA_TORRADA.jpg",
       "variacoes": [
         {
           "codigo": "2477",
@@ -2602,6 +2730,7 @@
       "id": "farinha-de-maracuja",
       "descricao": "FARINHA DE MARACUJA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
       "variacoes": [
         {
           "codigo": "3706",
@@ -2623,6 +2752,7 @@
       "id": "farinha-de-milho-amarela",
       "descricao": "FARINHA DE MILHO AMARELA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/MILHO_AMARELA.jpg",
       "variacoes": [
         {
           "codigo": "2246",
@@ -2651,6 +2781,7 @@
       "id": "farinha-de-milho-branca",
       "descricao": "FARINHA DE MILHO BRANCA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/MILHO_BRANCA.jpg",
       "variacoes": [
         {
           "codigo": "258",
@@ -2679,6 +2810,7 @@
       "id": "farinha-de-rosca-marrocos",
       "descricao": "FARINHA DE ROSCA MARROCOS",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "2520",
@@ -2700,6 +2832,7 @@
       "id": "farinha-de-rosca-agmar",
       "descricao": "FARINHA DE ROSCA AGMAR",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "21",
@@ -2714,6 +2847,7 @@
       "id": "farinha-de-trigo-integral",
       "descricao": "FARINHA DE TRIGO INTEGRAL",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/TRIGO INTEGRAL.jpg",
       "variacoes": [
         {
           "codigo": "2513",
@@ -2735,6 +2869,7 @@
       "id": "farinha-fina-pernambuco",
       "descricao": "FARINHA FINA PERNAMBUCO",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FINA_PERNAMBUCO.jpg",
       "variacoes": [
         {
           "codigo": "3114",
@@ -2756,6 +2891,7 @@
       "id": "farinha-panko-karui",
       "descricao": "FARINHA PANKO KARUI",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/PANKO.jpg",
       "variacoes": [
         {
           "codigo": "4086",
@@ -2770,6 +2906,7 @@
       "id": "farinha-quebradinha",
       "descricao": "FARINHA QUEBRADINHA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/QUEBRADINHA.jpg",
       "variacoes": [
         {
           "codigo": "3115",
@@ -2791,6 +2928,7 @@
       "id": "farinha-de-uva",
       "descricao": "FARINHA DE UVA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
       "variacoes": [
         {
           "codigo": "4100",
@@ -2812,6 +2950,7 @@
       "id": "farinha-de-semente-de-abbora",
       "descricao": "FARINHA DE SEMENTE DE ABÓBORA",
       "categoria": "farinhas",
+      "imagem": "/images/farinhas/SEMENTE_DE_ABOBORA.jpg",
       "variacoes": [
         {
           "codigo": "4281",
@@ -2835,6 +2974,7 @@
       "id": "canjica-amarela",
       "descricao": "CANJICA AMARELA",
       "categoria": "graos",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
       "variacoes": [
         {
           "codigo": "2471",
@@ -2856,6 +2996,7 @@
       "id": "canjica-branca",
       "descricao": "CANJICA BRANCA",
       "categoria": "graos",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
       "variacoes": [
         {
           "codigo": "2472",
@@ -2877,6 +3018,7 @@
       "id": "canjiquinha-g-2",
       "descricao": "CANJIQUINHA G-2",
       "categoria": "graos",
+      "imagem": "/images/graos/CANJIQUINHA_G-2.jpg",
       "variacoes": [
         {
           "codigo": "2637",
@@ -2898,6 +3040,7 @@
       "id": "canjiquinha-g-3",
       "descricao": "CANJIQUINHA G-3",
       "categoria": "graos",
+      "imagem": "/images/graos/CANJIQUINHA_G-3.jpg",
       "variacoes": [
         {
           "codigo": "2501",
@@ -2919,6 +3062,7 @@
       "id": "canjiquinha-g-4",
       "descricao": "CANJIQUINHA G-4",
       "categoria": "graos",
+      "imagem": "/images/graos/CANJIQUINHA_G-4.jpg",
       "variacoes": [
         {
           "codigo": "2726",
@@ -2940,6 +3084,7 @@
       "id": "cevada-em-gro",
       "descricao": "CEVADA EM GRÃO",
       "categoria": "graos",
+      "imagem": "/images/graos/CEVADA_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "4222",
@@ -2961,6 +3106,7 @@
       "id": "ervilha-inteira",
       "descricao": "ERVILHA INTEIRA",
       "categoria": "graos",
+      "imagem": "/images/graos/ERVILHA_INTERIRA.jpg",
       "variacoes": [
         {
           "codigo": "2580",
@@ -2982,6 +3128,7 @@
       "id": "ervilha-partida",
       "descricao": "ERVILHA PARTIDA",
       "categoria": "graos",
+      "imagem": "/images/graos/ERVILHA_PARTIDA.jpg",
       "variacoes": [
         {
           "codigo": "210",
@@ -3010,6 +3157,7 @@
       "id": "fava-argentina",
       "descricao": "FAVA ARGENTINA",
       "categoria": "graos",
+      "imagem": "/images/graos/FAVA_ARGENTINA.jpg",
       "variacoes": [
         {
           "codigo": "3363",
@@ -3031,6 +3179,7 @@
       "id": "fava-manteiga",
       "descricao": "FAVA  MANTEIGA",
       "categoria": "graos",
+      "imagem": "/images/graos/FAVA_MANTEIGA.jpg",
       "variacoes": [
         {
           "codigo": "34",
@@ -3052,6 +3201,7 @@
       "id": "fava-branca",
       "descricao": "FAVA BRANCA",
       "categoria": "graos",
+      "imagem": "/images/graos/FAVA_BRANCA.jpg",
       "variacoes": [
         {
           "codigo": "114",
@@ -3073,6 +3223,7 @@
       "id": "fava-preta",
       "descricao": "FAVA PRETA",
       "categoria": "graos",
+      "imagem": "/images/graos/FAVA_PRETA.jpg",
       "variacoes": [
         {
           "codigo": "2241",
@@ -3094,6 +3245,7 @@
       "id": "fava-vermelha",
       "descricao": "FAVA VERMELHA",
       "categoria": "graos",
+      "imagem": "/images/graos/FAVA_VERMELHA.jpg",
       "variacoes": [
         {
           "codigo": "23",
@@ -3115,6 +3267,7 @@
       "id": "feijo-andu",
       "descricao": "FEIJÃO ANDU",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_ANDU.jpg",
       "variacoes": [
         {
           "codigo": "214",
@@ -3136,6 +3289,7 @@
       "id": "feijo-azuki",
       "descricao": "FEIJÃO AZUKI",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_AZUKI.jpg",
       "variacoes": [
         {
           "codigo": "68",
@@ -3157,6 +3311,7 @@
       "id": "feijo-bolinha",
       "descricao": "FEIJÃO BOLINHA",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_BOLINHA.jpg",
       "variacoes": [
         {
           "codigo": "2302",
@@ -3178,6 +3333,7 @@
       "id": "feijo-branco",
       "descricao": "FEIJÃO BRANCO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "2464",
@@ -3206,6 +3362,7 @@
       "id": "feijo-carioca",
       "descricao": "FEIJÃO CARIOCA",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_CARIOCA.jpg",
       "variacoes": [
         {
           "codigo": "2465",
@@ -3227,6 +3384,7 @@
       "id": "feijo-de-corda",
       "descricao": "FEIJÃO DE CORDA",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_DE_CORDA.jpg",
       "variacoes": [
         {
           "codigo": "65",
@@ -3255,6 +3413,7 @@
       "id": "feijo-fradinho",
       "descricao": "FEIJÃO FRADINHO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_FRADINHO.jpg",
       "variacoes": [
         {
           "codigo": "141",
@@ -3276,6 +3435,7 @@
       "id": "feijo-fradinho-quebrado",
       "descricao": "FEIJÃO FRADINHO QUEBRADO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_FRADINHO.jpg",
       "variacoes": [
         {
           "codigo": "2543",
@@ -3297,6 +3457,7 @@
       "id": "feijo-jalo",
       "descricao": "FEIJÃO JALO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_JALO.jpg",
       "variacoes": [
         {
           "codigo": "35",
@@ -3318,6 +3479,7 @@
       "id": "feijo-manteiga",
       "descricao": "FEIJÃO MANTEIGA",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_MANTEIGA.jpg",
       "variacoes": [
         {
           "codigo": "2466",
@@ -3339,6 +3501,7 @@
       "id": "feijo-moyashi",
       "descricao": "FEIJÃO MOYASHI",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_MOYASHI.jpg",
       "variacoes": [
         {
           "codigo": "2667",
@@ -3367,6 +3530,7 @@
       "id": "feijo-preto",
       "descricao": "FEIJÃO PRETO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_PRETO.jpg",
       "variacoes": [
         {
           "codigo": "2335",
@@ -3395,6 +3559,7 @@
       "id": "feijo-rajado-arg-i",
       "descricao": "FEIJÃO RAJADO ARG I",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_RAJADO.jpg",
       "variacoes": [
         {
           "codigo": "3447",
@@ -3416,6 +3581,7 @@
       "id": "feijo-rosinha",
       "descricao": "FEIJÃO ROSINHA",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_ROSINHA.jpg",
       "variacoes": [
         {
           "codigo": "136",
@@ -3437,6 +3603,7 @@
       "id": "feijo-roxo",
       "descricao": "FEIJÃO ROXÃO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_ROXAo.jpg",
       "variacoes": [
         {
           "codigo": "2319",
@@ -3458,6 +3625,7 @@
       "id": "feijo-roxinho",
       "descricao": "FEIJÃO ROXINHO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_ROXINHO.jpg",
       "variacoes": [
         {
           "codigo": "2468",
@@ -3479,6 +3647,7 @@
       "id": "feijo-vermelho",
       "descricao": "FEIJÃO VERMELHO",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_VERMELHO.jpg",
       "variacoes": [
         {
           "codigo": "2469",
@@ -3507,6 +3676,7 @@
       "id": "feijo-vinagre",
       "descricao": "FEIJÃO VINAGRE",
       "categoria": "graos",
+      "imagem": "/images/graos/FEIJAO_VINAGRE.jpg",
       "variacoes": [
         {
           "codigo": "3007",
@@ -3528,6 +3698,7 @@
       "id": "gro-de-bico-12mm",
       "descricao": "GRÃO DE BICO 12MM",
       "categoria": "graos",
+      "imagem": "/images/graos/GRAO_DE_BICO_12MM.jpg",
       "variacoes": [
         {
           "codigo": "2320",
@@ -3549,6 +3720,7 @@
       "id": "gro-de-bico-9mm",
       "descricao": "GRÃO DE BICO 9MM",
       "categoria": "graos",
+      "imagem": "/images/graos/GRAO_DE_BICO_9MM.jpg",
       "variacoes": [
         {
           "codigo": "2321",
@@ -3570,6 +3742,7 @@
       "id": "lentilha",
       "descricao": "LENTILHA",
       "categoria": "graos",
+      "imagem": "/images/graos/LENTILHA.jpg",
       "variacoes": [
         {
           "codigo": "2322",
@@ -3598,6 +3771,7 @@
       "id": "lentilha-vermelha",
       "descricao": "LENTILHA VERMELHA",
       "categoria": "graos",
+      "imagem": "/images/graos/LENTILHA_VERMELHA.jpg",
       "variacoes": [
         {
           "codigo": "2488",
@@ -3626,6 +3800,7 @@
       "id": "milho-comum",
       "descricao": "MILHO COMUM",
       "categoria": "graos",
+      "imagem": "/images/graos/MILHO_COMUM.jpg",
       "variacoes": [
         {
           "codigo": "520",
@@ -3640,6 +3815,7 @@
       "id": "milho-mostarda-e-mel",
       "descricao": "MILHO MOSTARDA E MEL",
       "categoria": "graos",
+      "imagem": "/images/graos/MILHO_MOSTARDE_MEL.jpg",
       "variacoes": [
         {
           "codigo": "2460",
@@ -3675,6 +3851,7 @@
       "id": "milho-pipoca-zanella",
       "descricao": "MILHO PIPOCA ZANELLA",
       "categoria": "graos",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
       "variacoes": [
         {
           "codigo": "3110",
@@ -3689,6 +3866,7 @@
       "id": "milho-pipoca-prego",
       "descricao": "MILHO PIPOCA PREGO",
       "categoria": "graos",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA_PREGO.jpg",
       "variacoes": [
         {
           "codigo": "135",
@@ -3703,6 +3881,7 @@
       "id": "milho-pipoca",
       "descricao": "MILHO PIPOCA",
       "categoria": "graos",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
       "variacoes": [
         {
           "codigo": "2463",
@@ -3717,6 +3896,7 @@
       "id": "soja-em-gros",
       "descricao": "SOJA EM GRÃOS",
       "categoria": "graos",
+      "imagem": "/images/graos/SOJA_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "51",
@@ -3745,6 +3925,7 @@
       "id": "trigo-em-gro",
       "descricao": "TRIGO EM GRÃO",
       "categoria": "graos",
+      "imagem": "/images/graos/TRIGO_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "4224",
@@ -3768,6 +3949,7 @@
       "id": "amido-de-milho-integrada",
       "descricao": "AMIDO DE MILHO INTEGRADA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
       "variacoes": [
         {
           "codigo": "8",
@@ -3782,6 +3964,7 @@
       "id": "amido-de-milho-bv-foods",
       "descricao": "AMIDO DE MILHO BV FOODS",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_BV_FOODS.jpg",
       "variacoes": [
         {
           "codigo": "3864",
@@ -3796,6 +3979,7 @@
       "id": "fecula-de-batata",
       "descricao": "FECULA DE BATATA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_BATATA.jpg",
       "variacoes": [
         {
           "codigo": "2529",
@@ -3817,6 +4001,7 @@
       "id": "fecula-mandioca-brasil",
       "descricao": "FECULA MANDIOCA BRASIL",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_MANDIOCA.jpg",
       "variacoes": [
         {
           "codigo": "27",
@@ -3831,6 +4016,7 @@
       "id": "fecula-mandioca-brasom",
       "descricao": "FECULA MANDIOCA BRASOM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FECULA_DE_MANIDOCA_BRASOM.jpg",
       "variacoes": [
         {
           "codigo": "2255",
@@ -3845,6 +4031,7 @@
       "id": "fibra-de-maa-integral",
       "descricao": "FIBRA DE MAÇA INTEGRAL",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_MACA_INTEGRAL.jpg",
       "variacoes": [
         {
           "codigo": "3650",
@@ -3866,6 +4053,7 @@
       "id": "fibra-de-trigo-fina",
       "descricao": "FIBRA DE TRIGO FINA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_FINA.jpg",
       "variacoes": [
         {
           "codigo": "3386",
@@ -3880,6 +4068,7 @@
       "id": "fibra-de-trigo-grossa",
       "descricao": "FIBRA DE TRIGO GROSSA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FIBRA_DE_TRIGO_GROSSA.jpg",
       "variacoes": [
         {
           "codigo": "3385",
@@ -3894,6 +4083,7 @@
       "id": "fuba-italiano",
       "descricao": "FUBA ITALIANO",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
       "variacoes": [
         {
           "codigo": "2473",
@@ -3915,6 +4105,7 @@
       "id": "fuba-mimoso-integrada",
       "descricao": "FUBA MIMOSO INTEGRADA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
       "variacoes": [
         {
           "codigo": "2474",
@@ -3936,6 +4127,7 @@
       "id": "floco-de-milho",
       "descricao": "FLOCÃO DE MILHO",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO.jpg",
       "variacoes": [
         {
           "codigo": "3086",
@@ -3957,6 +4149,7 @@
       "id": "flocao-de-arroz-coringa",
       "descricao": "FLOCAO DE ARROZ CORINGA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DEA_ARROZ_CORINGA.jpg",
       "variacoes": [
         {
           "codigo": "4558",
@@ -3971,6 +4164,7 @@
       "id": "floco-de-milho-coringa",
       "descricao": "FLOCÃO DE MILHO CORINGA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/FLOCAO_DE_MILHO_CORINGA.jpg",
       "variacoes": [
         {
           "codigo": "4048",
@@ -3985,6 +4179,7 @@
       "id": "gelatina-incolor",
       "descricao": "GELATINA INCOLOR",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/GELATINA_INCOLOR.jpg",
       "variacoes": [
         {
           "codigo": "2525",
@@ -4006,6 +4201,7 @@
       "id": "levedo-de-cerveja",
       "descricao": "LEVEDO DE CERVEJA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/LEVEDO_DE_CERVEJA.jpg",
       "variacoes": [
         {
           "codigo": "3394",
@@ -4027,6 +4223,7 @@
       "id": "polvilho-azedo-brasil",
       "descricao": "POLVILHO AZEDO BRASIL",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/POLVILHO_AZEDO.jpg",
       "variacoes": [
         {
           "codigo": "47",
@@ -4041,6 +4238,7 @@
       "id": "polvilho-doce-olinda",
       "descricao": "POLVILHO DOCE OLINDA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/POLVILHO_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "46",
@@ -4055,6 +4253,7 @@
       "id": "prot-text-soja-bacon",
       "descricao": "PROT TEXT SOJA BACON",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_TEXT_SOJA_BACON.jpg",
       "variacoes": [
         {
           "codigo": "3100",
@@ -4069,6 +4268,7 @@
       "id": "prot-text-soja-gran-car-10mm",
       "descricao": "PROT TEXT SOJA GRAN CAR 10MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_10MM.jpg",
       "variacoes": [
         {
           "codigo": "3746",
@@ -4083,6 +4283,7 @@
       "id": "prot-text-soja-gran-car-35mm",
       "descricao": "PROT TEXT SOJA GRAN CAR 35MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_35MM.jpg",
       "variacoes": [
         {
           "codigo": "3639",
@@ -4097,6 +4298,7 @@
       "id": "prot-text-soja-gran-car-48mm",
       "descricao": "PROT TEXT SOJA GRAN CAR 4.8MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_CAR_4,8MM.jpg",
       "variacoes": [
         {
           "codigo": "2415",
@@ -4111,6 +4313,7 @@
       "id": "prot-text-soja-gran-nat-10mm",
       "descricao": "PROT TEXT SOJA GRAN NAT 10MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_10MM.jpg",
       "variacoes": [
         {
           "codigo": "3747",
@@ -4125,6 +4328,7 @@
       "id": "prot-text-soja-gran-nat-35mm",
       "descricao": "PROT TEXT SOJA GRAN NAT 35MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_35MM.jpg",
       "variacoes": [
         {
           "codigo": "3640",
@@ -4139,6 +4343,7 @@
       "id": "prot-text-soja-gran-nat-48mm",
       "descricao": "PROT TEXT SOJA GRAN NAT 4.8MM",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/PROT_NAT_4,8MM.jpg",
       "variacoes": [
         {
           "codigo": "2416",
@@ -4153,6 +4358,7 @@
       "id": "sagu",
       "descricao": "SAGU",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/SAGU.jpg",
       "variacoes": [
         {
           "codigo": "2533",
@@ -4174,6 +4380,7 @@
       "id": "tapioca-granulada",
       "descricao": "TAPIOCA GRANULADA",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/TAPIOCA_GRANULADA.jpg",
       "variacoes": [
         {
           "codigo": "2470",
@@ -4195,6 +4402,7 @@
       "id": "trigo-p-kibe-marrocos",
       "descricao": "TRIGO P/ KIBE MARROCOS",
       "categoria": "panificacao",
+      "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
       "variacoes": [
         {
           "codigo": "2435",
@@ -4218,6 +4426,7 @@
       "id": "alho-frito",
       "descricao": "ALHO FRITO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/ALHO_FRITO.jpg",
       "variacoes": [
         {
           "codigo": "3383",
@@ -4239,6 +4448,7 @@
       "id": "alho-granulado",
       "descricao": "ALHO GRANULADO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/ALHO_GRANULADO.jpg",
       "variacoes": [
         {
           "codigo": "3381",
@@ -4260,6 +4470,7 @@
       "id": "alho-moido",
       "descricao": "ALHO MOIDO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/ALHO_MOIDO.jpg",
       "variacoes": [
         {
           "codigo": "3498",
@@ -4281,6 +4492,7 @@
       "id": "amaciante-de-carne",
       "descricao": "AMACIANTE DE CARNE",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/AMACIANTE_DE_CARNE.jpg",
       "variacoes": [
         {
           "codigo": "4107",
@@ -4302,6 +4514,7 @@
       "id": "bicarbonato-de-sodio-raudi",
       "descricao": "BICARBONATO DE SODIO RAUDI",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_RAUDI.jpg",
       "variacoes": [
         {
           "codigo": "2222",
@@ -4316,6 +4529,7 @@
       "id": "bicarbonato-de-sodio-solvay",
       "descricao": "BICARBONATO DE SODIO SOLVAY",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
       "variacoes": [
         {
           "codigo": "3572",
@@ -4330,6 +4544,7 @@
       "id": "canela-casca-6-cm",
       "descricao": "CANELA CASCA 6 CM",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
       "variacoes": [
         {
           "codigo": "2522",
@@ -4351,6 +4566,7 @@
       "id": "canela-em-po",
       "descricao": "CANELA EM PO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4108",
@@ -4372,6 +4588,7 @@
       "id": "cebola-moida",
       "descricao": "CEBOLA MOIDA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CEBOLA_MOIDA.jpg",
       "variacoes": [
         {
           "codigo": "3499",
@@ -4393,6 +4610,7 @@
       "id": "cravo-da-india",
       "descricao": "CRAVO DA INDIA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
       "variacoes": [
         {
           "codigo": "2615",
@@ -4414,6 +4632,7 @@
       "id": "cravo-em-p",
       "descricao": "CRAVO EM PÓ",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CRAVO_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4283",
@@ -4428,6 +4647,7 @@
       "id": "creme-de-cebola",
       "descricao": "CREME DE CEBOLA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/CREME_DE_CEBOLA.jpg",
       "variacoes": [
         {
           "codigo": "3493",
@@ -4449,6 +4669,7 @@
       "id": "tempero-ervas-finas",
       "descricao": "TEMPERO ERVAS FINAS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ERVAS_FINAS.jpg",
       "variacoes": [
         {
           "codigo": "4394",
@@ -4470,6 +4691,7 @@
       "id": "tempero-limo-e-ervas-finas",
       "descricao": "TEMPERO LIMÃO E ERVAS FINAS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_LIMAO_ERVAS_FINAS.jpg",
       "variacoes": [
         {
           "codigo": "3497",
@@ -4491,6 +4713,7 @@
       "id": "tempero-oregano-argentino",
       "descricao": "TEMPERO OREGANO ARGENTINO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/OREGANO_ARGENTINO.jpg",
       "variacoes": [
         {
           "codigo": "2499",
@@ -4512,6 +4735,7 @@
       "id": "sal-do-himalaia-fino",
       "descricao": "SAL DO HIMALAIA FINO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_DO_HIMALAIA_FINO.jpg",
       "variacoes": [
         {
           "codigo": "580",
@@ -4533,6 +4757,7 @@
       "id": "sal-do-himalaia-grosso",
       "descricao": "SAL DO HIMALAIA GROSSO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_DO_HIMALAIA_GROSSO.jpg",
       "variacoes": [
         {
           "codigo": "581",
@@ -4547,6 +4772,7 @@
       "id": "sal-marinho-integral-ouromar",
       "descricao": "SAL MARINHO INTEGRAL OUROMAR",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_MARINHO_OUROMAR.jpg",
       "variacoes": [
         {
           "codigo": "4029",
@@ -4561,6 +4787,7 @@
       "id": "sal-marinho-integral-ouromar-churrasco",
       "descricao": "SAL MARINHO INTEGRAL OUROMAR CHURRASCO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_OUROMAR_CHURRASCO.jpg",
       "variacoes": [
         {
           "codigo": "4203",
@@ -4575,6 +4802,7 @@
       "id": "sal-marinho-integral-al-andalus",
       "descricao": "SAL MARINHO INTEGRAL AL ANDALUS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_MARINHO_ANDALUS.jpg",
       "variacoes": [
         {
           "codigo": "3936",
@@ -4589,6 +4817,7 @@
       "id": "sal-marinho-integral-serto",
       "descricao": "SAL MARINHO INTEGRAL SERTÃO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_MARINHO_SERTAO.jpg",
       "variacoes": [
         {
           "codigo": "4302",
@@ -4603,6 +4832,7 @@
       "id": "sal-marinho-cimsal",
       "descricao": "SAL MARINHO CIMSAL",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_MARINHO.jpg",
       "variacoes": [
         {
           "codigo": "3027",
@@ -4624,6 +4854,7 @@
       "id": "sal-marinho-cimsal-grosso",
       "descricao": "SAL MARINHO CIMSAL GROSSO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/SAL_MARINHO_GROSSO.jpg",
       "variacoes": [
         {
           "codigo": "3514",
@@ -4645,6 +4876,7 @@
       "id": "tempero-acafro",
       "descricao": "TEMPERO ACAFRÃO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ACAFRAO.jpg",
       "variacoes": [
         {
           "codigo": "3139",
@@ -4666,6 +4898,7 @@
       "id": "tempero-alecrim",
       "descricao": "TEMPERO ALECRIM",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ALECRIM.jpg",
       "variacoes": [
         {
           "codigo": "2592",
@@ -4687,6 +4920,7 @@
       "id": "tempero-ana-maria",
       "descricao": "TEMPERO ANA  MARIA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ANA_MARIA.jpg",
       "variacoes": [
         {
           "codigo": "2597",
@@ -4701,6 +4935,7 @@
       "id": "tempero-ana-maria-sem-sdio",
       "descricao": "TEMPERO ANA MARIA SEM SÓDIO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ANA_MARIA.jpg",
       "variacoes": [
         {
           "codigo": "4174",
@@ -4715,6 +4950,7 @@
       "id": "tempero-baiano-em-gros",
       "descricao": "TEMPERO BAIANO EM GRÃOS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "4176",
@@ -4729,6 +4965,7 @@
       "id": "tempero-baiano-c-pimenta",
       "descricao": "TEMPERO BAIANO C/ PIMENTA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_SEM_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "2686",
@@ -4743,6 +4980,7 @@
       "id": "tempero-baiano-s-pimenta",
       "descricao": "TEMPERO BAIANO S/ PIMENTA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_BAIANO_SEM_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "2687",
@@ -4757,6 +4995,7 @@
       "id": "tempero-brasileirinho",
       "descricao": "TEMPERO BRASILEIRINHO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_BRASILEIRINHO.jpg",
       "variacoes": [
         {
           "codigo": "4496",
@@ -4771,6 +5010,7 @@
       "id": "tempero-bife-acebolado",
       "descricao": "TEMPERO BIFE ACEBOLADO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_BIFE_ACEBOLADO.jpg",
       "variacoes": [
         {
           "codigo": "4061",
@@ -4785,6 +5025,7 @@
       "id": "tempero-caipira",
       "descricao": "TEMPERO CAIPIRA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CAIPIRA.jpg",
       "variacoes": [
         {
           "codigo": "4166",
@@ -4799,6 +5040,7 @@
       "id": "tempero-caldo-de-bacon",
       "descricao": "TEMPERO CALDO DE BACON",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_BACON.jpg",
       "variacoes": [
         {
           "codigo": "2681",
@@ -4813,6 +5055,7 @@
       "id": "tempero-caldo-de-carne",
       "descricao": "TEMPERO CALDO DE CARNE",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_CARNE.jpg",
       "variacoes": [
         {
           "codigo": "2682",
@@ -4827,6 +5070,7 @@
       "id": "tempero-caldo-de-galinha",
       "descricao": "TEMPERO CALDO DE GALINHA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CALDO_DE_GALINHA.jpg",
       "variacoes": [
         {
           "codigo": "2683",
@@ -4841,6 +5085,7 @@
       "id": "tempero-cebolaalhosalsa",
       "descricao": "TEMPERO CEBOLA/ALHO/SALSA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CEBOLA_ALHO_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "2600",
@@ -4855,6 +5100,7 @@
       "id": "tempero-do-chef",
       "descricao": "TEMPERO DO CHEF",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_DO_CHEF.jpg",
       "variacoes": [
         {
           "codigo": "4167",
@@ -4869,6 +5115,7 @@
       "id": "tempero-chimichurri",
       "descricao": "TEMPERO CHIMICHURRI",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI.jpg",
       "variacoes": [
         {
           "codigo": "2595",
@@ -4883,6 +5130,7 @@
       "id": "tempero-chimichurri-defumado",
       "descricao": "TEMPERO CHIMICHURRI DEFUMADO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI_DEFUMADO.jpg",
       "variacoes": [
         {
           "codigo": "4062",
@@ -4897,6 +5145,7 @@
       "id": "tempero-chimichurri-c-pimenta",
       "descricao": "TEMPERO CHIMICHURRI C/ PIMENTA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CHIMICHURI_COM_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "2707",
@@ -4911,6 +5160,7 @@
       "id": "tempero-coentro-em-gros",
       "descricao": "TEMPERO COENTRO EM GRÃOS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COENTRO_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "3606",
@@ -4932,6 +5182,7 @@
       "id": "tempero-coentro-moido",
       "descricao": "TEMPERO COENTRO MOIDO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COENTRO_MOIDO.jpg",
       "variacoes": [
         {
           "codigo": "4401",
@@ -4953,6 +5204,7 @@
       "id": "tempero-colorau-bola-azul",
       "descricao": "TEMPERO COLORAU BOLA AZUL",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COLORAL_BOLA_AZUL.jpg",
       "variacoes": [
         {
           "codigo": "2684",
@@ -4967,6 +5219,7 @@
       "id": "tempero-colorau-paraiba",
       "descricao": "TEMPERO COLORAU PARAIBA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COLORAL_PARAIBA.jpg",
       "variacoes": [
         {
           "codigo": "2723",
@@ -4988,6 +5241,7 @@
       "id": "tempero-completo",
       "descricao": "TEMPERO COMPLETO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COMPLETO.jpg",
       "variacoes": [
         {
           "codigo": "4168",
@@ -5002,6 +5256,7 @@
       "id": "tempero-cominho-em-gros",
       "descricao": "TEMPERO COMINHO EM GRÃOS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COMINHO_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "2719",
@@ -5023,6 +5278,7 @@
       "id": "tempero-cominho-p",
       "descricao": "TEMPERO COMINHO PÓ",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_COMINHO_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "3094",
@@ -5037,6 +5293,7 @@
       "id": "tempero-conquista-sogra",
       "descricao": "TEMPERO CONQUISTA SOGRA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CONQUISTA_SOGRA.jpg",
       "variacoes": [
         {
           "codigo": "4169",
@@ -5051,6 +5308,7 @@
       "id": "tempero-curcuma",
       "descricao": "TEMPERO CURCUMA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CURCUMA.jpg",
       "variacoes": [
         {
           "codigo": "2685",
@@ -5065,6 +5323,7 @@
       "id": "tempero-curry",
       "descricao": "TEMPERO CURRY",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_CURRY.jpg",
       "variacoes": [
         {
           "codigo": "4106",
@@ -5086,6 +5345,7 @@
       "id": "tempero-edu-guedes",
       "descricao": "TEMPERO EDU GUEDES",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_EDU_GUEDES.jpg",
       "variacoes": [
         {
           "codigo": "2596",
@@ -5100,6 +5360,7 @@
       "id": "tempero-fit-completo",
       "descricao": "TEMPERO FIT COMPLETO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_FIT_COMPLETO.jpg",
       "variacoes": [
         {
           "codigo": "4458",
@@ -5121,6 +5382,7 @@
       "id": "tempero-folha-de-louro",
       "descricao": "TEMPERO FOLHA DE LOURO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_FOLHA_DE_LOURO.jpg",
       "variacoes": [
         {
           "codigo": "2605",
@@ -5149,6 +5411,7 @@
       "id": "tempero-fumaa",
       "descricao": "TEMPERO FUMAÇA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_FUMACA.jpg",
       "variacoes": [
         {
           "codigo": "4110",
@@ -5170,6 +5433,7 @@
       "id": "tempero-frango-gourmet",
       "descricao": "TEMPERO FRANGO GOURMET",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_P_FRANGO_GOURMET.jpg",
       "variacoes": [
         {
           "codigo": "4171",
@@ -5184,6 +5448,7 @@
       "id": "tempero-gaucho",
       "descricao": "TEMPERO GAUCHO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_GAUCHO.jpg",
       "variacoes": [
         {
           "codigo": "2653",
@@ -5198,6 +5463,7 @@
       "id": "tempero-gourmet",
       "descricao": "TEMPERO GOURMET",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_GOURMET.jpg",
       "variacoes": [
         {
           "codigo": "3675",
@@ -5212,6 +5478,7 @@
       "id": "tempero-glutamato",
       "descricao": "TEMPERO GLUTAMATO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_GLUTAMATO.jpg",
       "variacoes": [
         {
           "codigo": "3109",
@@ -5233,6 +5500,7 @@
       "id": "tempero-lemon-pepper",
       "descricao": "TEMPERO LEMON PEPPER",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_LEMON_PEPPER.jpg",
       "variacoes": [
         {
           "codigo": "2776",
@@ -5254,6 +5522,7 @@
       "id": "tempero-lemon-pepper-sem-sdio",
       "descricao": "TEMPERO LEMON PEPPER SEM SÓDIO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_LEMON_PEPPER.jpg",
       "variacoes": [
         {
           "codigo": "4173",
@@ -5268,6 +5537,7 @@
       "id": "tempero-mineiro",
       "descricao": "TEMPERO MINEIRO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_MINEIRO.jpg",
       "variacoes": [
         {
           "codigo": "2689",
@@ -5282,6 +5552,7 @@
       "id": "tempero-nordestino",
       "descricao": "TEMPERO NORDESTINO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_NORDESTINO.jpg",
       "variacoes": [
         {
           "codigo": "4170",
@@ -5296,6 +5567,7 @@
       "id": "tempero-orange-pepper",
       "descricao": "TEMPERO ORANGE PEPPER",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_ORANGE_PEPPER.jpg",
       "variacoes": [
         {
           "codigo": "4495",
@@ -5317,6 +5589,7 @@
       "id": "tempero-paprica-defumada",
       "descricao": "TEMPERO PAPRICA DEFUMADA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DEFUMADA.jpg",
       "variacoes": [
         {
           "codigo": "2785",
@@ -5338,6 +5611,7 @@
       "id": "tempero-paprica-doce",
       "descricao": "TEMPERO PAPRICA DOCE",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "2789",
@@ -5359,6 +5633,7 @@
       "id": "tempero-paprica-doce-defumada",
       "descricao": "TEMPERO PAPRICA DOCE DEFUMADA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_DEFUMADA.jpg",
       "variacoes": [
         {
           "codigo": "3495",
@@ -5380,6 +5655,7 @@
       "id": "tempero-paprica-picante",
       "descricao": "TEMPERO PAPRICA PICANTE",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PAPRICA_PICANTE.jpg",
       "variacoes": [
         {
           "codigo": "2787",
@@ -5401,6 +5677,7 @@
       "id": "tempero-para-feijao",
       "descricao": "TEMPERO PARA FEIJAO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PARA_FEIJAO.jpg",
       "variacoes": [
         {
           "codigo": "2598",
@@ -5415,6 +5692,7 @@
       "id": "tempero-pega-esposa",
       "descricao": "TEMPERO PEGA ESPOSA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PEGA_ESPOSA.jpg",
       "variacoes": [
         {
           "codigo": "4060",
@@ -5429,6 +5707,7 @@
       "id": "tempero-pega-marido",
       "descricao": "TEMPERO PEGA MARIDO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PEGA_MARIDO.jpg",
       "variacoes": [
         {
           "codigo": "2690",
@@ -5443,6 +5722,7 @@
       "id": "tempero-pimenta-calabresa",
       "descricao": "TEMPERO PIMENTA CALABRESA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_PIMENTA_CALABRESA.jpg",
       "variacoes": [
         {
           "codigo": "3066",
@@ -5464,6 +5744,7 @@
       "id": "pimenta-do-reino-em-gros",
       "descricao": "PIMENTA DO REINO EM GRÃOS",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/PIMENTA_DO_REINO_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "2552",
@@ -5485,6 +5766,7 @@
       "id": "pimenta-do-reino-em-p",
       "descricao": "PIMENTA DO REINO EM PÓ",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/PIMENTA_DO_REINO_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "3092",
@@ -5499,6 +5781,7 @@
       "id": "tempero-salsa-desidratada",
       "descricao": "TEMPERO SALSA DESIDRATADA",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_SALSA_DESI.jpg",
       "variacoes": [
         {
           "codigo": "2588",
@@ -5520,6 +5803,7 @@
       "id": "tempero-tempera-tudo",
       "descricao": "TEMPERO TEMPERA TUDO",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_TEMPERA_TUDO.jpg",
       "variacoes": [
         {
           "codigo": "2688",
@@ -5534,6 +5818,7 @@
       "id": "tempero-vinagrete",
       "descricao": "TEMPERO VINAGRETE",
       "categoria": "especiarias",
+      "imagem": "/images/especiarias/TEMPERO_VINAGRETE.jpg",
       "variacoes": [
         {
           "codigo": "2599",
@@ -5550,6 +5835,7 @@
       "id": "ameixa-scaroo",
       "descricao": "AMEIXA S/CAROÇO",
       "categoria": "frutas",
+      "imagem": "/images/frutas/AMEIXA_S_CAROCO.jpg",
       "variacoes": [
         {
           "codigo": "3051",
@@ -5564,6 +5850,7 @@
       "id": "cranberry",
       "descricao": "CRANBERRY",
       "categoria": "frutas",
+      "imagem": "/images/frutas/CRANBERRY.jpg",
       "variacoes": [
         {
           "codigo": "2791",
@@ -5585,6 +5872,7 @@
       "id": "damasco-jumbo",
       "descricao": "DAMASCO JUMBO",
       "categoria": "frutas",
+      "imagem": "/images/frutas/DAMASCO_JUMBO.jpg",
       "variacoes": [
         {
           "codigo": "3090",
@@ -5599,6 +5887,7 @@
       "id": "frutas-cristalizadas",
       "descricao": "FRUTAS CRISTALIZADAS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/FRUTAS_CRISTALIZADA.jpg",
       "variacoes": [
         {
           "codigo": "2414",
@@ -5613,6 +5902,7 @@
       "id": "goji-berry",
       "descricao": "GOJI BERRY",
       "categoria": "frutas",
+      "imagem": "/images/frutas/GOJI_BERRY.jpg",
       "variacoes": [
         {
           "codigo": "2272",
@@ -5634,6 +5924,7 @@
       "id": "laranja-desidratada-fatias",
       "descricao": "LARANJA DESIDRATADA FATIAS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/LARANJA_DESIDRATADA_FATIAS.jpg",
       "variacoes": [
         {
           "codigo": "3651",
@@ -5655,6 +5946,7 @@
       "id": "maa-desidratada-fatias",
       "descricao": "MAÇA DESIDRATADA FATIAS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/MACA_DESIDRATADA_FATIAS.jpg",
       "variacoes": [
         {
           "codigo": "3652",
@@ -5676,6 +5968,7 @@
       "id": "morango-chips",
       "descricao": "MORANGO CHIPS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/MORANGO_CHIPS.jpg",
       "variacoes": [
         {
           "codigo": "4585",
@@ -5697,6 +5990,7 @@
       "id": "mix-de-frutas-desidratadas",
       "descricao": "MIX DE FRUTAS DESIDRATADAS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/MIX_DE_FRUTAS_DESIDRATADA.jpg",
       "variacoes": [
         {
           "codigo": "2756",
@@ -5718,6 +6012,7 @@
       "id": "mix-de-frutas-tropicais",
       "descricao": "MIX DE FRUTAS TROPICAIS",
       "categoria": "frutas",
+      "imagem": "/images/frutas/MIX_DE_FRUTAS_TROPICAIS.jpg",
       "variacoes": [
         {
           "codigo": "4491",
@@ -5739,6 +6034,7 @@
       "id": "tamara-c-caroo-jumbo",
       "descricao": "TAMARA C/ CAROÇO JUMBO",
       "categoria": "frutas",
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
       "variacoes": [
         {
           "codigo": "2350",
@@ -5753,6 +6049,7 @@
       "id": "tamara-s-caroo",
       "descricao": "TAMARA S/ CAROÇO",
       "categoria": "frutas",
+      "imagem": "/images/frutas/TAMARA_S_CAROCO.jpg",
       "variacoes": [
         {
           "codigo": "2362",
@@ -5767,6 +6064,7 @@
       "id": "tamara-jumbo-recheada",
       "descricao": "TAMARA JUMBO RECHEADA",
       "categoria": "frutas",
+      "imagem": "/images/frutas/TAMARA_JUMBO_RECHEADA.jpg",
       "variacoes": [
         {
           "codigo": "4403",
@@ -5781,6 +6079,7 @@
       "id": "uva-passa-branca",
       "descricao": "UVA PASSA BRANCA",
       "categoria": "frutas",
+      "imagem": "/images/frutas/UVA_PASSA_BRANCA.jpg",
       "variacoes": [
         {
           "codigo": "2406",
@@ -5795,6 +6094,7 @@
       "id": "uva-passa-preta",
       "descricao": "UVA PASSA PRETA",
       "categoria": "frutas",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
       "variacoes": [
         {
           "codigo": "2229",
@@ -5811,6 +6111,7 @@
       "id": "alpiste",
       "descricao": "ALPISTE",
       "categoria": "sementes",
+      "imagem": "/images/sementes/ALPISTE.jpg",
       "variacoes": [
         {
           "codigo": "2553",
@@ -5839,6 +6140,7 @@
       "id": "gergelim-branco",
       "descricao": "GERGELIM BRANCO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GERGELIM_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "521",
@@ -5860,6 +6162,7 @@
       "id": "gergelim-cpele",
       "descricao": "GERGELIM C/PELE",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GERGELIM_C_PELE.jpg",
       "variacoes": [
         {
           "codigo": "2613",
@@ -5881,6 +6184,7 @@
       "id": "gergelim-preto",
       "descricao": "GERGELIM PRETO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GERGELIM_PRETO.jpg",
       "variacoes": [
         {
           "codigo": "2556",
@@ -5902,6 +6206,7 @@
       "id": "germen-de-trigo-tostado",
       "descricao": "GERMEN DE TRIGO TOSTADO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GERME_DE_TRIGO_TOSTADO.jpg",
       "variacoes": [
         {
           "codigo": "3669",
@@ -5923,6 +6228,7 @@
       "id": "girassol-graudo",
       "descricao": "GIRASSOL GRAUDO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GIRASSOL_GRUADO.jpg",
       "variacoes": [
         {
           "codigo": "2479",
@@ -5944,6 +6250,7 @@
       "id": "girassol-miudo",
       "descricao": "GIRASSOL MIUDO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/GIRASSOL_MIUDO.jpg",
       "variacoes": [
         {
           "codigo": "105",
@@ -5965,6 +6272,7 @@
       "id": "mix-de-quinoa",
       "descricao": "MIX DE QUINOA",
       "categoria": "sementes",
+      "imagem": "/images/sementes/MIX_DE_QUINOA.jpg",
       "variacoes": [
         {
           "codigo": "2851",
@@ -5986,6 +6294,7 @@
       "id": "mix-de-vegetais",
       "descricao": "MIX DE VEGETAIS",
       "categoria": "sementes",
+      "imagem": "/images/sementes/MIX_DE_VEGETAIS.jpg",
       "variacoes": [
         {
           "codigo": "4201",
@@ -6007,6 +6316,7 @@
       "id": "paino",
       "descricao": "PAINÇO",
       "categoria": "sementes",
+      "imagem": "/images/sementes/PAINCO.jpg",
       "variacoes": [
         {
           "codigo": "2484",
@@ -6028,6 +6338,7 @@
       "id": "pepita-de-girassol",
       "descricao": "PEPITA DE GIRASSOL",
       "categoria": "sementes",
+      "imagem": "/images/sementes/PEPITA_DE_GIRASSOL.jpg",
       "variacoes": [
         {
           "codigo": "2478",
@@ -6056,6 +6367,7 @@
       "id": "quinoa-em-flocos",
       "descricao": "QUINOA EM FLOCOS",
       "categoria": "sementes",
+      "imagem": "/images/sementes/QUINOA_EM_FLOCOS.jpg",
       "variacoes": [
         {
           "codigo": "2425",
@@ -6084,6 +6396,7 @@
       "id": "quinoa-em-gros",
       "descricao": "QUINOA EM GRÃOS",
       "categoria": "sementes",
+      "imagem": "/images/sementes/QUINOA_EM_GRAO.jpg",
       "variacoes": [
         {
           "codigo": "2579",
@@ -6105,6 +6418,7 @@
       "id": "semente-de-abobora",
       "descricao": "SEMENTE DE ABOBORA",
       "categoria": "sementes",
+      "imagem": "/images/sementes/SEMENTE_DE_ABOBORA.jpg",
       "variacoes": [
         {
           "codigo": "2676",
@@ -6133,6 +6447,7 @@
       "id": "semente-de-chia",
       "descricao": "SEMENTE DE CHIA",
       "categoria": "sementes",
+      "imagem": "/images/sementes/SEMENTE_DE_CHIA.jpg",
       "variacoes": [
         {
           "codigo": "2245",
@@ -6154,6 +6469,7 @@
       "id": "semente-de-sucupira",
       "descricao": "SEMENTE DE SUCUPIRA",
       "categoria": "sementes",
+      "imagem": "/images/sementes/SEMENTE_DE_SUCUPIRA.jpg",
       "variacoes": [
         {
           "codigo": "3754",
@@ -6170,6 +6486,7 @@
       "id": "albumina",
       "descricao": "ALBUMINA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ALBUMINA.jpg",
       "variacoes": [
         {
           "codigo": "4336",
@@ -6184,6 +6501,7 @@
       "id": "aucar-de-coco",
       "descricao": "AÇUCAR  DE COCO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ACUCAR_DE_COCO.jpg",
       "variacoes": [
         {
           "codigo": "2398",
@@ -6205,6 +6523,7 @@
       "id": "aucar-demerara-native",
       "descricao": "AÇUCAR  DEMERARA NATIVE",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ACUCAR_DEMERARA_NATIVE.jpg",
       "variacoes": [
         {
           "codigo": "3653",
@@ -6233,6 +6552,7 @@
       "id": "aucar-jr",
       "descricao": "AÇUCAR  JR",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ACUCAR_JR.jpg",
       "variacoes": [
         {
           "codigo": "2223",
@@ -6261,6 +6581,7 @@
       "id": "aa-em-p",
       "descricao": "AÇAÍ EM PÓ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/ACAI_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4279",
@@ -6275,6 +6596,7 @@
       "id": "aveia-em-flocos-n3",
       "descricao": "AVEIA EM FLOCOS Nº3",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
       "variacoes": [
         {
           "codigo": "2259",
@@ -6296,6 +6618,7 @@
       "id": "aveia-em-flocos-finos-n5",
       "descricao": "AVEIA EM FLOCOS FINOS Nº5",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_FINOS.jpg",
       "variacoes": [
         {
           "codigo": "3540",
@@ -6317,6 +6640,7 @@
       "id": "aveia-em-flocos-laminada-n2",
       "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
       "variacoes": [
         {
           "codigo": "2422",
@@ -6338,6 +6662,7 @@
       "id": "cacau-em-po-100-alcalino",
       "descricao": "CACAU EM PO 100% ALCALINO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/CACAU_EM_PO_100.jpg",
       "variacoes": [
         {
           "codigo": "2421",
@@ -6359,6 +6684,7 @@
       "id": "coco-ralado-fino",
       "descricao": "COCO RALADO FINO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_FINO.jpg",
       "variacoes": [
         {
           "codigo": "3009",
@@ -6380,6 +6706,7 @@
       "id": "coco-ralado-flocos-tok",
       "descricao": "COCO RALADO FLOCOS TOK",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_EM_FLOCOS.jpg",
       "variacoes": [
         {
           "codigo": "2778",
@@ -6394,6 +6721,7 @@
       "id": "coco-ralado-flocos-dino",
       "descricao": "COCO RALADO FLOCOS DINO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_EM_FLOCOS.jpg",
       "variacoes": [
         {
           "codigo": "3106",
@@ -6408,6 +6736,7 @@
       "id": "coco-ralado-medio",
       "descricao": "COCO RALADO MEDIO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/COCO_RALADO_MEDIO.jpg",
       "variacoes": [
         {
           "codigo": "3755",
@@ -6443,6 +6772,7 @@
       "id": "colageno-rbr",
       "descricao": "COLAGENO RBR",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/COLAGENO.jpg",
       "variacoes": [
         {
           "codigo": "3487",
@@ -6471,6 +6801,7 @@
       "id": "creatina",
       "descricao": "CREATINA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/CREATINA.jpg",
       "variacoes": [
         {
           "codigo": "4333",
@@ -6485,6 +6816,7 @@
       "id": "chocolate-em-p-50",
       "descricao": "CHOCOLATE EM PÓ 50%",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/CHOCOLATE_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4388",
@@ -6499,6 +6831,7 @@
       "id": "chocolate-em-p-32",
       "descricao": "CHOCOLATE EM PÓ 32%",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/CHOCOLATE_EM_PO_32.jpg",
       "variacoes": [
         {
           "codigo": "4389",
@@ -6513,6 +6846,7 @@
       "id": "extrato-de-soja-inabel",
       "descricao": "EXTRATO DE SOJA INABEL",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/EXTRATO_DE_SOJA.jpg",
       "variacoes": [
         {
           "codigo": "3400",
@@ -6534,6 +6868,7 @@
       "id": "farelo-de-aveia-n7",
       "descricao": "FARELO DE AVEIA Nº7",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
       "variacoes": [
         {
           "codigo": "2257",
@@ -6555,6 +6890,7 @@
       "id": "farofa-flocada-torresmo",
       "descricao": "FAROFA FLOCADA TORRESMO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/FAROFA_FLOCADA_TORRESMO.jpg",
       "variacoes": [
         {
           "codigo": "4474",
@@ -6569,6 +6905,7 @@
       "id": "farofa-flocada-gourmet",
       "descricao": "FAROFA FLOCADA GOURMET",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/FAROFA_FLOCADA_TORRESMO.jpg",
       "variacoes": [
         {
           "codigo": "4473",
@@ -6583,6 +6920,7 @@
       "id": "farofa-fina-tradicional",
       "descricao": "FAROFA FINA TRADICIONAL",
       "categoria": "produtosnaturais",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "2658",
@@ -6604,6 +6942,7 @@
       "id": "farofa-fina-c-pimenta",
       "descricao": "FAROFA FINA C/ PIMENTA",
       "categoria": "produtosnaturais",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "2657",
@@ -6618,6 +6957,7 @@
       "id": "farofa-com-pimenta",
       "descricao": "FAROFA COM PIMENTA",
       "categoria": "produtosnaturais",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "2657",
@@ -6632,6 +6972,7 @@
       "id": "granola-c-castanha-martigran",
       "descricao": "GRANOLA C/ CASTANHA  MARTIGRAN",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_CASTANHA_MARTIGRAN.jpg",
       "variacoes": [
         {
           "codigo": "3537",
@@ -6646,6 +6987,7 @@
       "id": "granola-com-banana-e-coco",
       "descricao": "GRANOLA COM BANANA E COCO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_BANANA_E_COCO.jpg",
       "variacoes": [
         {
           "codigo": "2733",
@@ -6667,6 +7009,7 @@
       "id": "granola-com-castanha",
       "descricao": "GRANOLA COM CASTANHA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_CASTANHA.jpg",
       "variacoes": [
         {
           "codigo": "2677",
@@ -6688,6 +7031,7 @@
       "id": "granola-com-frutas",
       "descricao": "GRANOLA COM FRUTAS",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS.jpg",
       "variacoes": [
         {
           "codigo": "2678",
@@ -6709,6 +7053,7 @@
       "id": "granola-com-frutas-vermelhas",
       "descricao": "GRANOLA COM FRUTAS VERMELHAS",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS_VERMELHAS.jpg",
       "variacoes": [
         {
           "codigo": "4498",
@@ -6723,6 +7068,7 @@
       "id": "granola-crocante-granny",
       "descricao": "GRANOLA CROCANTE  GRANNY",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_GRANNY.jpg",
       "variacoes": [
         {
           "codigo": "4253",
@@ -6758,6 +7104,7 @@
       "id": "granola-frutas-matigran",
       "descricao": "GRANOLA FRUTAS  MATIGRAN",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_FRUTAS_MARTIGRAN.jpg",
       "variacoes": [
         {
           "codigo": "3736",
@@ -6772,6 +7119,7 @@
       "id": "granola-nectar-de-maa",
       "descricao": "GRANOLA NECTAR DE MAÇA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_COM_NECTAR_DE_MACA.jpg",
       "variacoes": [
         {
           "codigo": "4499",
@@ -6786,6 +7134,7 @@
       "id": "granola-sem-acar-martigran",
       "descricao": "GRANOLA SEM AÇÚCAR  MARTIGRAN",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_SEM_ACUCAR_MARTIGRAN.jpg",
       "variacoes": [
         {
           "codigo": "3536",
@@ -6800,6 +7149,7 @@
       "id": "granola-sem-acar",
       "descricao": "GRANOLA SEM AÇÚCAR",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_SEM_ACUCAR.jpg",
       "variacoes": [
         {
           "codigo": "2679",
@@ -6821,6 +7171,7 @@
       "id": "granola-zero-acar",
       "descricao": "GRANOLA ZERO AÇÚCAR",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_ZERO_ACUCAR.jpg",
       "variacoes": [
         {
           "codigo": "4497",
@@ -6835,6 +7186,7 @@
       "id": "granola-tradicional",
       "descricao": "GRANOLA TRADICIONAL",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_TRADICIONAL.jpg",
       "variacoes": [
         {
           "codigo": "2498",
@@ -6856,6 +7208,7 @@
       "id": "granola-tradicional-martigran",
       "descricao": "GRANOLA TRADICIONAL MARTIGRAN",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GRANOLA_TRADICIONAL_MARTIGRAN.jpg",
       "variacoes": [
         {
           "codigo": "3535",
@@ -6870,6 +7223,7 @@
       "id": "leite-de-coco-em-p",
       "descricao": "LEITE DE COCO EM PÓ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/LEITE _DE_COCO_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "2807",
@@ -6891,6 +7245,7 @@
       "id": "leite-em-p-integral",
       "descricao": "LEITE EM PÓ INTEGRAL",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/LEITE _DE_COCO_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4557",
@@ -6912,6 +7267,7 @@
       "id": "guaran-em-p",
       "descricao": "GUARANÁ EM PÓ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GUARANA_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "2652",
@@ -6933,6 +7289,7 @@
       "id": "ginseng-em-po",
       "descricao": "GINSENG EM PO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GINSEN_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "3737",
@@ -6954,6 +7311,7 @@
       "id": "glaucomannan",
       "descricao": "GLAUCOMANNAN",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GLAUCOMANNAN.jpg",
       "variacoes": [
         {
           "codigo": "4301",
@@ -6968,6 +7326,7 @@
       "id": "glutamina",
       "descricao": "GLUTAMINA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/GLUTAMINA.jpg",
       "variacoes": [
         {
           "codigo": "4334",
@@ -6982,6 +7341,7 @@
       "id": "linhaa-dourada",
       "descricao": "LINHAÇA DOURADA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
       "variacoes": [
         {
           "codigo": "54",
@@ -7003,6 +7363,7 @@
       "id": "linhaa-marrom",
       "descricao": "LINHAÇA MARROM",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/LINHACA_MARROM.jpg",
       "variacoes": [
         {
           "codigo": "2483",
@@ -7024,6 +7385,7 @@
       "id": "maca-peruana",
       "descricao": "MACA PERUANA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA.jpg",
       "variacoes": [
         {
           "codigo": "2831",
@@ -7045,6 +7407,7 @@
       "id": "maca-peruana-negra",
       "descricao": "MACA PERUANA NEGRA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_NEGRA.jpg",
       "variacoes": [
         {
           "codigo": "4137",
@@ -7059,6 +7422,7 @@
       "id": "maca-peruana-vermelha",
       "descricao": "MACA PERUANA VERMELHA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_VERMELHA.jpg",
       "variacoes": [
         {
           "codigo": "4380",
@@ -7073,6 +7437,7 @@
       "id": "maca-peruana-negra-dj",
       "descricao": "MACA PERUANA NEGRA DJ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_NEGRA.jpg",
       "variacoes": [
         {
           "codigo": "4566",
@@ -7087,6 +7452,7 @@
       "id": "maca-peruana-vermelha-dj",
       "descricao": "MACA PERUANA VERMELHA DJ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MACA_PERUANA_VERMELHA.jpg",
       "variacoes": [
         {
           "codigo": "4567",
@@ -7101,6 +7467,7 @@
       "id": "moringa-em-p",
       "descricao": "MORINGA EM PÓ",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MORINGA_EM_PO.jpg",
       "variacoes": [
         {
           "codigo": "4204",
@@ -7129,6 +7496,7 @@
       "id": "moringa-folha",
       "descricao": "MORINGA FOLHA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MORINGA_FOLHA.jpg",
       "variacoes": [
         {
           "codigo": "4379",
@@ -7150,6 +7518,7 @@
       "id": "tahine-pasta-de-gergelim-bd",
       "descricao": "TAHINE PASTA DE GERGELIM BD",
       "categoria": "produtosnaturais",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "3523",
@@ -7171,6 +7540,7 @@
       "id": "tahine-pasta-de-gergelim-lata",
       "descricao": "TAHINE PASTA DE GERGELIM LATA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/TAHINE_LATA.jpg",
       "variacoes": [
         {
           "codigo": "3522",
@@ -7192,6 +7562,7 @@
       "id": "pasta-de-amendoim-crocante",
       "descricao": "PASTA DE AMENDOIM CROCANTE",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/PASTA_DE_AMENDOIM_CROCANTE.jpg",
       "variacoes": [
         {
           "codigo": "64",
@@ -7206,6 +7577,7 @@
       "id": "pasta-de-amendoim-integral",
       "descricao": "PASTA DE AMENDOIM INTEGRAL",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/PASTA_DE_AMENDOIM_INTEGRAL.jpg",
       "variacoes": [
         {
           "codigo": "90",
@@ -7220,6 +7592,7 @@
       "id": "psyllium-husk",
       "descricao": "PSYLLIUM HUSK",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/PSYLLIUM_HUSK.jpg",
       "variacoes": [
         {
           "codigo": "2427",
@@ -7248,6 +7621,7 @@
       "id": "tribulus-terrestres-da-folha",
       "descricao": "TRIBULUS TERRESTRES DA FOLHA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/TRIBULUS_TERRESTRE_DA_FOLHA.jpg",
       "variacoes": [
         {
           "codigo": "3396",
@@ -7269,6 +7643,7 @@
       "id": "vinagre-almaroni-comum",
       "descricao": "VINAGRE ALMARONI COMUM",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/VINAGRE_ALMARONI_COMUM.jpg",
       "variacoes": [
         {
           "codigo": "3395",
@@ -7283,6 +7658,7 @@
       "id": "vinagre-almaroni-organico",
       "descricao": "VINAGRE ALMARONI ORGANICO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/VINAGRE_ALMARONI_ORGANICO.jpg",
       "variacoes": [
         {
           "codigo": "3490",
@@ -7297,6 +7673,7 @@
       "id": "vinagre-orga-so-francisco",
       "descricao": "VINAGRE ORGA. SÃO FRANCISCO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_FRANCISCO.jpg",
       "variacoes": [
         {
           "codigo": "458",
@@ -7311,6 +7688,7 @@
       "id": "vinagre-organico-so-roque",
       "descricao": "VINAGRE ORGANICO SÃO ROQUE",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_ROQUE.jpg",
       "variacoes": [
         {
           "codigo": "2641",
@@ -7325,6 +7703,7 @@
       "id": "vinagre-organico-azeo",
       "descricao": "VINAGRE ORGANICO AZEO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/VINAGRE_ORGANICO_SAO_AZZEO.jpg",
       "variacoes": [
         {
           "codigo": "4293",
@@ -7339,6 +7718,7 @@
       "id": "xilitol",
       "descricao": "XILITOL",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/XILITOL.jpg",
       "variacoes": [
         {
           "codigo": "2426",
@@ -7360,6 +7740,7 @@
       "id": "whey-90",
       "descricao": "WHEY 90%",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/WHEY_90.jpg",
       "variacoes": [
         {
           "codigo": "4335",
@@ -7374,6 +7755,7 @@
       "id": "whey-60-baunilha",
       "descricao": "WHEY 60% BAUNILHA",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/WHEY_60_BAUNILHA.jpg",
       "variacoes": [
         {
           "codigo": "4477",
@@ -7388,6 +7770,7 @@
       "id": "whey-60-chocolate",
       "descricao": "WHEY 60% CHOCOLATE",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/WHEY_60_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "4479",
@@ -7402,6 +7785,7 @@
       "id": "whey-60-morango",
       "descricao": "WHEY 60% MORANGO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/WHEY_60_MORANGO.jpg",
       "variacoes": [
         {
           "codigo": "4478",
@@ -7416,6 +7800,7 @@
       "id": "melado",
       "descricao": "MELADO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MELADO_DE_CANA.jpg",
       "variacoes": [
         {
           "codigo": "2645",
@@ -7444,6 +7829,7 @@
       "id": "mel-flores-silvestre",
       "descricao": "MEL FLORES SILVESTRE",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MEL_FLORES_SILVESTRE_210G.png",
       "variacoes": [
         {
           "codigo": "4294",
@@ -7458,6 +7844,7 @@
       "id": "mel-natural-silvestres",
       "descricao": "MEL NATURAL SILVESTRES",
       "categoria": "produtosnaturais",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "4314",
@@ -7472,6 +7859,7 @@
       "id": "mel-natural-silvestres-com-favo",
       "descricao": "MEL NATURAL SILVESTRES COM FAVO",
       "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/MEL_COM_FAVO.jpg",
       "variacoes": [
         {
           "codigo": "4315",
@@ -7488,6 +7876,7 @@
       "id": "cajuina-so-geraldo",
       "descricao": "CAJUINA SÃO GERALDO",
       "categoria": "refris",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "3402",
@@ -7516,6 +7905,7 @@
       "id": "cajuina-so-geraldo-lata",
       "descricao": "CAJUINA SÃO GERALDO  LATA",
       "categoria": "refris",
+      "imagem": "/images/refris/CAJUINA_LATA.jpg",
       "variacoes": [
         {
           "codigo": "4032",
@@ -7530,6 +7920,7 @@
       "id": "cajuina-so-geraldo-zero-lata",
       "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
       "categoria": "refris",
+      "imagem": "/images/refris/CAJUINA_LATA_ZERO.jpg",
       "variacoes": [
         {
           "codigo": "4460",
@@ -7544,6 +7935,7 @@
       "id": "cajuina-garrafa",
       "descricao": "CAJUINA GARRAFA",
       "categoria": "refris",
+      "imagem": "/images/refris/CAJUINA_GARRAFA.jpeg",
       "variacoes": [
         {
           "codigo": "4260",
@@ -7558,6 +7950,7 @@
       "id": "guarana-jesus-garrafa",
       "descricao": "GUARANA JESUS GARRAFA",
       "categoria": "refris",
+      "imagem": "/images/refris/GUARANA_JESUS.jpg",
       "variacoes": [
         {
           "codigo": "2551",
@@ -7572,6 +7965,7 @@
       "id": "guarana-jesus-lata",
       "descricao": "GUARANA JESUS LATA",
       "categoria": "refris",
+      "imagem": "/images/refris/GUARANA_JESUS_LATA.jpg",
       "variacoes": [
         {
           "codigo": "2550",
@@ -7586,6 +7980,7 @@
       "id": "laranja-so-geraldo-lata",
       "descricao": "LARANJA SÃO GERALDO LATA",
       "categoria": "refris",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "4383",
@@ -7602,6 +7997,7 @@
       "id": "azeite-de-dend",
       "descricao": "AZEITE DE DENDÊ",
       "categoria": "oleo",
+      "imagem": "/images/oleo/AZEITE_DE_DENDE.jpg",
       "variacoes": [
         {
           "codigo": "3645",
@@ -7630,6 +8026,7 @@
       "id": "leite-de-coco",
       "descricao": "LEITE DE COCO",
       "categoria": "oleo",
+      "imagem": "/images/oleo/LEITE_DE_COCO.jpg",
       "variacoes": [
         {
           "codigo": "3648",
@@ -7660,6 +8057,7 @@
       "id": "goma-lopes",
       "descricao": "GOMA LOPES",
       "categoria": "goma",
+      "imagem": "/images/goma/GOMA_LOPES.jpg",
       "variacoes": [
         {
           "codigo": "3056",
@@ -7695,6 +8093,7 @@
       "id": "goma-pantanal",
       "descricao": "GOMA PANTANAL",
       "categoria": "goma",
+      "imagem": "/images/goma/GOMA_PANTANAL.jpg",
       "variacoes": [
         {
           "codigo": "573",
@@ -7716,6 +8115,7 @@
       "id": "goma-terrinha",
       "descricao": "GOMA TERRINHA",
       "categoria": "goma",
+      "imagem": "/images/goma/GOMA_TERRINHA.jpg",
       "variacoes": [
         {
           "codigo": "4411",
@@ -7739,6 +8139,7 @@
       "id": "anis-de-cebola",
       "descricao": "ANÉIS DE CEBOLA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/ANEIS_DE_CEBOLA.jpg",
       "variacoes": [
         {
           "codigo": "4044",
@@ -7753,6 +8154,7 @@
       "id": "banana-chips-bacon",
       "descricao": "BANANA CHIPS BACON",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_BACON.jpg",
       "variacoes": [
         {
           "codigo": "4043",
@@ -7767,6 +8169,7 @@
       "id": "banana-chips-doce",
       "descricao": "BANANA CHIPS DOCE",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "3531",
@@ -7781,6 +8184,7 @@
       "id": "banana-chips-salgada",
       "descricao": "BANANA CHIPS SALGADA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_SALGADA.jpg",
       "variacoes": [
         {
           "codigo": "3974",
@@ -7795,6 +8199,7 @@
       "id": "banana-chips-salsa-e-cebola",
       "descricao": "BANANA CHIPS SALSA E CEBOLA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BANANA_CHIPS_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "3530",
@@ -7809,6 +8214,7 @@
       "id": "banana-da-terra-chips-salgada",
       "descricao": "BANANA DA TERRA CHIPS SALGADA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BANANA_DA_TERRA_CHIPS.jpg",
       "variacoes": [
         {
           "codigo": "4282",
@@ -7823,6 +8229,7 @@
       "id": "batata-frita-lemon-pepper-mexicana",
       "descricao": "BATATA FRITA LEMON PEPPER MEXICANA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg",
       "variacoes": [
         {
           "codigo": "3870",
@@ -7837,6 +8244,7 @@
       "id": "batata-frita-mexicana",
       "descricao": "BATATA FRITA MEXICANA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA.jpg",
       "variacoes": [
         {
           "codigo": "3701",
@@ -7851,6 +8259,7 @@
       "id": "batata-frita-pimenta-mexicana",
       "descricao": "BATATA FRITA PIMENTA MEXICANA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "3800",
@@ -7865,6 +8274,7 @@
       "id": "batata-frita-salsa-mexicana",
       "descricao": "BATATA FRITA SALSA MEXICANA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "3725",
@@ -7879,6 +8289,7 @@
       "id": "mix-batata-doce-chips",
       "descricao": "MIX BATATA DOCE CHIPS",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/MIX_DE_BATATA_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "3871",
@@ -7893,6 +8304,7 @@
       "id": "salgadinho-bacon",
       "descricao": "SALGADINHO BACON",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
       "variacoes": [
         {
           "codigo": "2825",
@@ -7907,6 +8319,7 @@
       "id": "salgadinho-calabresa",
       "descricao": "SALGADINHO CALABRESA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_CALABRESA.jpg",
       "variacoes": [
         {
           "codigo": "2828",
@@ -7921,6 +8334,7 @@
       "id": "salgadinho-camaro",
       "descricao": "SALGADINHO CAMARÃO",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_CAMARAO.jpg",
       "variacoes": [
         {
           "codigo": "2826",
@@ -7935,6 +8349,7 @@
       "id": "salgadinho-cebola-e-salsa",
       "descricao": "SALGADINHO CEBOLA E SALSA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "3058",
@@ -7949,6 +8364,7 @@
       "id": "salgadinho-churrasco",
       "descricao": "SALGADINHO CHURRASCO",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_CHURRASCO.jpg",
       "variacoes": [
         {
           "codigo": "3059",
@@ -7963,6 +8379,7 @@
       "id": "salgadinho-pimenta-mexicana",
       "descricao": "SALGADINHO PIMENTA MEXICANA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
       "variacoes": [
         {
           "codigo": "2829",
@@ -7977,6 +8394,7 @@
       "id": "salgadinho-pizza",
       "descricao": "SALGADINHO PIZZA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
       "variacoes": [
         {
           "codigo": "4126",
@@ -7991,6 +8409,7 @@
       "id": "salgadinho-queijo",
       "descricao": "SALGADINHO QUEIJO",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
       "variacoes": [
         {
           "codigo": "2827",
@@ -8005,6 +8424,7 @@
       "id": "mandioca-frita-chips",
       "descricao": "MANDIOCA FRITA CHIPS",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS.jpg",
       "variacoes": [
         {
           "codigo": "3801",
@@ -8019,6 +8439,7 @@
       "id": "mandioca-frita-chips-csalsa",
       "descricao": "MANDIOCA FRITA CHIPS C/SALSA",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
           "codigo": "3833",
@@ -8033,6 +8454,7 @@
       "id": "rabinho-de-porco-desidratado",
       "descricao": "RABINHO DE PORCO DESIDRATADO",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/RABINHO_DE_PORCO.jpg",
       "variacoes": [
         {
           "codigo": "3897",
@@ -8047,6 +8469,7 @@
       "id": "torresmo-pronto",
       "descricao": "TORRESMO PRONTO",
       "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/TORRESMO_PRONTO.jpg",
       "variacoes": [
         {
           "codigo": "3764",
@@ -8063,6 +8486,7 @@
       "id": "bala-azedinha-cereja",
       "descricao": "BALA AZEDINHA CEREJA",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_AZEDINHA_CEREJA.jpg",
       "variacoes": [
         {
           "codigo": "3434",
@@ -8084,6 +8508,7 @@
       "id": "bala-azedinha-colorida",
       "descricao": "BALA AZEDINHA COLORIDA",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_AZEDINHA_COLORIDA.jpg",
       "variacoes": [
         {
           "codigo": "3019",
@@ -8105,6 +8530,7 @@
       "id": "bala-azedinha-morango",
       "descricao": "BALA AZEDINHA MORANGO",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_AZEDINHA_COLORIDA.jpg",
       "variacoes": [
         {
           "codigo": "4490",
@@ -8126,6 +8552,7 @@
       "id": "bala-azedinha-tutti-frutti",
       "descricao": "BALA AZEDINHA TUTTI-FRUTTI",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_AZEDINHA_TUTTI_FRUIT.jpg",
       "variacoes": [
         {
           "codigo": "3477",
@@ -8147,6 +8574,7 @@
       "id": "bala-dente-de-vampiro",
       "descricao": "BALA DENTE DE VAMPIRO",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DENTE_DE_VAMPIRO.jpg",
       "variacoes": [
         {
           "codigo": "4344",
@@ -8161,6 +8589,7 @@
       "id": "bala-de-goma",
       "descricao": "BALA DE GOMA",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
       "variacoes": [
         {
           "codigo": "2674",
@@ -8182,6 +8611,7 @@
       "id": "bala-de-goma-aa",
       "descricao": "BALA DE GOMA AÇAÍ",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA_ACAI.jpg",
       "variacoes": [
         {
           "codigo": "3720",
@@ -8203,6 +8633,7 @@
       "id": "bala-de-goma-aneis",
       "descricao": "BALA DE GOMA ANEIS",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA_ANEIS.jpg",
       "variacoes": [
         {
           "codigo": "3766",
@@ -8224,6 +8655,7 @@
       "id": "bala-de-goma-frutas",
       "descricao": "BALA DE GOMA FRUTAS",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA_FRUTAS.jpg",
       "variacoes": [
         {
           "codigo": "3127",
@@ -8245,6 +8677,7 @@
       "id": "bala-de-goma-gurt",
       "descricao": "BALA DE GOMA GURT",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA_GURT.jpg",
       "variacoes": [
         {
           "codigo": "3436",
@@ -8266,6 +8699,7 @@
       "id": "bala-de-gomus",
       "descricao": "BALA DE GOMUS",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_GOMUS.jpg",
       "variacoes": [
         {
           "codigo": "3129",
@@ -8287,6 +8721,7 @@
       "id": "bala-de-goma-ursinhos",
       "descricao": "BALA DE GOMA URSINHOS",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
       "variacoes": [
         {
           "codigo": "4159",
@@ -8308,6 +8743,7 @@
       "id": "bala-de-goma-ice-eucalipto",
       "descricao": "BALA DE GOMA ICE EUCALIPTO",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
       "variacoes": [
         {
           "codigo": "4562",
@@ -8329,6 +8765,7 @@
       "id": "bala-jujuba",
       "descricao": "BALA JUJUBA",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_JUJUBA.jpg",
       "variacoes": [
         {
           "codigo": "2824",
@@ -8350,6 +8787,7 @@
       "id": "bala-minhoca-acida",
       "descricao": "BALA MINHOCA ACIDA",
       "categoria": "doces",
+      "imagem": "/images/doces/BALA_MINHOCA_ACIDA.jpg",
       "variacoes": [
         {
           "codigo": "3131",
@@ -8371,6 +8809,7 @@
       "id": "bala-gelatina-amoras",
       "descricao": "BALA GELATINA AMORAS",
       "categoria": "doces",
+      "imagem": "/images/doces/GELATINA_AMORAS.jpg",
       "variacoes": [
         {
           "codigo": "4346",
@@ -8385,6 +8824,7 @@
       "id": "bala-gelatina-banana",
       "descricao": "BALA GELATINA BANANA",
       "categoria": "doces",
+      "imagem": "/images/doces/GELATINA_BANANA.jpg",
       "variacoes": [
         {
           "codigo": "4345",
@@ -8399,6 +8839,7 @@
       "id": "bala-gelatina-beijo",
       "descricao": "BALA GELATINA BEIJO",
       "categoria": "doces",
+      "imagem": "/images/doces/GELATINA_BEIJO.jpg",
       "variacoes": [
         {
           "codigo": "4347",
@@ -8413,6 +8854,7 @@
       "id": "bala-geatina-cobrinha-citrica",
       "descricao": "BALA GEATINA COBRINHA CITRICA",
       "categoria": "doces",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "4446",
@@ -8427,6 +8869,7 @@
       "id": "bala-geatina-diversas",
       "descricao": "BALA GEATINA DIVERSAS",
       "categoria": "doces",
+      "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
       "variacoes": [
         {
           "codigo": "4476",
@@ -8441,6 +8884,7 @@
       "id": "bala-gelatina-mix-formatos",
       "descricao": "BALA GELATINA MIX FORMATOS",
       "categoria": "doces",
+      "imagem": "/images/doces/GELATINA_FORMATOS.jpg",
       "variacoes": [
         {
           "codigo": "4348",
@@ -8455,6 +8899,7 @@
       "id": "bananada-rezende",
       "descricao": "BANANADA REZENDE",
       "categoria": "doces",
+      "imagem": "/images/doces/BANANADA_REZENDE.jpg",
       "variacoes": [
         {
           "codigo": "4456",
@@ -8469,6 +8914,7 @@
       "id": "bananinha-cristalizada",
       "descricao": "BANANINHA CRISTALIZADA",
       "categoria": "doces",
+      "imagem": "/images/doces/BANANINHA_CRISTALIZADA.jpg",
       "variacoes": [
         {
           "codigo": "4051",
@@ -8483,6 +8929,7 @@
       "id": "bolacha-kibom",
       "descricao": "BOLACHA  KIBOM",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_KIBOM.jpg",
       "variacoes": [
         {
           "codigo": "4408",
@@ -8497,6 +8944,7 @@
       "id": "bolacha-areia",
       "descricao": "BOLACHA AREIA",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_AREIA.jpg",
       "variacoes": [
         {
           "codigo": "4341",
@@ -8511,6 +8959,7 @@
       "id": "bolacha-bambole-n4",
       "descricao": "BOLACHA BAMBOLE Nº4",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_BAMBOLE.jpg",
       "variacoes": [
         {
           "codigo": "4265",
@@ -8525,6 +8974,7 @@
       "id": "bolacha-bambole-recheado-n5",
       "descricao": "BOLACHA BAMBOLE RECHEADO Nº5",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_BAMBOLE_RECHEADO.jpg",
       "variacoes": [
         {
           "codigo": "4266",
@@ -8539,6 +8989,7 @@
       "id": "bolacha-beijinho-freira-n8",
       "descricao": "BOLACHA BEIJINHO FREIRA Nº8",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_BEIJINHO_DE_FREIRA.jpg",
       "variacoes": [
         {
           "codigo": "4269",
@@ -8553,6 +9004,7 @@
       "id": "bolacha-belisco-n12",
       "descricao": "BOLACHA BELISCÃO Nº12",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_BELISCAO.jpg",
       "variacoes": [
         {
           "codigo": "4273",
@@ -8567,6 +9019,7 @@
       "id": "bolacha-casadinha",
       "descricao": "BOLACHA CASADINHA",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_CASADINHA.jpg",
       "variacoes": [
         {
           "codigo": "4405",
@@ -8581,6 +9034,7 @@
       "id": "bolacha-ganache-de-morango",
       "descricao": "BOLACHA GANACHE DE MORANGO",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_GANACHE_DE_MORANGO.jpg",
       "variacoes": [
         {
           "codigo": "4406",
@@ -8595,6 +9049,7 @@
       "id": "bolacha-goiabinha-n6",
       "descricao": "BOLACHA GOIABINHA Nº6",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_GOIABINHA.jpg",
       "variacoes": [
         {
           "codigo": "4267",
@@ -8609,6 +9064,7 @@
       "id": "bolacha-juju-n10",
       "descricao": "BOLACHA JUJU Nº10",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_JUJU.jpg",
       "variacoes": [
         {
           "codigo": "4271",
@@ -8623,6 +9079,7 @@
       "id": "bolacha-kishow-n15",
       "descricao": "BOLACHA KISHOW Nº15",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_KISHOW.jpg",
       "variacoes": [
         {
           "codigo": "4276",
@@ -8637,6 +9094,7 @@
       "id": "bolacha-lemon-show",
       "descricao": "BOLACHA LEMON SHOW",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_LEMON_SHOW.jpg",
       "variacoes": [
         {
           "codigo": "4342",
@@ -8651,6 +9109,7 @@
       "id": "bolacha-mini-waffer",
       "descricao": "BOLACHA MINI WAFFER",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_WAFER.jpg",
       "variacoes": [
         {
           "codigo": "4398",
@@ -8665,6 +9124,7 @@
       "id": "bolacha-palito-c-chocolate-n9",
       "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
       "categoria": "doces",
+      "imagem": "/arroz.jpeg",
       "variacoes": [
         {
           "codigo": "4270",
@@ -8679,6 +9139,7 @@
       "id": "bolacha-palmier-canela-n14",
       "descricao": "BOLACHA PALMIER CANELA Nº14",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_PALMIER_CANELA.jpg",
       "variacoes": [
         {
           "codigo": "4275",
@@ -8693,6 +9154,7 @@
       "id": "bolacha-palmier-n3",
       "descricao": "BOLACHA PALMIER Nº3",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_PALMIER.jpg",
       "variacoes": [
         {
           "codigo": "4274",
@@ -8707,6 +9169,7 @@
       "id": "bolacha-po-de-mel",
       "descricao": "BOLACHA PÃO DE MEL",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_PAO_DE_MEL.jpg",
       "variacoes": [
         {
           "codigo": "4399",
@@ -8721,6 +9184,7 @@
       "id": "bolacha-pistache",
       "descricao": "BOLACHA PISTACHE",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_COM_PISTACHE.jpg",
       "variacoes": [
         {
           "codigo": "4404",
@@ -8735,6 +9199,7 @@
       "id": "bolacha-rosca-coco-n1",
       "descricao": "BOLACHA ROSCA COCO Nº1",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO.jpg",
       "variacoes": [
         {
           "codigo": "4262",
@@ -8749,6 +9214,7 @@
       "id": "bolacha-rosca-flocos-n2",
       "descricao": "BOLACHA ROSCA FLOCOS Nº2",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_COCO_FLOCOS.jpg",
       "variacoes": [
         {
           "codigo": "4263",
@@ -8763,6 +9229,7 @@
       "id": "bolacha-rosca-nata-n3",
       "descricao": "BOLACHA ROSCA NATA Nº3",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_ROSCA_DE_NATA.jpg",
       "variacoes": [
         {
           "codigo": "4264",
@@ -8777,6 +9244,7 @@
       "id": "bolacha-seduo",
       "descricao": "BOLACHA SEDUÇÃO",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_SEDUCAO.jpg",
       "variacoes": [
         {
           "codigo": "4407",
@@ -8791,6 +9259,7 @@
       "id": "bolacha-sonho-de-valsa",
       "descricao": "BOLACHA SONHO DE VALSA",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_SONHO_DE_VALSA.jpg",
       "variacoes": [
         {
           "codigo": "4397",
@@ -8805,6 +9274,7 @@
       "id": "bolacha-torcidinha-de-canela",
       "descricao": "BOLACHA TORCIDINHA DE CANELA",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_TORCIDINHA_CANELA.jpg",
       "variacoes": [
         {
           "codigo": "4343",
@@ -8819,6 +9289,7 @@
       "id": "bolacha-uga-uga-n7",
       "descricao": "BOLACHA UGA UGA Nº7",
       "categoria": "doces",
+      "imagem": "/images/doces/BOLACHA_UGA_UGA.jpg",
       "variacoes": [
         {
           "codigo": "4268",
@@ -8833,6 +9304,7 @@
       "id": "crocante-chocolate",
       "descricao": "CROCANTE CHOCOLATE",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "2833",
@@ -8854,6 +9326,7 @@
       "id": "crocante-chocolate-branco",
       "descricao": "CROCANTE CHOCOLATE BRANCO",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "3753",
@@ -8875,6 +9348,7 @@
       "id": "crocante-doce",
       "descricao": "CROCANTE DOCE",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "2511",
@@ -8889,6 +9363,7 @@
       "id": "crocante-doce-banoffe",
       "descricao": "CROCANTE DOCE BANOFFE",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "4311",
@@ -8903,6 +9378,7 @@
       "id": "crocante-doce-branco",
       "descricao": "CROCANTE DOCE BRANCO",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "4047",
@@ -8924,6 +9400,7 @@
       "id": "crocante-doce-coco",
       "descricao": "CROCANTE DOCE COCO",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_DOCE_COCO.jpg",
       "variacoes": [
         {
           "codigo": "4312",
@@ -8938,6 +9415,7 @@
       "id": "crocante-doce-iogurte",
       "descricao": "CROCANTE DOCE IOGURTE",
       "categoria": "doces",
+      "imagem": "/images/doces/CROCANTE_DOCE.jpg",
       "variacoes": [
         {
           "codigo": "4310",
@@ -8952,6 +9430,7 @@
       "id": "cocada-cremosa",
       "descricao": "COCADA CREMOSA",
       "categoria": "doces",
+      "imagem": "/images/doces/COCADA_CREMOSA.jpg",
       "variacoes": [
         {
           "codigo": "4074",
@@ -8966,6 +9445,7 @@
       "id": "cocada-mista",
       "descricao": "COCADA MISTA",
       "categoria": "doces",
+      "imagem": "/images/doces/COCADA_MISTA.jpg",
       "variacoes": [
         {
           "codigo": "4076",
@@ -8980,6 +9460,7 @@
       "id": "goiabada-casco",
       "descricao": "GOIABADA CASCÃO",
       "categoria": "doces",
+      "imagem": "/images/doces/GOIABADA_CASCAO.jpg",
       "variacoes": [
         {
           "codigo": "4133",
@@ -8994,6 +9475,7 @@
       "id": "confete-kukets",
       "descricao": "CONFETE KUKETS",
       "categoria": "doces",
+      "imagem": "/images/doces/CONFETE_KUKETS.jpg",
       "variacoes": [
         {
           "codigo": "3087",
@@ -9015,6 +9497,7 @@
       "id": "chips-de-coco",
       "descricao": "CHIPS DE COCO",
       "categoria": "doces",
+      "imagem": "/images/doces/CHIPS_DE_COCO.jpg",
       "variacoes": [
         {
           "codigo": "4560",
@@ -9029,6 +9512,7 @@
       "id": "chips-de-coco-nectar-de-maa",
       "descricao": "CHIPS DE COCO NECTAR DE MAÇA",
       "categoria": "doces",
+      "imagem": "/images/doces/CHIPS_DE_COCO_NECTAR_DE_MACA.jpg",
       "variacoes": [
         {
           "codigo": "4532",
@@ -9050,6 +9534,7 @@
       "id": "choco-boll-mini-mesclado",
       "descricao": "CHOCO BOLL MINI MESCLADO",
       "categoria": "doces",
+      "imagem": "/images/doces/CHOCO_BOLL_MESCLADO.jpg",
       "variacoes": [
         {
           "codigo": "4559",
@@ -9064,6 +9549,7 @@
       "id": "choco-boll-com-chocolate",
       "descricao": "CHOCO BOLL COM CHOCOLATE",
       "categoria": "doces",
+      "imagem": "/images/doces/CHOCO_BOLL_COM_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "4493",
@@ -9078,6 +9564,7 @@
       "id": "doce-de-leite-c-ameixa",
       "descricao": "DOCE DE LEITE C/ AMEIXA",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_AMEIXA.jpg",
       "variacoes": [
         {
           "codigo": "4102",
@@ -9092,6 +9579,7 @@
       "id": "doce-de-leite-c-chocolate",
       "descricao": "DOCE DE LEITE C/ CHOCOLATE",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "4103",
@@ -9106,6 +9594,7 @@
       "id": "doce-de-leite-c-amendoim",
       "descricao": "DOCE DE LEITE C/ AMENDOIM",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_AMENDOIM.jpg",
       "variacoes": [
         {
           "codigo": "4547",
@@ -9120,6 +9609,7 @@
       "id": "doce-de-leite-c-coco",
       "descricao": "DOCE DE LEITE C/ COCO",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE.jpg",
       "variacoes": [
         {
           "codigo": "4104",
@@ -9134,6 +9624,7 @@
       "id": "doce-de-leite-c-goiaba",
       "descricao": "DOCE DE LEITE C/ GOIABA",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_GOIABA.jpg",
       "variacoes": [
         {
           "codigo": "4101",
@@ -9148,6 +9639,7 @@
       "id": "doce-de-leite-c-morango",
       "descricao": "DOCE DE LEITE C/ MORANGO",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE_COM_MORANGO.jpg",
       "variacoes": [
         {
           "codigo": "4105",
@@ -9162,6 +9654,7 @@
       "id": "doce-halawi",
       "descricao": "DOCE HALAWI",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_HALAWI.jpg",
       "variacoes": [
         {
           "codigo": "3705",
@@ -9176,6 +9669,7 @@
       "id": "doce-de-leite-puro",
       "descricao": "DOCE DE LEITE PURO",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_LEITE.jpg",
       "variacoes": [
         {
           "codigo": "3823",
@@ -9190,6 +9684,7 @@
       "id": "doce-de-abobora-c-coco",
       "descricao": "DOCE DE ABOBORA C/ COCO",
       "categoria": "doces",
+      "imagem": "/images/doces/DOCE_DE_ABOBORA.jpg",
       "variacoes": [
         {
           "codigo": "4583",
@@ -9204,6 +9699,7 @@
       "id": "geleia-mocot",
       "descricao": "GELEIA MOCOTÓ",
       "categoria": "doces",
+      "imagem": "/images/doces/GELEIA_DE_MOCOTO.jpg",
       "variacoes": [
         {
           "codigo": "4308",
@@ -9218,6 +9714,7 @@
       "id": "geleia-mocot-c-amendoim",
       "descricao": "GELEIA MOCOTÓ C/ AMENDOIM",
       "categoria": "doces",
+      "imagem": "/images/doces/GELEIA_DE_MOCOTO_COM_AMENDOIM.jpg",
       "variacoes": [
         {
           "codigo": "4309",
@@ -9232,6 +9729,7 @@
       "id": "gota-chocolate",
       "descricao": "GOTA CHOCOLATE",
       "categoria": "doces",
+      "imagem": "/images/doces/GOTA_DE_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "4412",
@@ -9246,6 +9744,7 @@
       "id": "granulado-colorido",
       "descricao": "GRANULADO COLORIDO",
       "categoria": "doces",
+      "imagem": "/images/doces/GRANULADO_COLORIDO.jpg",
       "variacoes": [
         {
           "codigo": "4414",
@@ -9267,6 +9766,7 @@
       "id": "granulado-chocolate",
       "descricao": "GRANULADO CHOCOLATE",
       "categoria": "doces",
+      "imagem": "/images/doces/GRANULADO_CHOCOLATE.jpg",
       "variacoes": [
         {
           "codigo": "4416",
@@ -9288,6 +9788,7 @@
       "id": "marshmallow-diversos",
       "descricao": "MARSHMALLOW DIVERSOS",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_DIVERSOS.jpg",
       "variacoes": [
         {
           "codigo": "4475",
@@ -9302,6 +9803,7 @@
       "id": "marshmallow-recheado-color-8990",
       "descricao": "MARSHMALLOW RECHEADO COLOR -8990",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_RECHEADO_COLOR.jpg",
       "variacoes": [
         {
           "codigo": "4354",
@@ -9316,6 +9818,7 @@
       "id": "marshmallow-recheado-pinta-lngua-80075",
       "descricao": "MARSHMALLOW RECHEADO PINTA LÍNGUA-80075",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_RECHEADO_PINTA_LÍNGUA.jpg",
       "variacoes": [
         {
           "codigo": "4445",
@@ -9330,6 +9833,7 @@
       "id": "marshmallow-tubo-br-81417",
       "descricao": "MARSHMALLOW TUBO BR -81417",
       "categoria": "doces",
+      "imagem": "/images/doces/MARMARSHMALLOW_TUBO_BR.jpg",
       "variacoes": [
         {
           "codigo": "4353",
@@ -9344,6 +9848,7 @@
       "id": "marshmallow-tubo-color-81416",
       "descricao": "MARSHMALLOW TUBO COLOR -81416",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_TUBO_COLOR.jpg",
       "variacoes": [
         {
           "codigo": "4350",
@@ -9358,6 +9863,7 @@
       "id": "marshmallow-tubo-toro-81415",
       "descricao": "MARSHMALLOW TUBO TORÇÃO -81415",
       "categoria": "doces",
+      "imagem": "/images/doces/MARMARSHMALLOW_TUBO_TORCAO.jpg",
       "variacoes": [
         {
           "codigo": "4352",
@@ -9372,6 +9878,7 @@
       "id": "marshmallow-twist-color-8930",
       "descricao": "MARSHMALLOW TWIST COLOR -8930",
       "categoria": "doces",
+      "imagem": "/images/doces/MARMARSHMALLOW_TWIST_COLOR.jpg",
       "variacoes": [
         {
           "codigo": "4349",
@@ -9386,6 +9893,7 @@
       "id": "marshmallow-twist-rosabr-81412",
       "descricao": "MARSHMALLOW TWIST ROSA/BR -81412",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_TWIST_ROSA.jpg",
       "variacoes": [
         {
           "codigo": "4351",
@@ -9400,6 +9908,7 @@
       "id": "marshmallow-mix-fofuras-81274",
       "descricao": "MARSHMALLOW MIX FOFURAS-81274",
       "categoria": "doces",
+      "imagem": "/images/doces/MARSHMALLOW_FOFURAS.jpg",
       "variacoes": [
         {
           "codigo": "4581",
@@ -9414,6 +9923,7 @@
       "id": "paoca-de-amendoim",
       "descricao": "PAÇOCA DE AMENDOIM",
       "categoria": "doces",
+      "imagem": "/images/doces/PACOCA_AMENDOIM.jpg",
       "variacoes": [
         {
           "codigo": "4096",
@@ -9428,6 +9938,7 @@
       "id": "p-de-moleque-moido",
       "descricao": "PÉ DE MOLEQUE MOIDO",
       "categoria": "doces",
+      "imagem": "/images/doces/PE_DE_MOLEQUE.jpg",
       "variacoes": [
         {
           "codigo": "4123",
@@ -9442,6 +9953,7 @@
       "id": "p-de-moleque-rezenda",
       "descricao": "PÉ DE MOLEQUE REZENDA",
       "categoria": "doces",
+      "imagem": "/images/doces/PE_DE_MOLEQUE_REZENDA.jpg",
       "variacoes": [
         {
           "codigo": "4306",
@@ -9456,6 +9968,7 @@
       "id": "p-de-moa-resenda",
       "descricao": "PÉ DE MOÇA RESENDA",
       "categoria": "doces",
+      "imagem": "/images/doces/PE_DE_MOCA.jpg",
       "variacoes": [
         {
           "codigo": "4307",
@@ -9470,6 +9983,7 @@
       "id": "rapadura",
       "descricao": "RAPADURA",
       "categoria": "doces",
+      "imagem": "/images/doces/RAPADURA.jpg",
       "variacoes": [
         {
           "codigo": "2621",
@@ -9491,6 +10005,7 @@
       "id": "rapadura-de-abbora",
       "descricao": "RAPADURA DE ABÓBORA",
       "categoria": "doces",
+      "imagem": "/images/doces/RAPADURA_DE_ABOBORA.jpg",
       "variacoes": [
         {
           "codigo": "3656",
@@ -9507,6 +10022,7 @@
       "id": "concha-mdia",
       "descricao": "CONCHA MÉDIA",
       "categoria": "potes",
+      "imagem": "/images/potes/CONCHA_MEDIA.jpg",
       "variacoes": [
         {
           "codigo": "3459",
@@ -9521,6 +10037,7 @@
       "id": "concha-pequena",
       "descricao": "CONCHA PEQUENA",
       "categoria": "potes",
+      "imagem": "/images/potes/CONCHA_PEQUENA.jpg",
       "variacoes": [
         {
           "codigo": "3803",
@@ -9535,6 +10052,7 @@
       "id": "pote-quadrado-33l",
       "descricao": "POTE QUADRADO 3,3L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_3,3L.jpg",
       "variacoes": [
         {
           "codigo": "3425",
@@ -9556,6 +10074,7 @@
       "id": "pote-quadrado-74l",
       "descricao": "POTE QUADRADO 7,4L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_7,4L.jpg",
       "variacoes": [
         {
           "codigo": "3427",
@@ -9577,6 +10096,7 @@
       "id": "pote-redondo-12l",
       "descricao": "POTE REDONDO 12L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_12L.jpg",
       "variacoes": [
         {
           "codigo": "3429",
@@ -9598,6 +10118,7 @@
       "id": "pote-redondo-86l",
       "descricao": "POTE REDONDO 8,6L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_8,6L.jpg",
       "variacoes": [
         {
           "codigo": "3913",
@@ -9619,6 +10140,7 @@
       "id": "pote-retangular-15l",
       "descricao": "POTE RETANGULAR 1,5L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_1,5L.jpg",
       "variacoes": [
         {
           "codigo": "3422",
@@ -9640,6 +10162,7 @@
       "id": "pote-retangular-138l",
       "descricao": "POTE RETANGULAR 13,8L",
       "categoria": "potes",
+      "imagem": "/images/potes/POTE_13,8L.jpg",
       "variacoes": [
         {
           "codigo": "3431",
