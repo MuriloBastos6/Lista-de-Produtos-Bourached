@@ -137,6 +137,63 @@ def find_best_image(product_id, descricao, categoria, image_index):
     }
 
 
+def is_promo_category(category_name):
+    category_norm = normalize_text(category_name)
+    return category_norm in {'promocao', 'promocoes'}
+
+
+def sync_promo_images_by_id(resultado, report):
+    """Make promo items reuse the image from the same id in non-promo categories."""
+    image_by_id = {}
+
+    for category_name, products in resultado.items():
+        if is_promo_category(category_name) or not isinstance(products, list):
+            continue
+
+        for product in products:
+            product_id = str(product.get('id', '')).strip()
+            image_path = str(product.get('imagem', '')).strip()
+            if not product_id or not image_path or image_path == DEFAULT_IMAGE:
+                continue
+            image_by_id.setdefault(product_id, image_path)
+
+    detail_index = {
+        (detail.get('categoria'), detail.get('id')): detail
+        for detail in report.get('details', [])
+    }
+
+    for category_name, products in resultado.items():
+        if not is_promo_category(category_name) or not isinstance(products, list):
+            continue
+
+        for product in products:
+            product_id = str(product.get('id', '')).strip()
+            inherited_image = image_by_id.get(product_id)
+            if not inherited_image:
+                continue
+
+            previous_image = str(product.get('imagem', '')).strip()
+            product['imagem'] = inherited_image
+
+            detail = detail_index.get((category_name, product_id))
+            if not detail:
+                continue
+
+            previous_status = detail.get('status')
+            detail['imagem'] = inherited_image
+            detail['status'] = 'linked-by-id'
+            detail['score'] = 999.0
+            detail['arquivo_sugerido'] = Path(inherited_image).name
+
+            if previous_status not in {'matched', 'override', 'linked-by-id'}:
+                report['summary']['matched'] += 1
+                report['summary']['fallback'] = max(
+                    0, report['summary']['fallback'] - 1)
+                if previous_status == 'no-category-folder':
+                    report['summary']['category_without_folder'] = max(
+                        0, report['summary']['category_without_folder'] - 1)
+
+
 def converter_xlsx_para_json():
     """Converte o XLSX formatado para JSON estruturado para React"""
 
@@ -246,6 +303,8 @@ def converter_xlsx_para_json():
         print(f"  {nome_aba}: {len(produtos_lista)} produtos unicos")
         total_produtos += len(produtos_lista)
         report['summary']['categorias'] += 1
+
+    sync_promo_images_by_id(resultado, report)
 
     # Salvar JSON
     print(f"\nSalvando JSON em: {json_output}")
