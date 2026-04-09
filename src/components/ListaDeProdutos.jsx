@@ -58,7 +58,7 @@ function ListaDeProdutos() {
   const categoria = {
     titulo: "Promoções da semana!!",
     subtitulo: "Valida até 07/04/2026 ou enquanto durarem os estoques",
-    capa: "/banner.png",
+    capa: "/banner-b.png",
   };
 
   useEffect(() => {
