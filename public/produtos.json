@@ -4,7 +4,7 @@
       "id": "uva-passa-preta",
       "descricao": "UVA PASSA PRETA",
       "categoria": "promoçoes",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
       "variacoes": [
         {
           "codigo": "2229",
@@ -329,7 +329,7 @@
       "id": "amendoim-frito-c-alho-c-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-frito-com-alho-com-pele.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-c-alho-c-pele.jpg",
       "variacoes": [
         {
           "codigo": "2643",
@@ -344,7 +344,7 @@
       "id": "amendoim-frito-c-alho-s-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-frito-com-alho-com-pele.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-c-alho-s-pele.jpg",
       "variacoes": [
         {
           "codigo": "2644",
@@ -359,7 +359,7 @@
       "id": "amendoim-frito-c-sal-c-pele",
       "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-c-sal-c-pele.jpg",
       "variacoes": [
         {
           "codigo": "2570",
@@ -374,7 +374,7 @@
       "id": "amendoim-frito-c-sal-spele",
       "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-c-sal-spele.jpg",
       "variacoes": [
         {
           "codigo": "3021",
@@ -463,7 +463,7 @@
       "id": "amendoim-s-pele",
       "descricao": "AMENDOIM S/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
       "variacoes": [
         {
           "codigo": "2629",
@@ -514,7 +514,7 @@
       "id": "amendoim-s-pele-torrado-s-sal",
       "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
       "variacoes": [
         {
           "codigo": "2451",
@@ -565,7 +565,7 @@
       "id": "castanha-de-caju-caramelizada-aa",
       "descricao": "CASTANHA DE CAJU CARAMELIZADA AÇAÍ",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/castanha-de-caju-caramelizada-acai.jpg",
       "variacoes": [
         {
           "codigo": "4138",
@@ -580,7 +580,7 @@
       "id": "castanha-de-caju-w1-assada",
       "descricao": "CASTANHA DE CAJU W1 ASSADA",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-assada.jpg",
       "variacoes": [
         {
           "codigo": "2524",
@@ -602,7 +602,7 @@
       "id": "castanha-de-caju-w1-crua",
       "descricao": "CASTANHA DE CAJU W1 CRUA",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-crua.jpg",
       "variacoes": [
         {
           "codigo": "2523",
@@ -624,7 +624,7 @@
       "id": "castanha-de-caju-w1-t",
       "descricao": "CASTANHA DE CAJU W1 T.",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-t.jpg",
       "variacoes": [
         {
           "codigo": "2271",
@@ -653,7 +653,7 @@
       "id": "castanha-de-caju-w1-ts",
       "descricao": "CASTANHA DE CAJU W1 T.S",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CAJU_W1_T_S.jpg",
+      "imagem": "/images/amendoim/castanha-de-caju-w1-t-s.jpg",
       "variacoes": [
         {
           "codigo": "285",
@@ -1176,7 +1176,7 @@
       "id": "arroz-cateto-br",
       "descricao": "ARROZ CATETO BR",
       "categoria": "arroz",
-      "imagem": "/images/arroz/ARROZ_CATETO_VM_BR.jpg",
+      "imagem": "/images/arroz/arroz-cateto-br.jpg",
       "variacoes": [
         {
           "codigo": "2456",
