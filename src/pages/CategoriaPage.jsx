@@ -117,7 +117,25 @@ function CategoriaPage() {
           const produtosCategoria = Array.isArray(data?.[slug])
             ? data[slug]
             : [];
-          setProdutos(produtosCategoria);
+          const itensPromocao =
+            (Array.isArray(data?.promoçoes) && data.promoçoes) ||
+            (Array.isArray(data?.promoções) && data.promoções) ||
+            (Array.isArray(data?.promocoes) && data.promocoes) ||
+            (Array.isArray(data?.promocao) && data.promocao) ||
+            [];
+
+          const idsPromocao = new Set(
+            itensPromocao
+              .map((item) => String(item?.id || "").trim())
+              .filter(Boolean),
+          );
+
+          const produtosComSelo = produtosCategoria.map((produto) => ({
+            ...produto,
+            isPromocao: idsPromocao.has(String(produto?.id || "").trim()),
+          }));
+
+          setProdutos(produtosComSelo);
         }
       })
       .catch(() => {
@@ -169,7 +187,10 @@ function CategoriaPage() {
 
   return (
     <section className="produtosPage">
-      <div className="navegacao-categorias" aria-label="Navegacao de categorias">
+      <div
+        className="navegacao-categorias"
+        aria-label="Navegacao de categorias"
+      >
         <Link
           className="nav-categoria-btn"
           to={`/${categoriaAnterior}`}
@@ -208,7 +229,9 @@ function CategoriaPage() {
       <div className="conteudo-container">
         {carregando && <p>Carregando produtos...</p>}
         {!carregando && erro && <p>{erro}</p>}
-        {!carregando && !erro && <ProdutosGrid produtos={produtos} />}
+        {!carregando && !erro && (
+          <ProdutosGrid produtos={produtos} exibirSeloPromocao />
+        )}
       </div>
     </section>
   );

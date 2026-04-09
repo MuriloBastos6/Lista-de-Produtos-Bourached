@@ -133,11 +133,16 @@ function BuscaPage() {
   }, [todosProdutos, termo]);
 
   const slugReferencia = useMemo(() => {
-    const slugResultado = resultados.find((item) => ordemCategorias.includes(item.slug))?.slug;
+    const slugResultado = resultados.find((item) =>
+      ordemCategorias.includes(item.slug),
+    )?.slug;
     return slugResultado || ordemCategorias[0];
   }, [resultados]);
 
-  const indiceAtual = useMemo(() => ordemCategorias.indexOf(slugReferencia), [slugReferencia]);
+  const indiceAtual = useMemo(
+    () => ordemCategorias.indexOf(slugReferencia),
+    [slugReferencia],
+  );
   const categoriaAnterior =
     indiceAtual >= 0
       ? ordemCategorias[
@@ -159,7 +164,10 @@ function BuscaPage() {
 
   return (
     <section className="produtosPage">
-      <div className="navegacao-categorias" aria-label="Navegacao de categorias">
+      <div
+        className="navegacao-categorias"
+        aria-label="Navegacao de categorias"
+      >
         <Link
           className="nav-categoria-btn"
           to={`/${categoriaAnterior}`}

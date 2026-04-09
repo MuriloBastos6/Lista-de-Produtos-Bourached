@@ -1,12 +1,13 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 
 function Carrosel() {
+  const LIMITE_SWIPE = 48;
   const slides = [
     {
       slug: "amendoim",
       image: "/amendoim.jpeg",
-      title: "Amendoim e castanhas",
+      title: "Amendoins & Castanhas",
       subtitle: "Clique para ver todos os produtos",
     },
     {
@@ -18,31 +19,31 @@ function Carrosel() {
     {
       slug: "sucrilhos",
       image: "/sucrilhos.jpeg",
-      title: "Sucrilhos",
+      title: "Cereais",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "cha",
       image: "/cha.jpeg",
-      title: "Cha",
+      title: "Chás",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "farinhas",
       image: "/farinhas.jpeg",
-      title: "Farinhas",
+      title: "Farinaceos",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "graos",
       image: "/graos.jpeg",
-      title: "Graos",
+      title: "Grãos",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "panificacao",
       image: "/panificacoes.jpeg",
-      title: "Panificacao",
+      title: "Panificação",
       subtitle: "Clique para ver todos os produtos",
     },
     {
@@ -72,25 +73,25 @@ function Carrosel() {
     {
       slug: "refris",
       image: "/refris.jpeg",
-      title: "Refris",
+      title: "Refrigerantes & Sucos",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "oleo",
       image: "/oleo.jpeg",
-      title: "Oleo",
+      title: "Óleos vegetais",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "goma",
       image: "/Goma.png",
-      title: "Goma",
+      title: "Gomas pronta",
       subtitle: "Clique para ver todos os produtos",
     },
     {
       slug: "salgadinhos",
       image: "/salgadinho.jpeg",
-      title: "Salgadinhos",
+      title: "Salgadinhos & snacks",
       subtitle: "Clique para ver todos os produtos",
     },
     {
@@ -108,6 +109,11 @@ function Carrosel() {
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [bloquearClique, setBloquearClique] = useState(false);
+  const touchStartX = useRef(0);
+  const touchDeltaX = useRef(0);
+  const swipeEmAndamento = useRef(false);
+  const cliqueTimerRef = useRef(null);
 
   function nextSlide() {
     setCurrentIndex((prev) => (prev + 1) % slides.length);
@@ -115,6 +121,47 @@ function Carrosel() {
 
   function prevSlide() {
     setCurrentIndex((prev) => (prev - 1 + slides.length) % slides.length);
+  }
+
+  function onTouchStart(event) {
+    touchStartX.current = event.touches[0].clientX;
+    touchDeltaX.current = 0;
+    swipeEmAndamento.current = false;
+  }
+
+  function onTouchMove(event) {
+    touchDeltaX.current = event.touches[0].clientX - touchStartX.current;
+    if (Math.abs(touchDeltaX.current) > 10) {
+      swipeEmAndamento.current = true;
+    }
+  }
+
+  function onTouchEnd() {
+    if (Math.abs(touchDeltaX.current) >= LIMITE_SWIPE) {
+      if (touchDeltaX.current < 0) {
+        nextSlide();
+      } else {
+        prevSlide();
+      }
+
+      setBloquearClique(true);
+      if (cliqueTimerRef.current) {
+        clearTimeout(cliqueTimerRef.current);
+      }
+      cliqueTimerRef.current = setTimeout(() => {
+        setBloquearClique(false);
+      }, 250);
+    }
+
+    touchDeltaX.current = 0;
+    swipeEmAndamento.current = false;
+  }
+
+  function onClickCapture(event) {
+    if (bloquearClique || swipeEmAndamento.current) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
   }
 
   useEffect(() => {
@@ -125,11 +172,24 @@ function Carrosel() {
     return () => clearInterval(timer);
   }, [slides.length]);
 
+  useEffect(() => {
+    return () => {
+      if (cliqueTimerRef.current) {
+        clearTimeout(cliqueTimerRef.current);
+      }
+    };
+  }, []);
+
   return (
     <section className="carrossel" aria-label="Carrossel de ofertas">
       <div
         className="carrossel-track"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
+        onTouchStart={onTouchStart}
+        onTouchMove={onTouchMove}
+        onTouchEnd={onTouchEnd}
+        onTouchCancel={onTouchEnd}
+        onClickCapture={onClickCapture}
       >
         {slides.map((slide) => (
           <article className="carrossel-slide" key={slide.slug}>

@@ -487,6 +487,7 @@ body::-webkit-scrollbar {
 .carrossel-track {
   display: flex;
   transition: transform 0.6s ease;
+  touch-action: pan-y;
 }
 
 .carrossel-slide {
@@ -703,6 +704,23 @@ body::-webkit-scrollbar {
     0 14px 30px rgba(9, 44, 95, 0.14),
     0 2px 0 rgba(255, 255, 255, 0.45) inset;
   transition: transform var(--transition-fast), box-shadow var(--transition-fast), border-color var(--transition-fast), background var(--transition-smooth);
+}
+
+.selo-promocao {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.7rem;
+  z-index: 3;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 230, 0, 0.9);
+  background: rgba(7, 31, 94, 0.94);
+  color: #ffe100;
+  font-family: "Outfit", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.35px;
+  text-transform: uppercase;
 }
 
 .card-produto::before {

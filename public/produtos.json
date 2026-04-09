@@ -1,4 +1,21 @@
 {
+  "promoçoes": [
+    {
+      "id": "uva-passa-preta",
+      "descricao": "UVA PASSA PRETA",
+      "categoria": "promoçoes",
+      "imagem": "/arroz.jpeg",
+      "variacoes": [
+        {
+          "codigo": "2229",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 140.0
+        }
+      ]
+    }
+  ],
   "amendoim": [
     {
       "id": "amendoa-w4-ts",
@@ -56,7 +73,7 @@
       "id": "amendoa-crua",
       "descricao": "AMENDOA CRUA",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CAJU_CRUA.jpg",
+      "imagem": "/images/amendoim/amendoa-crua.jpg",
       "variacoes": [
         {
           "codigo": "2444",
@@ -173,7 +190,7 @@
       "id": "amendoim-caramelizado",
       "descricao": "AMENDOIM CARAMELIZADO",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-sempele.jpg",
+      "imagem": "/images/amendoim/amendoim-caramelizado.jpg",
       "variacoes": [
         {
           "codigo": "3367",
@@ -202,7 +219,7 @@
       "id": "amendoim-caramelizado-c-coco",
       "descricao": "AMENDOIM CARAMELIZADO C/ COCO",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-caramelizado-com-coco.png",
       "variacoes": [
         {
           "codigo": "3368",
@@ -231,7 +248,7 @@
       "id": "amendoim-caramelizado-c-gergelim",
       "descricao": "AMENDOIM CARAMELIZADO C/ GERGELIM",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-caramelizado-com-gergelim.webp",
       "variacoes": [
         {
           "codigo": "3372",
@@ -253,7 +270,7 @@
       "id": "amendoim-caramelizado-c-mel",
       "descricao": "AMENDOIM CARAMELIZADO C/ MEL",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-caramelizado.jpg",
       "variacoes": [
         {
           "codigo": "3380",
@@ -297,7 +314,7 @@
       "id": "amendoim-casca-torrado",
       "descricao": "AMENDOIM CASCA TORRADO",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-casca-torrado.jpg",
       "variacoes": [
         {
           "codigo": "465",
@@ -312,7 +329,7 @@
       "id": "amendoim-frito-c-alho-c-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-com-pele.jpg",
       "variacoes": [
         {
           "codigo": "2643",
@@ -327,7 +344,7 @@
       "id": "amendoim-frito-c-alho-s-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-com-pele.jpg",
       "variacoes": [
         {
           "codigo": "2644",
@@ -372,7 +389,7 @@
       "id": "amendoim-hanner",
       "descricao": "AMENDOIM HANNER",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-sempele.jpg",
+      "imagem": "/images/amendoim/amendoim-hanner.jpg",
       "variacoes": [
         {
           "codigo": "2419",
@@ -394,7 +411,7 @@
       "id": "amendoim-hps",
       "descricao": "AMENDOIM HPS",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-sempele.jpg",
+      "imagem": "/images/amendoim/amendoim-hps.jpg",
       "variacoes": [
         {
           "codigo": "2443",
@@ -416,7 +433,7 @@
       "id": "amendoim-ovinho",
       "descricao": "AMENDOIM OVINHO",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-sempele.jpg",
+      "imagem": "/images/amendoim/amendoim-ovinho.jpg",
       "variacoes": [
         {
           "codigo": "2283",
@@ -701,14 +718,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 702.0
+          "precoVenda": 427.0
         },
         {
           "codigo": "3534",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 2800.0
+          "precoVenda": 1700.0
         }
       ]
     },
@@ -745,21 +762,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 527.0
-        },
-        {
-          "codigo": "2289",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 1300.0
+          "precoVenda": 404.0
         },
         {
           "codigo": "3532",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 2100.0
+          "precoVenda": 1560.0
         }
       ]
     },
@@ -1029,10 +1039,10 @@
         },
         {
           "codigo": "3093",
-          "pesoValor": 10.0,
+          "pesoValor": 11.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 630.0
+          "precoVenda": 693.0
         }
       ]
     },
@@ -1058,10 +1068,10 @@
         },
         {
           "codigo": "4179",
-          "pesoValor": 12.0,
+          "pesoValor": 11.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 624.0
+          "precoVenda": 572.0
         }
       ]
     },
@@ -2194,7 +2204,7 @@
       "id": "abobora-em-p",
       "descricao": "ABOBORA EM PÓ",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/ABOBORA_EM_PO.jpg",
+      "imagem": "/images/farinhas/farinha-de-leite-em-po.png",
       "variacoes": [
         {
           "codigo": "4295",
@@ -2209,7 +2219,7 @@
       "id": "farinha-acaraje",
       "descricao": "FARINHA ACARAJE",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-acarje.jpg",
       "variacoes": [
         {
           "codigo": "2490",
@@ -2231,7 +2241,7 @@
       "id": "farinha-baianinha-grossa",
       "descricao": "FARINHA BAIANINHA GROSSA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/baianinha-grossa.jpg",
+      "imagem": "/images/farinhas/farinha-baianinha-grossa.jpg",
       "variacoes": [
         {
           "codigo": "4552",
@@ -2246,7 +2256,7 @@
       "id": "farinha-baianinha-fina",
       "descricao": "FARINHA BAIANINHA FINA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/baianinha-fina.jpg",
+      "imagem": "/images/farinhas/farinha-baianinha-fina.jpg",
       "variacoes": [
         {
           "codigo": "3893",
@@ -2261,7 +2271,7 @@
       "id": "farinha-d-agua-ce",
       "descricao": "FARINHA D AGUA CE",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/d-agua-ce.jpg",
+      "imagem": "/images/farinhas/farinha-d-agua-ce.jpg",
       "variacoes": [
         {
           "codigo": "2518",
@@ -2283,7 +2293,7 @@
       "id": "farinha-d-agua-pa",
       "descricao": "FARINHA D AGUA PA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/d-agua-pa.jpg",
+      "imagem": "/images/farinhas/farinha-d-agua-pa.jpg",
       "variacoes": [
         {
           "codigo": "2517",
@@ -2305,7 +2315,7 @@
       "id": "farinha-de-amendoa",
       "descricao": "FARINHA DE AMENDOA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-amendoa.jpg",
       "variacoes": [
         {
           "codigo": "3088",
@@ -2327,7 +2337,7 @@
       "id": "farinha-de-amendoim",
       "descricao": "FARINHA DE AMENDOIM",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-amendoim.jpg",
       "variacoes": [
         {
           "codigo": "2489",
@@ -2349,7 +2359,7 @@
       "id": "farinha-de-arroz-branco",
       "descricao": "FARINHA DE ARROZ BRANCO",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/ARROZ_BRANCO.jpg",
+      "imagem": "/images/farinhas/farinha-de-arroz-branco.jpg",
       "variacoes": [
         {
           "codigo": "2437",
@@ -2361,7 +2371,7 @@
         {
           "codigo": "3415",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "PC",
           "precoVenda": 56.0
         },
@@ -2378,7 +2388,7 @@
       "id": "farinha-de-arroz-integral",
       "descricao": "FARINHA DE ARROZ INTEGRAL",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/ARROZ_INTEGRAL.jpg",
+      "imagem": "/images/farinhas/farinha-de-arroz-integral.jpg",
       "variacoes": [
         {
           "codigo": "2485",
@@ -2390,7 +2400,7 @@
         {
           "codigo": "3416",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 60.5
         },
@@ -2407,7 +2417,7 @@
       "id": "farinha-de-aveia-n6",
       "descricao": "FARINHA DE AVEIA Nº6",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/DE_AVEIA.jpg",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
       "variacoes": [
         {
           "codigo": "2256",
@@ -2429,7 +2439,7 @@
       "id": "farinha-de-banana-verde",
       "descricao": "FARINHA DE BANANA VERDE",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/BANANA_VERDE.jpg",
+      "imagem": "/images/farinhas/farinha-de-banana-verde.jpg",
       "variacoes": [
         {
           "codigo": "3398",
@@ -2451,7 +2461,7 @@
       "id": "farinha-de-berinjela",
       "descricao": "FARINHA DE BERINJELA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-beringela.jpg",
       "variacoes": [
         {
           "codigo": "3424",
@@ -2473,7 +2483,7 @@
       "id": "farinha-de-batata-doce",
       "descricao": "FARINHA DE BATATA DOCE",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/BATATA_DOCE.jpg",
+      "imagem": "/images/farinhas/farinha-de-batata-doce.jpg",
       "variacoes": [
         {
           "codigo": "3718",
@@ -2495,7 +2505,7 @@
       "id": "farinha-de-beterraba",
       "descricao": "FARINHA DE BETERRABA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-beteraba.jpg",
       "variacoes": [
         {
           "codigo": "4117",
@@ -2524,7 +2534,7 @@
       "id": "farinha-de-chia",
       "descricao": "FARINHA DE CHIA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-chia.jpg",
       "variacoes": [
         {
           "codigo": "4317",
@@ -2546,7 +2556,7 @@
       "id": "farinha-de-coco",
       "descricao": "FARINHA DE COCO",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-coco.jpg",
       "variacoes": [
         {
           "codigo": "3078",
@@ -2568,7 +2578,7 @@
       "id": "farinha-de-copioba",
       "descricao": "FARINHA DE COPIOBA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-copioba.jpg",
       "variacoes": [
         {
           "codigo": "2538",
@@ -2590,7 +2600,7 @@
       "id": "farinha-de-gengibre",
       "descricao": "FARINHA DE GENGIBRE",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-gengibre.jpg",
       "variacoes": [
         {
           "codigo": "2811",
@@ -2612,7 +2622,7 @@
       "id": "farinha-de-gro-de-bico",
       "descricao": "FARINHA DE GRÃO DE BICO",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/GRAO_DE_BICO.jpg",
+      "imagem": "/images/farinhas/farinha-de-grao-de-bico.jpg",
       "variacoes": [
         {
           "codigo": "3722",
@@ -2634,7 +2644,7 @@
       "id": "farinha-de-linhaca-dourada",
       "descricao": "FARINHA DE LINHACA DOURADA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/LINHACA_DOURADA.jpg",
+      "imagem": "/images/farinhas/farinha-de-linhaca-dourada.jpg",
       "variacoes": [
         {
           "codigo": "415",
@@ -2649,7 +2659,7 @@
       "id": "farinha-de-linhaca-marrom",
       "descricao": "FARINHA DE LINHACA MARROM",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/LINHAÇA_MARROM.jpg",
+      "imagem": "/images/farinhas/farinha-de-linhaca-marrom.jpg",
       "variacoes": [
         {
           "codigo": "93",
@@ -2664,7 +2674,7 @@
       "id": "farinha-de-mandioca-fina",
       "descricao": "FARINHA DE MANDIOCA FINA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/MANDIOCA_FINA.jpg",
+      "imagem": "/images/farinhas/farinha-de-mandioca-fina.jpg",
       "variacoes": [
         {
           "codigo": "2475",
@@ -2686,7 +2696,7 @@
       "id": "farinha-de-mandioca-grossa",
       "descricao": "FARINHA DE MANDIOCA GROSSA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/MANDIOCA_GROSSA.jpg",
+      "imagem": "/images/farinhas/farinha-de-mandioca-grossa.jpg",
       "variacoes": [
         {
           "codigo": "2476",
@@ -2708,7 +2718,7 @@
       "id": "farinha-de-mandioca-torrada",
       "descricao": "FARINHA DE MANDIOCA TORRADA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/MANDIOCA_TORRADA.jpg",
+      "imagem": "/images/farinhas/farinha-de-mandioca-torrada.jpg",
       "variacoes": [
         {
           "codigo": "2477",
@@ -2730,7 +2740,7 @@
       "id": "farinha-de-maracuja",
       "descricao": "FARINHA DE MARACUJA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ACAREJE.jpg",
+      "imagem": "/images/farinhas/farinha-de-maracuja.jpg",
       "variacoes": [
         {
           "codigo": "3706",
@@ -2752,12 +2762,12 @@
       "id": "farinha-de-milho-amarela",
       "descricao": "FARINHA DE MILHO AMARELA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/MILHO_AMARELA.jpg",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
       "variacoes": [
         {
           "codigo": "2246",
           "pesoValor": 4.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X5KG",
           "unidade": "FD",
           "precoVenda": 192.0
         },
@@ -2781,12 +2791,12 @@
       "id": "farinha-de-milho-branca",
       "descricao": "FARINHA DE MILHO BRANCA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/MILHO_BRANCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
       "variacoes": [
         {
           "codigo": "258",
           "pesoValor": 4.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X5KG",
           "unidade": "FD",
           "precoVenda": 324.0
         },
@@ -2810,7 +2820,7 @@
       "id": "farinha-de-rosca-marrocos",
       "descricao": "FARINHA DE ROSCA MARROCOS",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-rosca.jpg",
       "variacoes": [
         {
           "codigo": "2520",
@@ -2832,7 +2842,7 @@
       "id": "farinha-de-rosca-agmar",
       "descricao": "FARINHA DE ROSCA AGMAR",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-rosca.jpg",
       "variacoes": [
         {
           "codigo": "21",
@@ -2847,7 +2857,7 @@
       "id": "farinha-de-trigo-integral",
       "descricao": "FARINHA DE TRIGO INTEGRAL",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/TRIGO INTEGRAL.jpg",
+      "imagem": "/images/farinhas/farinha-de-trigo-integral.jpg",
       "variacoes": [
         {
           "codigo": "2513",
@@ -2869,7 +2879,7 @@
       "id": "farinha-fina-pernambuco",
       "descricao": "FARINHA FINA PERNAMBUCO",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FINA_PERNAMBUCO.jpg",
+      "imagem": "/images/farinhas/farinha-fina-pernanbuco.jpg",
       "variacoes": [
         {
           "codigo": "3114",
@@ -2891,12 +2901,12 @@
       "id": "farinha-panko-karui",
       "descricao": "FARINHA PANKO KARUI",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/PANKO.jpg",
+      "imagem": "/images/farinhas/farinha-panko.jpg",
       "variacoes": [
         {
           "codigo": "4086",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 170.0
         }
@@ -2906,7 +2916,7 @@
       "id": "farinha-quebradinha",
       "descricao": "FARINHA QUEBRADINHA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/QUEBRADINHA.jpg",
+      "imagem": "/images/farinhas/farinha-quebradinha.jpg",
       "variacoes": [
         {
           "codigo": "3115",
@@ -2928,7 +2938,7 @@
       "id": "farinha-de-uva",
       "descricao": "FARINHA DE UVA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/FARINHA_DE_ROSCA.jpg",
+      "imagem": "/images/farinhas/farinha-de-uva.jpg",
       "variacoes": [
         {
           "codigo": "4100",
@@ -2950,7 +2960,7 @@
       "id": "farinha-de-semente-de-abbora",
       "descricao": "FARINHA DE SEMENTE DE ABÓBORA",
       "categoria": "farinhas",
-      "imagem": "/images/farinhas/SEMENTE_DE_ABOBORA.jpg",
+      "imagem": "/images/farinhas/farinha-de-semente-de-abobora.jpg",
       "variacoes": [
         {
           "codigo": "4281",
@@ -4154,7 +4164,7 @@
         {
           "codigo": "4558",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 45.0
         }
@@ -4169,7 +4179,7 @@
         {
           "codigo": "4048",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 55.0
         }
@@ -4536,7 +4546,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 120.0
+          "precoVenda": 128.0
         }
       ]
     },
@@ -4777,7 +4787,7 @@
         {
           "codigo": "4029",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 122.0
         }
@@ -4792,7 +4802,7 @@
         {
           "codigo": "4203",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 86.0
         }
@@ -4807,7 +4817,7 @@
         {
           "codigo": "3936",
           "pesoValor": 18.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 192.0
         }
@@ -4822,7 +4832,7 @@
         {
           "codigo": "4302",
           "pesoValor": 15.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 103.5
         }
@@ -4844,7 +4854,7 @@
         {
           "codigo": "3026",
           "pesoValor": 30.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 40.0
         }
@@ -4866,7 +4876,7 @@
         {
           "codigo": "3515",
           "pesoValor": 30.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 42.5
         }
@@ -5231,7 +5241,7 @@
         {
           "codigo": "2734",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X5KG",
           "unidade": "PC",
           "precoVenda": 630.0
         }
@@ -5879,7 +5889,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 700.0
+          "precoVenda": 500.0
         }
       ]
     },
@@ -5973,7 +5983,7 @@
         {
           "codigo": "4585",
           "pesoValor": 2.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2.5KG",
           "unidade": "CX",
           "precoVenda": 675.0
         },
@@ -5995,7 +6005,7 @@
         {
           "codigo": "2756",
           "pesoValor": 2.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2.5KG",
           "unidade": "PC",
           "precoVenda": 580.0
         },
@@ -6017,7 +6027,7 @@
         {
           "codigo": "4491",
           "pesoValor": 2.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2.5KG",
           "unidade": "CX",
           "precoVenda": 435.0
         },
@@ -6299,7 +6309,7 @@
         {
           "codigo": "4201",
           "pesoValor": 2.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2.5KG",
           "unidade": "CX",
           "precoVenda": 305.0
         },
@@ -6345,21 +6355,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.0
+          "precoVenda": 82.0
         },
         {
           "codigo": "2716",
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 317.5
+          "precoVenda": 363.0
         },
         {
           "codigo": "3417",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 350.0
+          "precoVenda": 400.0
         }
       ]
     },
@@ -6535,14 +6545,14 @@
         {
           "codigo": "2339",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X5KG",
           "unidade": "FD",
           "precoVenda": 173.0
         },
         {
           "codigo": "2297",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 77.5
         }
@@ -6557,14 +6567,14 @@
         {
           "codigo": "2223",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 57.5
         },
         {
           "codigo": "3707",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 65.0
         },
@@ -6890,7 +6900,7 @@
       "id": "farofa-flocada-torresmo",
       "descricao": "FAROFA FLOCADA TORRESMO",
       "categoria": "produtosnaturais",
-      "imagem": "/images/produtosnaturais/FAROFA_FLOCADA_TORRESMO.jpg",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
         {
           "codigo": "4474",
@@ -6905,7 +6915,7 @@
       "id": "farofa-flocada-gourmet",
       "descricao": "FAROFA FLOCADA GOURMET",
       "categoria": "produtosnaturais",
-      "imagem": "/images/produtosnaturais/FAROFA_FLOCADA_TORRESMO.jpg",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
         {
           "codigo": "4473",
@@ -6920,7 +6930,7 @@
       "id": "farofa-fina-tradicional",
       "descricao": "FAROFA FINA TRADICIONAL",
       "categoria": "produtosnaturais",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
         {
           "codigo": "2658",
@@ -6942,7 +6952,7 @@
       "id": "farofa-fina-c-pimenta",
       "descricao": "FAROFA FINA C/ PIMENTA",
       "categoria": "produtosnaturais",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
         {
           "codigo": "2657",
@@ -6957,7 +6967,7 @@
       "id": "farofa-com-pimenta",
       "descricao": "FAROFA COM PIMENTA",
       "categoria": "produtosnaturais",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
         {
           "codigo": "2657",
@@ -6977,7 +6987,7 @@
         {
           "codigo": "3537",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 162.0
         }
@@ -7058,7 +7068,7 @@
         {
           "codigo": "4498",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 240.0
         }
@@ -7087,14 +7097,14 @@
         {
           "codigo": "3724",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 224.0
         },
         {
           "codigo": "4249",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 230.0
         }
@@ -7109,7 +7119,7 @@
         {
           "codigo": "3736",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 162.0
         }
@@ -7124,7 +7134,7 @@
         {
           "codigo": "4499",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 240.0
         }
@@ -7139,7 +7149,7 @@
         {
           "codigo": "3536",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 162.0
         }
@@ -7176,7 +7186,7 @@
         {
           "codigo": "4497",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 240.0
         }
@@ -7213,7 +7223,7 @@
         {
           "codigo": "3535",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 162.0
         }
@@ -7518,7 +7528,7 @@
       "id": "tahine-pasta-de-gergelim-bd",
       "descricao": "TAHINE PASTA DE GERGELIM BD",
       "categoria": "produtosnaturais",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/produtosnaturais/tahine-pasta-de-gergelim-bd.jpg",
       "variacoes": [
         {
           "codigo": "3523",
@@ -7540,19 +7550,19 @@
       "id": "tahine-pasta-de-gergelim-lata",
       "descricao": "TAHINE PASTA DE GERGELIM LATA",
       "categoria": "produtosnaturais",
-      "imagem": "/images/produtosnaturais/TAHINE_LATA.jpg",
+      "imagem": "/images/produtosnaturais/thaine-pasta-de-gergelim-lata.jpg",
       "variacoes": [
         {
           "codigo": "3522",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "CX",
           "precoVenda": 216.5
         },
         {
           "codigo": "3521",
           "pesoValor": 16.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X200G",
           "unidade": "CX",
           "precoVenda": 158.0
         }
@@ -7567,7 +7577,7 @@
         {
           "codigo": "64",
           "pesoValor": 8.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 132.0
         }
@@ -7582,7 +7592,7 @@
         {
           "codigo": "90",
           "pesoValor": 8.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 132.0
         }
@@ -7648,7 +7658,7 @@
         {
           "codigo": "3395",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400ML",
           "unidade": "CX",
           "precoVenda": 54.0
         }
@@ -7663,7 +7673,7 @@
         {
           "codigo": "3490",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400ML",
           "unidade": "CX",
           "precoVenda": 169.0
         }
@@ -7678,7 +7688,7 @@
         {
           "codigo": "458",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500ML",
           "unidade": "CX",
           "precoVenda": 269.5
         }
@@ -7693,7 +7703,7 @@
         {
           "codigo": "2641",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500ML",
           "unidade": "CX",
           "precoVenda": 222.0
         }
@@ -7708,7 +7718,7 @@
         {
           "codigo": "4293",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500ML",
           "unidade": "CX",
           "precoVenda": 210.0
         }
@@ -7805,21 +7815,21 @@
         {
           "codigo": "2645",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1.300ML",
           "unidade": "FD",
           "precoVenda": 78.0
         },
         {
           "codigo": "2638",
           "pesoValor": 9.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X720ML",
           "unidade": "FD",
           "precoVenda": 65.0
         },
         {
           "codigo": "2646",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X300ML",
           "unidade": "FD",
           "precoVenda": 50.5
         }
@@ -7834,7 +7844,7 @@
         {
           "codigo": "4294",
           "pesoValor": 18.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X210G",
           "unidade": "FD",
           "precoVenda": 150.0
         }
@@ -7844,12 +7854,12 @@
       "id": "mel-natural-silvestres",
       "descricao": "MEL NATURAL SILVESTRES",
       "categoria": "produtosnaturais",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/produtosnaturais/mel-natural-silvestre.jpg",
       "variacoes": [
         {
           "codigo": "4314",
           "pesoValor": 15.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "CX",
           "precoVenda": 252.0
         }
@@ -7864,7 +7874,7 @@
         {
           "codigo": "4315",
           "pesoValor": 15.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X790G",
           "unidade": "CX",
           "precoVenda": 450.0
         }
@@ -7876,26 +7886,26 @@
       "id": "cajuina-so-geraldo",
       "descricao": "CAJUINA SÃO GERALDO",
       "categoria": "refris",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/refris/cajuina-sao-geraldo.jpg",
       "variacoes": [
         {
           "codigo": "3402",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1LT",
           "unidade": "FD",
           "precoVenda": 46.5
         },
         {
           "codigo": "3401",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2LT",
           "unidade": "FD",
           "precoVenda": 66.5
         },
         {
           "codigo": "3403",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X200ML",
           "unidade": "FD",
           "precoVenda": 38.5
         }
@@ -7905,12 +7915,12 @@
       "id": "cajuina-so-geraldo-lata",
       "descricao": "CAJUINA SÃO GERALDO  LATA",
       "categoria": "refris",
-      "imagem": "/images/refris/CAJUINA_LATA.jpg",
+      "imagem": "/images/refris/cajuina-sao-geraldo-lata.jpg",
       "variacoes": [
         {
           "codigo": "4032",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X350ML",
           "unidade": "FD",
           "precoVenda": 57.5
         }
@@ -7920,12 +7930,12 @@
       "id": "cajuina-so-geraldo-zero-lata",
       "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
       "categoria": "refris",
-      "imagem": "/images/refris/CAJUINA_LATA_ZERO.jpg",
+      "imagem": "/images/refris/cajuina-sao-geraldo-zero-lata.jpg",
       "variacoes": [
         {
           "codigo": "4460",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X350ML",
           "unidade": "FD",
           "precoVenda": 57.5
         }
@@ -7940,7 +7950,7 @@
         {
           "codigo": "4260",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X330ML",
           "unidade": "FD",
           "precoVenda": 58.0
         }
@@ -7955,7 +7965,7 @@
         {
           "codigo": "2551",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1LT",
           "unidade": "FD",
           "precoVenda": 82.0
         }
@@ -7970,7 +7980,7 @@
         {
           "codigo": "2550",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X310ML",
           "unidade": "FD",
           "precoVenda": 25.5
         }
@@ -7980,12 +7990,12 @@
       "id": "laranja-so-geraldo-lata",
       "descricao": "LARANJA SÃO GERALDO LATA",
       "categoria": "refris",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/refris/laranja-sao-geraldo-lata.jpg",
       "variacoes": [
         {
           "codigo": "4383",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X350ML",
           "unidade": "FD",
           "precoVenda": 53.0
         }
@@ -8002,21 +8012,28 @@
         {
           "codigo": "3645",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X2L",
           "unidade": "FD",
           "precoVenda": 162.0
         },
         {
           "codigo": "3644",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1LT",
+          "unidade": "FD",
+          "precoVenda": 162.0
+        },
+        {
+          "codigo": "3644",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X500ML",
           "unidade": "FD",
           "precoVenda": 84.0
         },
         {
           "codigo": "3641",
           "pesoValor": 24.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X200ML",
           "unidade": "FD",
           "precoVenda": 84.0
         }
@@ -8031,21 +8048,21 @@
         {
           "codigo": "3648",
           "pesoValor": 6.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1ML",
           "unidade": "FD",
           "precoVenda": 33.0
         },
         {
           "codigo": "3852",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500ML",
           "unidade": "PC",
           "precoVenda": 26.0
         },
         {
           "codigo": "3647",
           "pesoValor": 24.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X200ML",
           "unidade": "FD",
           "precoVenda": 30.0
         }
@@ -8062,28 +8079,28 @@
         {
           "codigo": "3056",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 55.0
         },
         {
           "codigo": "2264",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 58.0
         },
         {
           "codigo": "3083",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 56.0
         },
         {
           "codigo": "2355",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "CX",
           "precoVenda": 59.0
         }
@@ -8098,14 +8115,14 @@
         {
           "codigo": "573",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "FD",
           "precoVenda": 59.0
         },
         {
           "codigo": "572",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 60.0
         }
@@ -8120,14 +8137,14 @@
         {
           "codigo": "4411",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
           "precoVenda": 93.0
         },
         {
           "codigo": "4410",
           "pesoValor": 24.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "CX",
           "precoVenda": 95.0
         }
@@ -8579,9 +8596,9 @@
         {
           "codigo": "4344",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 328.0
+          "precoVenda": 351.0
         }
       ]
     },
@@ -8814,9 +8831,9 @@
         {
           "codigo": "4346",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 328.0
+          "precoVenda": 351.0
         }
       ]
     },
@@ -8829,9 +8846,9 @@
         {
           "codigo": "4345",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 328.0
+          "precoVenda": 351.0
         }
       ]
     },
@@ -8844,9 +8861,9 @@
         {
           "codigo": "4347",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 274.0
+          "precoVenda": 293.0
         }
       ]
     },
@@ -8859,9 +8876,9 @@
         {
           "codigo": "4446",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 325.0
+          "precoVenda": 351.0
         }
       ]
     },
@@ -8876,7 +8893,7 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "UN",
-          "precoVenda": 30.0
+          "precoVenda": 33.5
         }
       ]
     },
@@ -8889,9 +8906,9 @@
         {
           "codigo": "4348",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "CX",
-          "precoVenda": 328.0
+          "precoVenda": 351.0
         }
       ]
     },
@@ -8904,7 +8921,7 @@
         {
           "codigo": "4456",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "FD",
           "precoVenda": 69.0
         }
@@ -9124,7 +9141,7 @@
       "id": "bolacha-palito-c-chocolate-n9",
       "descricao": "BOLACHA PALITO  C/ CHOCOLATE Nº9",
       "categoria": "doces",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/bolacha-palito-c-chocolate.jpg",
       "variacoes": [
         {
           "codigo": "4270",
@@ -9435,7 +9452,7 @@
         {
           "codigo": "4074",
           "pesoValor": 1.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X17UN",
           "unidade": "PC",
           "precoVenda": 27.0
         }
@@ -9450,7 +9467,7 @@
         {
           "codigo": "4076",
           "pesoValor": 1.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X20UN",
           "unidade": "PT",
           "precoVenda": 24.0
         }
@@ -9465,7 +9482,7 @@
         {
           "codigo": "4133",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "PT",
           "precoVenda": 72.0
         }
@@ -9524,7 +9541,7 @@
         {
           "codigo": "4531",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X1KG",
           "unidade": "SC",
           "precoVenda": 880.0
         }
@@ -9539,7 +9556,7 @@
         {
           "codigo": "4559",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X500G",
           "unidade": "PC",
           "precoVenda": 210.0
         }
@@ -9569,7 +9586,7 @@
         {
           "codigo": "4102",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "PC",
           "precoVenda": 77.0
         }
@@ -9584,7 +9601,7 @@
         {
           "codigo": "4103",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 77.0
         }
@@ -9599,7 +9616,7 @@
         {
           "codigo": "4547",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 77.0
         }
@@ -9614,7 +9631,7 @@
         {
           "codigo": "4104",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 77.0
         }
@@ -9629,7 +9646,7 @@
         {
           "codigo": "4101",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 77.0
         }
@@ -9644,7 +9661,7 @@
         {
           "codigo": "4105",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 77.0
         }
@@ -9659,7 +9676,7 @@
         {
           "codigo": "3705",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X300G",
           "unidade": "FD",
           "precoVenda": 123.5
         }
@@ -9674,7 +9691,7 @@
         {
           "codigo": "3823",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "CX",
           "precoVenda": 77.0
         }
@@ -9689,7 +9706,7 @@
         {
           "codigo": "4583",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 144.0
         }
@@ -9704,7 +9721,7 @@
         {
           "codigo": "4308",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X250G",
           "unidade": "PC",
           "precoVenda": 68.5
         }
@@ -9719,7 +9736,7 @@
         {
           "codigo": "4309",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X250G",
           "unidade": "PT",
           "precoVenda": 68.5
         }
@@ -9793,9 +9810,9 @@
         {
           "codigo": "4475",
           "pesoValor": 1.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "PC",
-          "precoVenda": 8.0
+          "precoVenda": 9.0
         }
       ]
     },
@@ -9808,9 +9825,9 @@
         {
           "codigo": "4354",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "UN",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9823,9 +9840,9 @@
         {
           "codigo": "4445",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9838,9 +9855,9 @@
         {
           "codigo": "4353",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9853,9 +9870,9 @@
         {
           "codigo": "4350",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9868,9 +9885,9 @@
         {
           "codigo": "4352",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9883,9 +9900,9 @@
         {
           "codigo": "4349",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9898,9 +9915,9 @@
         {
           "codigo": "4351",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9913,9 +9930,9 @@
         {
           "codigo": "4581",
           "pesoValor": 12.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X220G",
           "unidade": "CX",
-          "precoVenda": 74.0
+          "precoVenda": 79.5
         }
       ]
     },
@@ -9943,7 +9960,7 @@
         {
           "codigo": "4123",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X300G",
           "unidade": "PC",
           "precoVenda": 60.0
         }
@@ -9958,7 +9975,7 @@
         {
           "codigo": "4306",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "PT",
           "precoVenda": 81.0
         }
@@ -9973,7 +9990,7 @@
         {
           "codigo": "4307",
           "pesoValor": 10.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "PT",
           "precoVenda": 81.0
         }
@@ -9988,14 +10005,14 @@
         {
           "codigo": "2621",
           "pesoValor": 5.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X600G",
           "unidade": "FD",
           "precoVenda": 24.5
         },
         {
           "codigo": "2659",
           "pesoValor": 20.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X140G",
           "unidade": "FD",
           "precoVenda": 27.5
         }
@@ -10010,7 +10027,7 @@
         {
           "codigo": "3656",
           "pesoValor": 5.0,
-          "pesoUnidade": "X",
+          "pesoUnidade": "X400G",
           "unidade": "FD",
           "precoVenda": 27.0
         }
@@ -10152,7 +10169,7 @@
         {
           "codigo": "3423",
           "pesoValor": 12.0,
-          "pesoUnidade": "UN",
+          "pesoUnidade": "UM",
           "unidade": "CX",
           "precoVenda": 186.0
         }

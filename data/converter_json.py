@@ -9,6 +9,11 @@ from difflib import SequenceMatcher
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}
 DEFAULT_IMAGE = '/arroz.jpeg'
 
+# Overrides for products that must use a specific image regardless of fuzzy score.
+IMAGE_OVERRIDES = {
+    'farofa-fina-c-pimenta': '/images/produtosnaturais/farofa.jpg',
+}
+
 
 def normalize_text(value):
     """Normalize text to improve fuzzy matching between product names and image files."""
@@ -89,6 +94,15 @@ def score_candidate(product_tokens, stem_norm, product_norm, candidate):
 
 def find_best_image(product_id, descricao, categoria, image_index):
     """Find best image match for product using category folder and fuzzy matching."""
+    product_id_key = str(product_id).strip().lower()
+    if product_id_key in IMAGE_OVERRIDES:
+        override_path = IMAGE_OVERRIDES[product_id_key]
+        return override_path, {
+            'status': 'override',
+            'score': 999.0,
+            'matched': Path(override_path).name,
+        }
+
     category_key = normalize_text(categoria)
     candidates = image_index.get(category_key, [])
     if not candidates:
@@ -188,7 +202,7 @@ def converter_xlsx_para_json():
                 }
 
                 report['summary']['produtos'] += 1
-                if match_info['status'] == 'matched':
+                if match_info['status'] in {'matched', 'override'}:
                     report['summary']['matched'] += 1
                 else:
                     report['summary']['fallback'] += 1
