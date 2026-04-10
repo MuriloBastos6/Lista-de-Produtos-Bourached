@@ -4196,14 +4196,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 252.0
+          "precoVenda": 267.0
         },
         {
           "codigo": "2519",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 500.0
+          "precoVenda": 530.0
         }
       ]
     },
@@ -6785,25 +6785,18 @@
       "imagem": "/images/produtosnaturais/COLAGENO.jpg",
       "variacoes": [
         {
-          "codigo": "3487",
-          "pesoValor": 3.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 163.0
-        },
-        {
           "codigo": "4488",
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 272.0
+          "precoVenda": 299.5
         },
         {
           "codigo": "3486",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 540.0
+          "precoVenda": 595.0
         }
       ]
     },
@@ -7004,14 +6997,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.5
+          "precoVenda": 96.5
         },
         {
           "codigo": "2732",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 175.0
+          "precoVenda": 189.0
         }
       ]
     },
@@ -7026,14 +7019,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 104.5
+          "precoVenda": 113.5
         },
         {
           "codigo": "2584",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 205.0
+          "precoVenda": 223.0
         }
       ]
     },
@@ -7048,14 +7041,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 100.5
+          "precoVenda": 112.0
         },
         {
           "codigo": "2495",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 197.0
+          "precoVenda": 220.0
         }
       ]
     },
@@ -7166,14 +7159,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.0
+          "precoVenda": 96.0
         },
         {
           "codigo": "2494",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 170.0
+          "precoVenda": 188.5
         }
       ]
     },
@@ -7203,14 +7196,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 87.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "2493",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 170.0
+          "precoVenda": 180.0
         }
       ]
     },
