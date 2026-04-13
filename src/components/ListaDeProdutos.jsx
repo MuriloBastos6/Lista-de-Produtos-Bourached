@@ -51,56 +51,6 @@ function sincronizarImagensPromocao(
   });
 }
 
-function normalizarCategoria(valor = "") {
-  return String(valor)
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .trim();
-}
-
-function ehCategoriaPromocao(nomeCategoria = "") {
-  const categoria = normalizarCategoria(nomeCategoria);
-  return categoria === "promocao" || categoria === "promocoes";
-}
-
-function montarMapaImagemPorId(dados = {}) {
-  const mapa = new Map();
-
-  Object.entries(dados).forEach(([categoria, itens]) => {
-    if (!Array.isArray(itens) || ehCategoriaPromocao(categoria)) return;
-
-    itens.forEach((item) => {
-      const id = String(item?.id || "").trim();
-      const imagem = typeof item?.imagem === "string" ? item.imagem.trim() : "";
-      if (id && imagem && imagem !== "/arroz.jpeg" && !mapa.has(id)) {
-        mapa.set(id, imagem);
-      }
-    });
-  });
-
-  return mapa;
-}
-
-function sincronizarImagensPromocao(
-  produtosPromocao = [],
-  mapaImagemPorId = new Map(),
-) {
-  return produtosPromocao.map((produto) => {
-    const id = String(produto?.id || "").trim();
-    const imagemCorrespondente = mapaImagemPorId.get(id);
-
-    if (!imagemCorrespondente) {
-      return produto;
-    }
-
-    return {
-      ...produto,
-      imagem: imagemCorrespondente,
-    };
-  });
-}
-
 function ListaDeProdutos() {
   const [produtosPromocao, setProdutosPromocao] = useState([]);
   const [carregando, setCarregando] = useState(true);
@@ -133,14 +83,8 @@ function ListaDeProdutos() {
           promo,
           mapaImagemPorId,
         );
-        const mapaImagemPorId = montarMapaImagemPorId(dados);
-        const promoComImagensSincronizadas = sincronizarImagensPromocao(
-          promo,
-          mapaImagemPorId,
-        );
 
         if (!cancelado) {
-          setProdutosPromocao(promoComImagensSincronizadas);
           setProdutosPromocao(promoComImagensSincronizadas);
         }
       } catch {
@@ -182,14 +126,8 @@ function ListaDeProdutos() {
       ) : (
         <ProdutosGrid produtos={produtosPromocao} />
       )}
-      {carregando ? (
-        <p>Carregando produtos...</p>
-      ) : (
-        <ProdutosGrid produtos={produtosPromocao} />
-      )}
     </section>
   );
 }
 
 export default ListaDeProdutos;
-
