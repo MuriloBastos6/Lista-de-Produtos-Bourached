@@ -44,6 +44,26 @@ const titulos = {
   potes: "Potes",
 };
 
+const capasPorSlug = {
+  amendoim: "/amendoim.jpeg",
+  arroz: "/arroz.jpeg",
+  sucrilhos: "/sucrilhos.jpeg",
+  cha: "/cha.jpeg",
+  farinhas: "/farinhas.jpeg",
+  graos: "/graos.jpeg",
+  panificacao: "/panificacoes.jpeg",
+  especiarias: "/especiarias.jpeg",
+  frutas: "/frutas.jpeg",
+  sementes: "/sementes.jpeg",
+  produtosnaturais: "/produtosnaturais.jpeg",
+  refris: "/refris.jpeg",
+  oleo: "/oleo.jpeg",
+  goma: "/Goma.png",
+  salgadinhos: "/salgadinho.jpeg",
+  doces: "/doces.jpeg",
+  potes: "/pote.jpeg",
+};
+
 function normalizarTexto(texto = "") {
   return texto
     .normalize("NFD")
@@ -139,6 +159,11 @@ function BuscaPage() {
     return slugResultado || ordemCategorias[0];
   }, [resultados]);
 
+  const capaBusca = useMemo(
+    () => capasPorSlug[slugReferencia] || "/arroz.jpeg",
+    [slugReferencia],
+  );
+
   const indiceAtual = useMemo(
     () => ordemCategorias.indexOf(slugReferencia),
     [slugReferencia],
@@ -195,7 +220,12 @@ function BuscaPage() {
         </Link>
       </div>
 
-      <div className="titulo-container">
+      <div
+        className="titulo-container"
+        style={{
+          backgroundImage: `linear-gradient(180deg, rgba(0, 0, 0, 0.12) 20%, rgba(0, 0, 0, 0.56) 100%), url(${capaBusca})`,
+        }}
+      >
         <h1>Resultado da busca</h1>
       </div>
 

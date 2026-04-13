@@ -683,9 +683,9 @@ body::-webkit-scrollbar {
   inset: 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+  justify-content: start;
+  align-items: start;
+  text-align: start;
   width: 100%;
   box-sizing: border-box;
   padding: 1rem 1.2rem;
@@ -1239,13 +1239,13 @@ body::-webkit-scrollbar {
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: start;
   }
 
   .categoria-overlay h2,
   .categoria-overlay p {
     width: 100%;
-    text-align: center;
+    text-align: start;
   }
 }
 

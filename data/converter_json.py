@@ -341,6 +341,8 @@ def converter_xlsx_para_json():
         total_produtos += len(produtos_lista)
         report['summary']['categorias'] += 1
 
+    sync_promo_images_by_id(resultado, report)
+
     # Salvar JSON
     print(f"\nSalvando JSON em: {json_output}")
     with open(json_output, 'w', encoding='utf-8') as f:
