@@ -4,7 +4,7 @@
       "id": "uva-passa-preta",
       "descricao": "UVA PASSA PRETA",
       "categoria": "promoçoes",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
       "variacoes": [
         {
           "codigo": "2229",
@@ -19,7 +19,7 @@
   "amendoim": [
     {
       "id": "amendoa-w4-ts",
-      "descricao": "AMENDOA  W4 T.S",
+      "descricao": "CASTANHA  W4 T.S",
       "categoria": "amendoim",
       "imagem": "/images/amendoim/amendoa-w4-t.jpg",
       "variacoes": [
@@ -34,7 +34,7 @@
     },
     {
       "id": "amendoa-w4-t",
-      "descricao": "AMENDOA  W4 T.",
+      "descricao": "CASTANHA  W4 T.",
       "categoria": "amendoim",
       "imagem": "/images/amendoim/amendoa-w4-t.jpg",
       "variacoes": [
@@ -139,28 +139,6 @@
           "pesoUnidade": "KG",
           "unidade": "CX",
           "precoVenda": 680.0
-        }
-      ]
-    },
-    {
-      "id": "amendoa-laminada",
-      "descricao": "AMENDOA LAMINADA",
-      "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoa-laminada.jpg",
-      "variacoes": [
-        {
-          "codigo": "3866",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 302.0
-        },
-        {
-          "codigo": "3865",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 600.0
         }
       ]
     },
@@ -344,7 +322,7 @@
       "id": "amendoim-frito-c-alho-s-pele",
       "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/amendoim-frito-com-alho-com-pele.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-sem-pele.jpg",
       "variacoes": [
         {
           "codigo": "2644",
@@ -359,7 +337,7 @@
       "id": "amendoim-frito-c-sal-c-pele",
       "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-com-pele.jpg",
       "variacoes": [
         {
           "codigo": "2570",
@@ -374,7 +352,7 @@
       "id": "amendoim-frito-c-sal-spele",
       "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-sem-pele.jpg",
       "variacoes": [
         {
           "codigo": "3021",
@@ -562,10 +540,10 @@
       ]
     },
     {
-      "id": "castanha-de-caju-caramelizada-aa",
+      "id": "castanha-de-caju-caramelizada-açai",
       "descricao": "CASTANHA DE CAJU CARAMELIZADA AÇAÍ",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/CAJU_CARAMELIZADA_ACAI.jpg",
       "variacoes": [
         {
           "codigo": "4138",
@@ -580,7 +558,7 @@
       "id": "castanha-de-caju-w1-assada",
       "descricao": "CASTANHA DE CAJU W1 ASSADA",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/CAJU_ASSADA.jpg",
       "variacoes": [
         {
           "codigo": "2524",
@@ -602,7 +580,7 @@
       "id": "castanha-de-caju-w1-crua",
       "descricao": "CASTANHA DE CAJU W1 CRUA",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/CAJU_CRUA.jpg",
       "variacoes": [
         {
           "codigo": "2523",
@@ -624,7 +602,7 @@
       "id": "castanha-de-caju-w1-t",
       "descricao": "CASTANHA DE CAJU W1 T.",
       "categoria": "amendoim",
-      "imagem": "/images/amendoim/CASTANHA_DE_CAJU_CARAMELIZADA.jpg",
+      "imagem": "/images/amendoim/CAJU_W!_T.jpg",
       "variacoes": [
         {
           "codigo": "2271",

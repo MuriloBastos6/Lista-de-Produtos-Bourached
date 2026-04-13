@@ -137,13 +137,108 @@ def find_best_image(product_id, descricao, categoria, image_index):
     }
 
 
+def is_promo_category(category_name):
+    category_norm = normalize_text(category_name)
+    return category_norm in {'promocao', 'promocoes'}
+
+
+def load_existing_image_map(produtos_json_path):
+    """Load current product images so converter keeps them fixed across executions."""
+    if not produtos_json_path.exists():
+        return {}
+
+    try:
+        with open(produtos_json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    image_map = {}
+    for categoria, products in data.items():
+        if not isinstance(products, list):
+            continue
+
+        categoria_key = normalize_text(categoria)
+        for product in products:
+            product_id = str(product.get('id', '')).strip()
+            image_path = str(product.get('imagem', '')).strip()
+            if not product_id or not image_path:
+                continue
+
+            image_map[(categoria_key, normalize_text(product_id))] = image_path
+
+    return image_map
+
+
+def resolve_fixed_image(product_id, categoria, existing_image_map):
+    """Keep current image from produtos.json. New items get default image."""
+    category_key = normalize_text(categoria)
+    product_key = normalize_text(product_id)
+    image_path = existing_image_map.get((category_key, product_key))
+    if image_path:
+        return image_path, {'status': 'fixed-existing', 'score': 999.0, 'matched': Path(image_path).name}
+
+    return DEFAULT_IMAGE, {'status': 'manual-default', 'score': 0.0, 'matched': None}
+
+
+def sync_promo_images_by_id(resultado, report):
+    """Make promo items reuse the image from the same id in non-promo categories."""
+    image_by_id = {}
+
+    for category_name, products in resultado.items():
+        if is_promo_category(category_name) or not isinstance(products, list):
+            continue
+
+        for product in products:
+            product_id = str(product.get('id', '')).strip()
+            image_path = str(product.get('imagem', '')).strip()
+            if not product_id or not image_path or image_path == DEFAULT_IMAGE:
+                continue
+            image_by_id.setdefault(product_id, image_path)
+
+    detail_index = {
+        (detail.get('categoria'), detail.get('id')): detail
+        for detail in report.get('details', [])
+    }
+
+    for category_name, products in resultado.items():
+        if not is_promo_category(category_name) or not isinstance(products, list):
+            continue
+
+        for product in products:
+            product_id = str(product.get('id', '')).strip()
+            inherited_image = image_by_id.get(product_id)
+            if not inherited_image:
+                continue
+
+            previous_image = str(product.get('imagem', '')).strip()
+            product['imagem'] = inherited_image
+
+            detail = detail_index.get((category_name, product_id))
+            if not detail:
+                continue
+
+            previous_status = detail.get('status')
+            detail['imagem'] = inherited_image
+            detail['status'] = 'linked-by-id'
+            detail['score'] = 999.0
+            detail['arquivo_sugerido'] = Path(inherited_image).name
+
+            if previous_status not in {'matched', 'override', 'linked-by-id'}:
+                report['summary']['matched'] += 1
+                report['summary']['fallback'] = max(
+                    0, report['summary']['fallback'] - 1)
+                if previous_status == 'no-category-folder':
+                    report['summary']['category_without_folder'] = max(
+                        0, report['summary']['category_without_folder'] - 1)
+
+
 def converter_xlsx_para_json():
     """Converte o XLSX formatado para JSON estruturado para React"""
 
     base_dir = Path(__file__).resolve().parents[1]
     xlsx_path = base_dir / 'data' / 'ProdutosFomatodos.xlsx'
     json_output = base_dir / 'public' / 'produtos.json'
-    images_root = base_dir / 'public' / 'images'
     report_output = base_dir / 'data' / 'relatorio_imagens.json'
 
     # Garantir que a pasta de output existe
@@ -154,8 +249,8 @@ def converter_xlsx_para_json():
 
     print("Lendo arquivo XLSX formatado...")
 
-    image_index = build_image_index(images_root)
-    print(f"Pastas de imagem encontradas: {len(image_index)}")
+    existing_image_map = load_existing_image_map(json_output)
+    print(f"Imagens fixas carregadas do JSON atual: {len(existing_image_map)}")
 
     # Ler arquivo
     xls = pd.ExcelFile(xlsx_path)
@@ -190,8 +285,8 @@ def converter_xlsx_para_json():
             chave = row['produto_grupo']
 
             if chave not in agrupados:
-                imagem, match_info = find_best_image(
-                    chave, row['descricao'], nome_aba, image_index)
+                imagem, match_info = resolve_fixed_image(
+                    chave, nome_aba, existing_image_map)
 
                 agrupados[chave] = {
                     'id': chave,
@@ -202,12 +297,11 @@ def converter_xlsx_para_json():
                 }
 
                 report['summary']['produtos'] += 1
-                if match_info['status'] in {'matched', 'override'}:
+                if match_info['status'] == 'fixed-existing':
                     report['summary']['matched'] += 1
                 else:
                     report['summary']['fallback'] += 1
-                    if match_info['status'] == 'no-category-folder':
-                        report['summary']['category_without_folder'] += 1
+                    report['summary']['category_without_folder'] += 1
 
                 report['details'].append(
                     {
