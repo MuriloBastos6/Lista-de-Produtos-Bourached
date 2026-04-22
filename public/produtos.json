@@ -7351,14 +7351,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 49.5
+          "precoVenda": 53.0
         },
         {
           "codigo": "63",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 237.5
+          "precoVenda": 255.0
         }
       ]
     },
@@ -7728,7 +7728,7 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 424.5
+          "precoVenda": 440.0
         }
       ]
     },
@@ -7740,10 +7740,10 @@
       "variacoes": [
         {
           "codigo": "4477",
-          "pesoValor": 5.0,
+          "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 244.5
+          "precoVenda": 252.0
         }
       ]
     },
@@ -7755,10 +7755,10 @@
       "variacoes": [
         {
           "codigo": "4479",
-          "pesoValor": 5.0,
+          "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 244.5
+          "precoVenda": 252.0
         }
       ]
     },
@@ -7770,10 +7770,10 @@
       "variacoes": [
         {
           "codigo": "4478",
-          "pesoValor": 5.0,
+          "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 244.5
+          "precoVenda": 252.0
         }
       ]
     },
