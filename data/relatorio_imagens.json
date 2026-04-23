@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 523,
-    "matched": 524,
+    "produtos": 530,
+    "matched": 531,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 8
   },
   "details": [
     {
@@ -15,6 +15,78 @@
       "status": "linked-by-id",
       "score": 999.0,
       "arquivo_sugerido": "UVA_PASSA_PRETA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "linhaa-dourada",
+      "descricao": "LINHAÇA DOURADA",
+      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "LINHACA_DOURADA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "aveia-em-flocos-laminada-n2",
+      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS_LAMINADA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "aveia-em-flocos-n3",
+      "descricao": "AVEIA EM FLOCOS Nº3",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AVEIA_EM_FLOCOS.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-aveia-n6",
+      "descricao": "FARINHA DE AVEIA Nº6",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-aveia.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farelo-de-aveia-n7",
+      "descricao": "FARELO DE AVEIA Nº7",
+      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FARELO_DE_AVEIA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-hanner",
+      "descricao": "AMENDOIM HANNER",
+      "imagem": "/images/amendoim/amendoim-hanner.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-hanner.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "milho-pipoca-zanella",
+      "descricao": "MILHO PIPOCA ZANELLA",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "MILHO_DE_PIPOCA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
     },
     {
       "categoria": "amendoim",
@@ -1644,15 +1716,6 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
-    },
-    {
-      "categoria": "panificacao",
-      "id": "amido-de-milho-bv-foods",
-      "descricao": "AMIDO DE MILHO BV FOODS",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_BV_FOODS.jpg",
-      "status": "fixed-existing",
-      "score": 999.0,
-      "arquivo_sugerido": "AMIDO_DE_MILHO_BV_FOODS.jpg"
     },
     {
       "categoria": "panificacao",

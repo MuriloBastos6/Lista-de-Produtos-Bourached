@@ -57,7 +57,7 @@ function ListaDeProdutos() {
 
   const categoria = {
     titulo: "Promoções da semana!!",
-    subtitulo: "Valida até 07/04/2026 ou enquanto durarem os estoques",
+    subtitulo: "Valida até durarem os estoques",
     capa: "/banner-azul.png",
   };
 
@@ -118,7 +118,7 @@ function ListaDeProdutos() {
       </div>
 
       <div className="data-promocao">
-        <p>Valida até durarem os estoques</p>
+        <p>Valida até 01/05/2026</p>
       </div>
 
       {carregando ? (

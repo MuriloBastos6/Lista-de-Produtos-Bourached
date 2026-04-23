@@ -14,6 +14,126 @@
           "precoVenda": 145.0
         }
       ]
+    },
+    {
+      "id": "linhaa-dourada",
+      "descricao": "LINHAÇA DOURADA",
+      "categoria": "promoçoes",
+      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
+      "variacoes": [
+        {
+          "codigo": "195",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 245.0
+        }
+      ]
+    },
+    {
+      "id": "aveia-em-flocos-laminada-n2",
+      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
+      "categoria": "promoçoes",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
+      "variacoes": [
+        {
+          "codigo": "569",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 117.0
+        }
+      ]
+    },
+    {
+      "id": "aveia-em-flocos-n3",
+      "descricao": "AVEIA EM FLOCOS Nº3",
+      "categoria": "promoçoes",
+      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
+      "variacoes": [
+        {
+          "codigo": "282",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 117.0
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-aveia-n6",
+      "descricao": "FARINHA DE AVEIA Nº6",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
+      "variacoes": [
+        {
+          "codigo": "564",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 117.0
+        }
+      ]
+    },
+    {
+      "id": "farelo-de-aveia-n7",
+      "descricao": "FARELO DE AVEIA Nº7",
+      "categoria": "promoçoes",
+      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
+      "variacoes": [
+        {
+          "codigo": "565",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 121.0
+        }
+      ]
+    },
+    {
+      "id": "amendoim-hanner",
+      "descricao": "AMENDOIM HANNER",
+      "categoria": "promoçoes",
+      "imagem": "/images/amendoim/amendoim-hanner.jpg",
+      "variacoes": [
+        {
+          "codigo": "109",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 155.0
+        }
+      ]
+    },
+    {
+      "id": "milho-pipoca-zanella",
+      "descricao": "MILHO PIPOCA ZANELLA",
+      "categoria": "promoçoes",
+      "imagem": "/images/graos/MILHO_DE_PIPOCA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3110",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 81.0
+        }
+      ]
+    },
+    {
+      "id": "amido-de-milho-integrada",
+      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "variacoes": [
+        {
+          "codigo": "8",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 88.0
+        }
+      ]
     }
   ],
   "amendoim": [
@@ -3945,21 +4065,6 @@
           "pesoUnidade": "KG",
           "unidade": "SC",
           "precoVenda": 91.0
-        }
-      ]
-    },
-    {
-      "id": "amido-de-milho-bv-foods",
-      "descricao": "AMIDO DE MILHO BV FOODS",
-      "categoria": "panificacao",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_BV_FOODS.jpg",
-      "variacoes": [
-        {
-          "codigo": "3864",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 93.0
         }
       ]
     },
