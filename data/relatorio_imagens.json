@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 530,
-    "matched": 531,
+    "produtos": 531,
+    "matched": 540,
     "fallback": 0,
-    "category_without_folder": 8
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -897,6 +897,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "HIBISCO.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-hortela",
+      "descricao": "CHÁ DE HORTELÃ",
+      "imagem": "/images/cha/cha-de-hortela.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "arroz.jpeg"
     },
     {
       "categoria": "cha",

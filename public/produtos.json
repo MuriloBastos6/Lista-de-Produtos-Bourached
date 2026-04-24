@@ -2019,6 +2019,28 @@
       ]
     },
     {
+      "id": "ch-hortela",
+      "descricao": "CHÁ DE HORTELÃ",
+      "categoria": "cha",
+      "imagem": "/images/cha/cha-de-hortela.jpg",
+      "variacoes": [
+        {
+          "codigo": "2465",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 62.0
+        },
+        {
+          "codigo": "2466",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 775.0
+        }
+      ]
+    },
+    {
       "id": "ch-marapuama-p",
       "descricao": "CHÁ MARAPUAMA PÓ",
       "categoria": "cha",
@@ -2420,14 +2442,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 217.0
+          "precoVenda": 232.0
         },
         {
           "codigo": "2631",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 430.0
+          "precoVenda": 460.0
         }
       ]
     },
@@ -5356,14 +5378,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 117.0
+          "precoVenda": 172.5
         },
         {
           "codigo": "2718",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 575.0
+          "precoVenda": 750.0
         }
       ]
     },
@@ -6112,14 +6134,14 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 435.0
+          "precoVenda": 455.0
         },
         {
           "codigo": "4492",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 217.5
+          "precoVenda": 227.5
         }
       ]
     },
@@ -6134,7 +6156,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 150.0
+          "precoVenda": 160.0
         }
       ]
     },
@@ -6149,7 +6171,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 115.0
+          "precoVenda": 147.0
         }
       ]
     },
@@ -6394,14 +6416,14 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 305.0
+          "precoVenda": 395.0
         },
         {
           "codigo": "4202",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 152.5
+          "precoVenda": 197.5
         }
       ]
     },
@@ -8404,7 +8426,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8419,7 +8441,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8434,7 +8456,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8449,7 +8471,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8464,7 +8486,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8479,7 +8501,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8494,7 +8516,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
@@ -8509,7 +8531,7 @@
           "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 23.5
+          "precoVenda": 25.0
         }
       ]
     },
