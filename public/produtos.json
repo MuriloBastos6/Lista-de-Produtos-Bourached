@@ -148,7 +148,7 @@
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 714.5
+          "precoVenda": 634.0
         }
       ]
     },
@@ -163,7 +163,7 @@
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 714.5
+          "precoVenda": 634.0
         }
       ]
     },
@@ -685,14 +685,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0
+          "precoVenda": 377.0
         },
         {
           "codigo": "2442",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5
+          "precoVenda": 850.5
         }
       ]
     },
@@ -707,14 +707,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0
+          "precoVenda": 377.0
         },
         {
           "codigo": "3441",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5
+          "precoVenda": 850.5
         }
       ]
     },
@@ -729,21 +729,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0
+          "precoVenda": 377.0
         },
         {
           "codigo": "3408",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5
+          "precoVenda": 850.5
         },
         {
           "codigo": "2273",
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1837.0
+          "precoVenda": 1701.0
         }
       ]
     },
@@ -758,21 +758,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 407.0
+          "precoVenda": 377.0
         },
         {
           "codigo": "3409",
           "pesoValor": 11.34,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 918.5
+          "precoVenda": 850.5
         },
         {
           "codigo": "459",
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1837.0
+          "precoVenda": 1701.0
         }
       ]
     },
@@ -4175,7 +4175,7 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 51.5
+          "precoVenda": 57.0
         }
       ]
     },
