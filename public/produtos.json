@@ -8966,10 +8966,10 @@
       ]
     },
     {
-      "id": "bala-geatina-cobrinha-citrica",
-      "descricao": "BALA GEATINA COBRINHA CITRICA",
+      "id": "bala-gelatina-cobrinha-citrica",
+      "descricao": "BALA GELATINA COBRINHA CITRICA",
       "categoria": "doces",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/GELATINA_COBRINHA.jpg",
       "variacoes": [
         {
           "codigo": "4446",
@@ -8981,8 +8981,8 @@
       ]
     },
     {
-      "id": "bala-geatina-diversas",
-      "descricao": "BALA GEATINA DIVERSAS",
+      "id": "bala-gelatina-diversas",
+      "descricao": "BALA GELATINA DIVERSAS",
       "categoria": "doces",
       "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
       "variacoes": [
