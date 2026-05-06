@@ -4,9 +4,10 @@ function BlocoDados() {
       <div className="dados-com-img">
         <img src="/bourached-350.png" alt="Logo-bourached" />
         <h2>
-          <a href="amendoim">Variedade de produtos</a>
+          <a href="amendoim">Tabela Completa</a>
         </h2>
         <p>mais de 1000 produtos disponíveis</p>
+        <p>Clique Acima!</p>
       </div>
       <div className="dados-com-img">
         <img src="/bourached-350.png" alt="Logo-bourached" />
@@ -30,6 +31,7 @@ function BlocoDados() {
           </a>
         </h2>
         <p>Siga-nos no Instagram!</p>
+        <p>Clicando Acima!</p>
       </div>
     </div>
   );
