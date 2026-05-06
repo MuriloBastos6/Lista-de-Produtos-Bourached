@@ -9721,6 +9721,111 @@
       ]
     },
     {
+      "id": "doce-brigadeiro",
+      "descricao": "DOCE DE BRIGADEIRO",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-brigadeiro.jpg",
+      "variacoes": [
+        {
+          "codigo": "4624",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-docura-fazenda",
+      "descricao": "DOCE DE LEITE DOÇURA FAZENDA",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-docura-fazenda.webp",
+      "variacoes": [
+        {
+          "codigo": "4627",
+          "pesoValor": 25.0,
+          "pesoUnidade": "X55G",
+          "unidade": "PC",
+          "precoVenda": 60.0
+        }
+      ]
+    },
+    {
+      "id": "doce-geleia-de-mocoto",
+      "descricao": "DOCE GELEIA DE MOCOTO",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-geleia-de-mocoto.jpg",
+      "variacoes": [
+        {
+          "codigo": "4628",
+          "pesoValor": 15.0,
+          "pesoUnidade": "X37,5G",
+          "unidade": "PC",
+          "precoVenda": 28.0
+        }
+      ]
+    },
+    {
+      "id": "doce-palha-italiana",
+      "descricao": "DOCE PALHA ITALIANA",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-palha-italiana.jpg",
+      "variacoes": [
+        {
+          "codigo": "4625",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0
+        }
+      ]
+    },
+    {
+      "id": "doce-pingo-bel",
+      "descricao": "DOCE PINGO BEL",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-pingo-bel.jpg",
+      "variacoes": [
+        {
+          "codigo": "4626",
+          "pesoValor": 21.0,
+          "pesoUnidade": "X50G",
+          "unidade": "PC",
+          "precoVenda": 48.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-souvenir",
+      "descricao": "DOCE DE LEITE SOUVENIR",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-souvenir.jpg",
+      "variacoes": [
+        {
+          "codigo": "4629",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400G",
+          "unidade": "CX",
+          "precoVenda": 195.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-c-cocosouvenir",
+      "descricao": "DOCE DE LEITE C/COCOSUVENIR",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-c-cocosouvenir.jpg",
+      "variacoes": [
+        {
+          "codigo": "4630",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X400g",
+          "unidade": "CX",
+          "precoVenda": 127.5
+        }
+      ]
+    },
+    {
       "id": "doce-de-leite-c-coco",
       "descricao": "DOCE DE LEITE C/ COCO",
       "categoria": "doces",

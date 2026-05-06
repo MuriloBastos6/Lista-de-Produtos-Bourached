@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 531,
-    "matched": 540,
+    "produtos": 538,
+    "matched": 547,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -4479,6 +4479,69 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "DOCE_DE_LEITE_COM_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-brigadeiro",
+      "descricao": "DOCE DE BRIGADEIRO",
+      "imagem": "/images/doce/doce-brigadeiro.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-brigadeiro.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-docura-fazenda",
+      "descricao": "DOCE DE LEITE DOÇURA FAZENDA",
+      "imagem": "/images/doce/doce-de-leite-docura-fazenda.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-docura-fazenda.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-geleia-de-mocoto",
+      "descricao": "DOCE GELEIA DE MOCOTO",
+      "imagem": "/images/doce/doce-geleia-de-mocoto.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-geleia-de-mocoto.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-palha-italiana",
+      "descricao": "DOCE PALHA ITALIANA",
+      "imagem": "/images/doce/doce-palha-italiana.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-palha-italiana.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-pingo-bel",
+      "descricao": "DOCE PINGO BEL",
+      "imagem": "/images/doce/doce-pingo-bel.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-pingo-bel.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-souvenir",
+      "descricao": "DOCE DE LEITE SOUVENIR",
+      "imagem": "/images/doce/doce-de-leite-souvenir.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-souvenir.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "doce-de-leite-c-cocosouvenir",
+      "descricao": "DOCE DE LEITE C/COCOSUVENIR",
+      "imagem": "/images/doce/doce-de-leite-c-cocosouvenir.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-c-cocosouvenir.jpg"
     },
     {
       "categoria": "doces",
