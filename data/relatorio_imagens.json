@@ -4052,19 +4052,19 @@
       "categoria": "doces",
       "id": "bala-gelatina-cobrinha-citrica",
       "descricao": "BALA GELATINA COBRINHA CITRICA",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/GELATINA_COBRINHA.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "GELATINA_COBRINHA.jpg"
     },
     {
       "categoria": "doces",
       "id": "bala-gelatina-diversas",
       "descricao": "BALA GELATINA DIVERSAS",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/doces/GELATINAS_DIVERSAS.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "GELATINAS_DIVERSAS.jpg"
     },
     {
       "categoria": "doces",

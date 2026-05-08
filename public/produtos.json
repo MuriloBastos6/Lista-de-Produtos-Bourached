@@ -4954,14 +4954,14 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 28.5
+          "precoVenda": 31.5
         },
         {
           "codigo": "3026",
           "pesoValor": 30.0,
           "pesoUnidade": "X1KG",
           "unidade": "FD",
-          "precoVenda": 40.0
+          "precoVenda": 44.0
         }
       ]
     },
@@ -4976,14 +4976,14 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 30.5
+          "precoVenda": 33.0
         },
         {
           "codigo": "3515",
           "pesoValor": 30.0,
           "pesoUnidade": "X1KG",
           "unidade": "FD",
-          "precoVenda": 42.5
+          "precoVenda": 46.0
         }
       ]
     },
