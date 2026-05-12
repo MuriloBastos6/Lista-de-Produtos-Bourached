@@ -9946,6 +9946,21 @@
       ]
     },
     {
+      "id": "gota-chocolate-branco",
+      "descricao": "GOTA CHOCOLATE BRANCO",
+      "categoria": "doces",
+      "imagem": "/images/doces/gota-de-chocolate-branco.jpg",
+      "variacoes": [
+        {
+          "codigo": "4635",
+          "pesoValor": 10.0,
+          "pesoUnidade": "X500G",
+          "unidade": "PT",
+          "precoVenda": 167.0
+        }
+      ]
+    },
+    {
       "id": "gota-chocolate",
       "descricao": "GOTA CHOCOLATE",
       "categoria": "doces",
