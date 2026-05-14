@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 18,
     "produtos": 539,
-    "matched": 547,
+    "matched": 548,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -3998,10 +3998,10 @@
       "categoria": "doces",
       "id": "bala-de-goma-ice-eucalipto",
       "descricao": "BALA DE GOMA ICE EUCALIPTO",
-      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
+      "imagem": "/images/doces/BALA_GOMA_ICE_ECALIPTO.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "BALA_DE_GOMA.jpg"
+      "arquivo_sugerido": "BALA_GOMA_ICE_ECALIPTO.jpg"
     },
     {
       "categoria": "doces",
@@ -4619,10 +4619,10 @@
       "categoria": "doces",
       "id": "gota-chocolate-branco",
       "descricao": "GOTA CHOCOLATE BRANCO",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/gota-de-chocolate-branco.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "gota-de-chocolate-branco.jpg"
     },
     {
       "categoria": "doces",

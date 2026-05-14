@@ -787,21 +787,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 652.0
-        },
-        {
-          "codigo": "3520",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 1300.0
+          "precoVenda": 457.0
         },
         {
           "codigo": "2291",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 2600.0
+          "precoVenda": 1820.0
         }
       ]
     },
@@ -816,14 +809,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 427.0
+          "precoVenda": 392.0
         },
         {
           "codigo": "3534",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1700.0
+          "precoVenda": 1560.0
         }
       ]
     },
@@ -838,14 +831,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 417.0
+          "precoVenda": 372.0
         },
         {
           "codigo": "3533",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1660.0
+          "precoVenda": 1480.0
         }
       ]
     },
@@ -860,14 +853,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 362.0
+          "precoVenda": 262.0
         },
         {
           "codigo": "3532",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1440.0
+          "precoVenda": 1040.0
         }
       ]
     },
@@ -1515,14 +1508,14 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 106.0
+          "precoVenda": 113.0
         },
         {
           "codigo": "3440",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 420.0
+          "precoVenda": 448.0
         }
       ]
     },
@@ -3667,21 +3660,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 24.5
+          "precoVenda": 28.5
         },
         {
           "codigo": "190",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 135.0
+          "precoVenda": 157.5
         },
         {
           "codigo": "3478",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 270.0
+          "precoVenda": 315.0
         }
       ]
     },
@@ -8858,7 +8851,7 @@
       "id": "bala-de-goma-ice-eucalipto",
       "descricao": "BALA DE GOMA ICE EUCALIPTO",
       "categoria": "doces",
-      "imagem": "/images/doces/BALA_DE_GOMA.jpg",
+      "imagem": "/images/doces/BALA_GOMA_ICE_ECALIPTO.jpg",
       "variacoes": [
         {
           "codigo": "4562",
