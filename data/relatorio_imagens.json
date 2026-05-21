@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 541,
+    "produtos": 542,
     "matched": 550,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -4758,6 +4758,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "PACOCA_AMENDOIM.jpg"
+    },
+    {
+      "categoria": "doces",
+      "id": "pacoca-de-amendoim-espeto",
+      "descricao": "PAÇOCA DE AMENDOIM ESPETO",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "doces",
