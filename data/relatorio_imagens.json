@@ -1,8 +1,8 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 539,
-    "matched": 548,
+    "produtos": 541,
+    "matched": 550,
     "fallback": 0,
     "category_without_folder": 0
   },
@@ -2997,6 +2997,15 @@
     },
     {
       "categoria": "produtosnaturais",
+      "id": "ameixa-em-po",
+      "descricao": "AMEIXA EM PÓ",
+      "imagem": "/images/produtosnaturais/ameixa-em-po.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ameixa-em-po.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
       "id": "cacau-em-po-100-alcalino",
       "descricao": "CACAU EM PO 100% ALCALINO",
       "imagem": "/images/produtosnaturais/CACAU_EM_PO_100.jpg",
@@ -3138,6 +3147,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "farofa.jpg"
+    },
+    {
+      "categoria": "produtosnaturais",
+      "id": "flocos-de-arroz",
+      "descricao": "FLOCOS DE ARROZ",
+      "imagem": "/images/produtosnaturais/flocos-de-arroz.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "flocos-de-arroz.jpg"
     },
     {
       "categoria": "produtosnaturais",
