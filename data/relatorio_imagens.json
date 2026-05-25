@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 542,
-    "matched": 550,
+    "produtos": 543,
+    "matched": 552,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -4563,6 +4563,15 @@
     },
     {
       "categoria": "doces",
+      "id": "doce-de-leite-c-cacausouvenir",
+      "descricao": "DOCE DE LEITE C/CACAUSOUVENIR",
+      "imagem": "/images/doces/doce-de-leite-c-cacausouvenir.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "doce-de-leite-c-cacausouvenir.webp"
+    },
+    {
+      "categoria": "doces",
       "id": "doce-de-leite-c-coco",
       "descricao": "DOCE DE LEITE C/ COCO",
       "imagem": "/images/doces/DOCE_DE_LEITE.jpg",
@@ -4609,7 +4618,7 @@
     {
       "categoria": "doces",
       "id": "doce-de-abobora-c-coco",
-      "descricao": "DOCE DE ABOBORA C/ COCO",
+      "descricao": "DOCE ABÓBORA C/ COCO",
       "imagem": "/images/doces/DOCE_DE_ABOBORA.jpg",
       "status": "fixed-existing",
       "score": 999.0,
@@ -4763,10 +4772,10 @@
       "categoria": "doces",
       "id": "pacoca-de-amendoim-espeto",
       "descricao": "PAÇOCA DE AMENDOIM ESPETO",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/doces/pacoca-de-amendoim-espeto.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "pacoca-de-amendoim-espeto.jpg"
     },
     {
       "categoria": "doces",
