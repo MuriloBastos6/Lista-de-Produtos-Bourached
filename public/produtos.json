@@ -1912,14 +1912,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 30.0
+          "precoVenda": 33.0
         },
         {
           "codigo": "2696",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 600.0
+          "precoVenda": 660.0
         }
       ]
     },
