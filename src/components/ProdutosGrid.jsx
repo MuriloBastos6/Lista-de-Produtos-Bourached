@@ -99,18 +99,25 @@ function ProdutosGrid({ produtos = [], exibirSeloPromocao = false }) {
             <h2 className="nome-produto">{produto.descricao}</h2>
             <p className="codigo-produto">Cód.: {codigos}</p>
 
-            {variacoes.map((v, i) => (
-              <div
-                className="linha-variacao"
-                key={`${produto.id}-${v.codigo || i}`}
-              >
-                <strong>{formatarPreco(v.precoVenda)}</strong>
-                <span>
-                  {v.pesoValor}
-                  {v.pesoUnidade} - {v.unidade}
-                </span>
-              </div>
-            ))}
+            <div className="variacoes-lista">
+              {variacoes.map((v, i) => (
+                <div
+                  className="linha-variacao"
+                  key={`${produto.id}-${v.codigo || i}`}
+                >
+                  <div className="preco-avista">
+                    <span className="preco-label"></span>
+                    <strong className="preco-valor">
+                      {formatarPreco(v.precoVenda)}
+                    </strong>
+                  </div>
+                  <span className="peso-info">
+                    {v.pesoValor}
+                    {v.pesoUnidade} - {v.unidade}
+                  </span>
+                </div>
+              ))}
+            </div>
           </article>
         );
       })}

@@ -795,15 +795,17 @@ body::-webkit-scrollbar {
 .card-produto {
   position: relative;
   isolation: isolate;
-  background:
-    radial-gradient(120% 90% at 0% 0%, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0) 62%),
-    linear-gradient(160deg, #f8fbff 0%, #edf4ff 52%, #eaf3ff 100%);
-  border: 1px solid rgba(9, 44, 95, 0.12);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 1px solid rgba(214, 168, 0, 0.3);
   border-radius: 20px;
   padding: 0.9rem 0.9rem 1.05rem;
   box-shadow:
-    0 14px 30px rgba(9, 44, 95, 0.14),
-    0 2px 0 rgba(255, 255, 255, 0.45) inset;
+    0 14px 30px rgba(95, 70, 9, 0.14),
+    0 2px 0 rgba(255, 255, 255, 0.5) inset;
   transition: transform var(--transition-fast), box-shadow var(--transition-fast), border-color var(--transition-fast), background var(--transition-smooth);
 }
 
@@ -830,7 +832,7 @@ body::-webkit-scrollbar {
   inset: 0;
   border-radius: inherit;
   padding: 1px;
-  background: linear-gradient(145deg, rgba(255, 255, 255, 0.92), rgba(154, 191, 255, 0.35));
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.95), rgba(240, 240, 240, 0.45));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -842,20 +844,33 @@ body::-webkit-scrollbar {
 .card-produto:hover {
   transform: translateY(-6px);
   box-shadow:
-    0 24px 42px rgba(9, 44, 95, 0.22),
-    0 2px 0 rgba(255, 255, 255, 0.55) inset;
-  border-color: rgba(0, 124, 255, 0.32);
+    0 24px 42px rgba(95, 70, 9, 0.22),
+    0 2px 0 rgba(255, 255, 255, 0.6) inset;
+  border-color: rgba(214, 168, 0, 0.55);
 }
 
 .imagem-produto {
   width: 100%;
-  height: 178px;
+  height: 180px;
   object-fit: contain;
+  object-position: center;
   border-radius: 14px;
-  background: linear-gradient(180deg, #ffffff 0%, #f6faff 100%);
+  padding: 0.5rem;
+  box-sizing: border-box;
+  background: #ffffff;
   border: 1px solid rgba(9, 44, 95, 0.1);
   box-shadow: 0 10px 16px rgba(13, 33, 70, 0.08);
   margin-bottom: 0.95rem;
+  transition: transform var(--transition-smooth);
+}
+
+.card-produto:hover .imagem-produto {
+  transform: scale(1.03);
+}
+
+.card-produto:hover .preco-avista {
+  box-shadow: 0 8px 18px rgba(214, 168, 0, 0.45);
+  transform: translateY(-1px);
 }
 
 .nome-produto {
@@ -867,50 +882,86 @@ body::-webkit-scrollbar {
   letter-spacing: 0.2px;
   font-family: "Outfit", sans-serif;
   text-transform: uppercase;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.56em;
 }
 
 .codigo-produto {
-  margin: 0 0 0.85rem;
-  color: #5a6f88;
-  font-size: 0.88rem;
-  font-weight: 600;
+  display: inline-block;
+  align-self: flex-start;
+  margin: 0 0 0.9rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(1, 91, 194, 0.08);
+  color: #41597a;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+/* painel claro que agrupa o preço (igual à referência) */
+.variacoes-lista {
+  margin-top: auto;
+  padding: 0.7rem;
+  border-radius: 16px;
+  border: 1px solid rgba(9, 44, 95, 0.08);
+  background: #f6f8fc;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
 }
 
 .linha-variacao {
-  margin-top: 0.55rem;
-  padding: 0.62rem 0.72rem;
-  border-radius: 12px;
-  border: 1px solid #d7e4f3;
-  background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
   gap: 0.6rem;
-  transition: border-color var(--transition-fast), transform var(--transition-fast), background var(--transition-fast);
 }
 
-.linha-variacao:hover {
-  border-color: #bfd3ef;
-  transform: translateY(-1px);
+/* caixa "À VISTA" preenchida em amarelo, à esquerda */
+.preco-avista {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  padding: 0.45rem 1rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #ffe45e 0%, #ffce2e 100%);
+  box-shadow: 0 6px 14px rgba(214, 168, 0, 0.35);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
-.linha-variacao strong {
-  color: #0a2162;
-  background: #ebebf9;
-  border: 1px solid rgba(10, 98, 85, 0.16);
-  border-radius: 999px;
-  padding: 0.2rem 0.5rem;
+.preco-label {
+  font-size: 0.7rem;
   font-weight: 800;
-  font-size: 1rem;
-  letter-spacing: 0.15px;
-  line-height: 1;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #8a6500;
 }
 
-.linha-variacao span {
-  color: #5f6f82;
-  font-size: 0.82rem;
-  font-weight: 600;
+.preco-valor {
+  font-family: "Outfit", sans-serif;
+  font-weight: 800;
+  font-size: 1.4rem;
+  line-height: 1.05;
+  letter-spacing: 0.2px;
+  color: #0a2162;
+}
+
+/* pílula de peso/unidade no canto inferior direito */
+.peso-info {
+  align-self: flex-end;
+  color: #41597a;
+  font-size: 0.78rem;
+  font-weight: 700;
   white-space: nowrap;
+  background: #e8f0fb;
+  border: 1px solid rgba(9, 44, 95, 0.08);
+  border-radius: 999px;
+  padding: 0.25rem 0.7rem;
 }
 
 /*Fim da lista de Produtos*/
@@ -1261,19 +1312,19 @@ body::-webkit-scrollbar {
   }
 
   .imagem-produto {
-    height: 150px;
+    height: 170px;
   }
 
   .nome-produto {
     font-size: 0.98rem;
   }
 
-  .linha-variacao strong {
-    font-size: 1.02rem;
+  .preco-valor {
+    font-size: 1.35rem;
   }
 
-  .linha-variacao span {
-    font-size: 0.8rem;
+  .peso-info {
+    font-size: 0.78rem;
   }
 
   .categoria-banner {
