@@ -1,66 +1,12 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 543,
-    "matched": 552,
+    "produtos": 549,
+    "matched": 560,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 4
   },
   "details": [
-    {
-      "categoria": "promoçoes",
-      "id": "uva-passa-preta",
-      "descricao": "UVA PASSA PRETA",
-      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "UVA_PASSA_PRETA.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "linhaa-dourada",
-      "descricao": "LINHAÇA DOURADA",
-      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "LINHACA_DOURADA.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "aveia-em-flocos-laminada-n2",
-      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "AVEIA_EM_FLOCOS_LAMINADA.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "aveia-em-flocos-n3",
-      "descricao": "AVEIA EM FLOCOS Nº3",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "AVEIA_EM_FLOCOS.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "farinha-de-aveia-n6",
-      "descricao": "FARINHA DE AVEIA Nº6",
-      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "farinha-de-aveia.jpg"
-    },
-    {
-      "categoria": "promoçoes",
-      "id": "farelo-de-aveia-n7",
-      "descricao": "FARELO DE AVEIA Nº7",
-      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
-      "status": "linked-by-id",
-      "score": 999.0,
-      "arquivo_sugerido": "FARELO_DE_AVEIA.jpg"
-    },
     {
       "categoria": "promoçoes",
       "id": "amendoim-hanner",
@@ -69,6 +15,15 @@
       "status": "linked-by-id",
       "score": 999.0,
       "arquivo_sugerido": "amendoim-hanner.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele",
+      "descricao": "AMENDOIM S/ PELE",
+      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele.jpeg"
     },
     {
       "categoria": "promoçoes",
@@ -81,12 +36,111 @@
     },
     {
       "categoria": "promoçoes",
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "id": "canjica-amarela",
+      "descricao": "CANJICA AMARELA",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
       "status": "linked-by-id",
       "score": 999.0,
-      "arquivo_sugerido": "AMIDO_DE_MILHO_INTEGRADA.jpg"
+      "arquivo_sugerido": "CANJICA_AMARELA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canjica-branca",
+      "descricao": "CANJICA BRANCA",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANJICA_BRANCA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-milho-amarela",
+      "descricao": "FARINHA DE MILHO AMARELA",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-amarela.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "farinha-de-milho-branca",
+      "descricao": "FARINHA DE MILHO BRANCA",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "farinha-de-milho-branca.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_ITALIANO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "FUBA_MIMOSO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canela-em-po",
+      "descricao": "CANELA EM PO",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_EM_PO.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "canela-casca-6-cm",
+      "descricao": "CANELA CASCA 6 CM",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CANELA_CASCA_6CM.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "cravo-da-india",
+      "descricao": "CRAVO DA INDIA",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CRAVO_DA_INDIA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-c-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AMENDOIM-S- PELE-TORRADO-C-sAL.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-s-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele-torrado-s-sal.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "xerem-de-amendoim",
+      "descricao": "XEREM DE AMENDOIM",
+      "imagem": "/images/amendoim/XEREM_AMENDOIM.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "XEREM_AMENDOIM.jpg"
     },
     {
       "categoria": "amendoim",

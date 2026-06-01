@@ -56,8 +56,8 @@ function ListaDeProdutos() {
   const [carregando, setCarregando] = useState(true);
 
   const categoria = {
-    titulo: "Promoções da semana!!",
-    subtitulo: "Valida até durarem os estoques",
+    titulo: "Chegou o Arraiá! 🎉",
+    subtitulo: "Os itens que não podem faltar na sua festa junina 🌽🔥",
     capa: "/banner-azul.png",
   };
 
@@ -118,7 +118,7 @@ function ListaDeProdutos() {
       </div>
 
       <div className="data-promocao">
-        <p>Valida até 25/05/2026</p>
+        <p>🎉 Ofertas de São João durante todo o mês de junho!</p>
       </div>
 
       {carregando ? (

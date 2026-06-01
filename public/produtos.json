@@ -1,96 +1,6 @@
 {
   "promoçoes": [
     {
-      "id": "uva-passa-preta",
-      "descricao": "UVA PASSA PRETA",
-      "categoria": "promoçoes",
-      "imagem": "/images/frutas/UVA_PASSA_PRETA.jpg",
-      "variacoes": [
-        {
-          "codigo": "2229",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "CX",
-          "precoVenda": 145.0
-        }
-      ]
-    },
-    {
-      "id": "linhaa-dourada",
-      "descricao": "LINHAÇA DOURADA",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/LINHACA_DOURADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "195",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 245.0
-        }
-      ]
-    },
-    {
-      "id": "aveia-em-flocos-laminada-n2",
-      "descricao": "AVEIA EM FLOCOS LAMINADA Nº2",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS_LAMINADA.jpg",
-      "variacoes": [
-        {
-          "codigo": "569",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0
-        }
-      ]
-    },
-    {
-      "id": "aveia-em-flocos-n3",
-      "descricao": "AVEIA EM FLOCOS Nº3",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/AVEIA_EM_FLOCOS.jpg",
-      "variacoes": [
-        {
-          "codigo": "282",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0
-        }
-      ]
-    },
-    {
-      "id": "farinha-de-aveia-n6",
-      "descricao": "FARINHA DE AVEIA Nº6",
-      "categoria": "promoçoes",
-      "imagem": "/images/farinhas/farinha-de-aveia.jpg",
-      "variacoes": [
-        {
-          "codigo": "564",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 117.0
-        }
-      ]
-    },
-    {
-      "id": "farelo-de-aveia-n7",
-      "descricao": "FARELO DE AVEIA Nº7",
-      "categoria": "promoçoes",
-      "imagem": "/images/produtosnaturais/FARELO_DE_AVEIA.jpg",
-      "variacoes": [
-        {
-          "codigo": "565",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 121.0
-        }
-      ]
-    },
-    {
       "id": "amendoim-hanner",
       "descricao": "AMENDOIM HANNER",
       "categoria": "promoçoes",
@@ -101,7 +11,22 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 155.0
+          "precoVenda": 157.0
+        }
+      ]
+    },
+    {
+      "id": "amendoim-s-pele",
+      "descricao": "AMENDOIM S/ PELE",
+      "categoria": "promoçoes",
+      "imagem": "/images/amendoim/amendoim-s-pele.jpeg",
+      "variacoes": [
+        {
+          "codigo": "103",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 215.0
         }
       ]
     },
@@ -116,22 +41,187 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 81.0
+          "precoVenda": 89.0
         }
       ]
     },
     {
-      "id": "amido-de-milho-integrada",
-      "descricao": "AMIDO DE MILHO INTEGRADA",
+      "id": "canjica-amarela",
+      "descricao": "CANJICA AMARELA",
       "categoria": "promoçoes",
-      "imagem": "/images/panificacao/AMIDO_DE_MILHO_INTEGRADA.jpg",
+      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
       "variacoes": [
         {
-          "codigo": "8",
+          "codigo": "11",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 78.5
+        }
+      ]
+    },
+    {
+      "id": "canjica-branca",
+      "descricao": "CANJICA BRANCA",
+      "categoria": "promoçoes",
+      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "variacoes": [
+        {
+          "codigo": "3472",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 112.5
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-milho-amarela",
+      "descricao": "FARINHA DE MILHO AMARELA",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "variacoes": [
+        {
+          "codigo": "19",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 168.0
+        }
+      ]
+    },
+    {
+      "id": "farinha-de-milho-branca",
+      "descricao": "FARINHA DE MILHO BRANCA",
+      "categoria": "promoçoes",
+      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "variacoes": [
+        {
+          "codigo": "221",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 300.0
+        }
+      ]
+    },
+    {
+      "id": "fuba-italiano",
+      "descricao": "FUBA ITALIANO",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "variacoes": [
+        {
+          "codigo": "460",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 88.0
+          "precoVenda": 78.0
+        }
+      ]
+    },
+    {
+      "id": "fuba-mimoso-integrada",
+      "descricao": "FUBA MIMOSO INTEGRADA",
+      "categoria": "promoçoes",
+      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "variacoes": [
+        {
+          "codigo": "128",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 67.0
+        }
+      ]
+    },
+    {
+      "id": "canela-em-po",
+      "descricao": "CANELA EM PO",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
+      "variacoes": [
+        {
+          "codigo": "2571",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 185.0
+        }
+      ]
+    },
+    {
+      "id": "canela-casca-6-cm",
+      "descricao": "CANELA CASCA 6 CM",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
+      "variacoes": [
+        {
+          "codigo": "2522",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 39.0
+        }
+      ]
+    },
+    {
+      "id": "cravo-da-india",
+      "descricao": "CRAVO DA INDIA",
+      "categoria": "promoçoes",
+      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2615",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 290.0
+        }
+      ]
+    },
+    {
+      "id": "amendoim-s-pele-torrado-c-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "categoria": "promoçoes",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "variacoes": [
+        {
+          "codigo": "150",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 190.0
+        }
+      ]
+    },
+    {
+      "id": "amendoim-s-pele-torrado-s-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "categoria": "promoçoes",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "variacoes": [
+        {
+          "codigo": "7",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 190.0
+        }
+      ]
+    },
+    {
+      "id": "xerem-de-amendoim",
+      "descricao": "XEREM DE AMENDOIM",
+      "categoria": "promoçoes",
+      "imagem": "/images/amendoim/XEREM_AMENDOIM.jpg",
+      "variacoes": [
+        {
+          "codigo": "3851",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 75.0
         }
       ]
     }

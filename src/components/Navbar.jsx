@@ -1,56 +1,71 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import Categorias from "./Categorias";
+import Categorias, { categorias } from "./Categorias";
 import BuscaProdutos from "./BuscaProdutos";
 
 function Navbar() {
   const [menuAberto, setMenuAberto] = useState(false);
   const location = useLocation();
+  const dropdownRef = useRef(null);
 
-  const toggleMenu = () => {
-    setMenuAberto(!menuAberto);
-  };
+  const slugAtual = location.pathname.replace("/", "");
+  const categoriaAtual = categorias.find((cat) => cat.slug === slugAtual);
 
-  const fecharMenu = () => {
-    setMenuAberto(false);
-  };
+  const toggleMenu = () => setMenuAberto((aberto) => !aberto);
+  const fecharMenu = () => setMenuAberto(false);
 
+  // Fecha o menu ao trocar de rota
   useEffect(() => {
     setMenuAberto(false);
   }, [location.pathname]);
 
+  // Fecha o menu ao clicar fora do dropdown
+  useEffect(() => {
+    if (!menuAberto) return;
+
+    function handleClickFora(evento) {
+      if (dropdownRef.current && !dropdownRef.current.contains(evento.target)) {
+        setMenuAberto(false);
+      }
+    }
+
+    document.addEventListener("mousedown", handleClickFora);
+    return () => document.removeEventListener("mousedown", handleClickFora);
+  }, [menuAberto]);
+
   return (
     <nav className="nav-bar">
       <div className="nav-titulo">
-        <h1>Lista de Produtos</h1>
+        <h1>Nossos Produtos</h1>
+        <p>Confira nossa lista de produtos, e clique para ver mais informações.</p>
       </div>
       <div className="div-logo">
         <Link to="/" onClick={fecharMenu}>
-          <img src="logoBourached.png" alt="Logo da bourached" />
+          <img src="logo-bourached-branco.png" alt="Logo da bourached" />
         </Link>
       </div>
-      <button
-        className="btn-menu-hamburger"
-        onClick={toggleMenu}
-        aria-label="Menu"
-      >
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
+      <div className="div-logo-saint">
+        <img src="logo-saint-louis.png" alt="Logo Saint Louis" />
+      </div>
       <div className="input-div">
         <BuscaProdutos />
       </div>
 
-      {/* Menu Hamburger */}
+      {/* Seletor de Categorias (dropdown com imagens) */}
+      <div className="categoria-select-div" ref={dropdownRef}>
+        <button
+          type="button"
+          className={`categoria-select ${menuAberto ? "aberto" : ""}`}
+          onClick={toggleMenu}
+          aria-haspopup="true"
+          aria-expanded={menuAberto}
+        >
+          {categoriaAtual ? categoriaAtual.titulo : "Selecione uma categoria"}
+        </button>
 
-      {/* Menu de Categorias */}
-      <div className={`menu-categorias ${menuAberto ? "aberto" : ""}`}>
-        <ul className="lista-categorias">
-          <li className="item-categoria">
-            <Categorias onSelectCategory={fecharMenu} />
-          </li>
-        </ul>
+        <div className={`menu-categorias ${menuAberto ? "aberto" : ""}`}>
+          <Categorias onSelectCategory={fecharMenu} />
+        </div>
       </div>
     </nav>
   );

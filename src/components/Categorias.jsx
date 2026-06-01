@@ -1,13 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function Categorias({ onSelectCategory }) {
-  const categoria = [
-    {
-      titulo: "Amendois & castanhas",
-      capa: "/amendoim.jpeg",
-      slug: "amendoim",
-    },
+export const categorias = [
+  {
+    titulo: "Amendois & castanhas",
+    capa: "/amendoim.jpeg",
+    slug: "amendoim",
+  },
     {
       titulo: "Arroz",
       capa: "/arroz.jpeg",
@@ -86,12 +85,14 @@ function Categorias({ onSelectCategory }) {
     {
       titulo: "Potes",
       capa: "/pote.jpeg",
-      slug: "potes",
-    },
-  ];
+    slug: "potes",
+  },
+];
+
+function Categorias({ onSelectCategory }) {
   return (
     <div className="card-categorias">
-      {categoria.map((cat) => (
+      {categorias.map((cat) => (
         <Link
           to={`/${cat.slug}`}
           key={cat.slug}
