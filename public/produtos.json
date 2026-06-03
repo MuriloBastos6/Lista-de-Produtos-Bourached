@@ -41,7 +41,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 89.0
+          "precoVenda": 87.0
         }
       ]
     },
@@ -56,7 +56,7 @@
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 78.5
+          "precoVenda": 80.0
         }
       ]
     },
@@ -71,7 +71,7 @@
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 112.5
+          "precoVenda": 113.0
         }
       ]
     },
@@ -176,7 +176,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 290.0
+          "precoVenda": 375.0
         }
       ]
     },
@@ -1216,21 +1216,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 317.0
+          "precoVenda": 267.0
         },
         {
           "codigo": "263",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 630.0
+          "precoVenda": 530.0
         },
         {
           "codigo": "3093",
           "pesoValor": 11.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 693.0
+          "precoVenda": 583.0
         }
       ]
     },
@@ -1245,14 +1245,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 262.0
+          "precoVenda": 242.0
         },
         {
           "codigo": "2330",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 520.0
+          "precoVenda": 480.0
         }
       ]
     },
@@ -2884,14 +2884,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 18.0
+          "precoVenda": 18.5
         },
         {
           "codigo": "261",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 80.0
+          "precoVenda": 83.0
         }
       ]
     },
@@ -2906,14 +2906,14 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 11.0
+          "precoVenda": 11.5
         },
         {
           "codigo": "92",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 64.0
+          "precoVenda": 67.0
         }
       ]
     },
@@ -3037,7 +3037,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 125.0
+          "precoVenda": 122.0
         }
       ]
     },
@@ -3194,14 +3194,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 15.0
+          "precoVenda": 15.5
         },
         {
           "codigo": "11",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 78.5
+          "precoVenda": 80.0
         }
       ]
     },
@@ -3223,7 +3223,7 @@
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 112.5
+          "precoVenda": 113.0
         }
       ]
     },
@@ -3377,14 +3377,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 112.0
+          "precoVenda": 100.5
         },
         {
           "codigo": "4545",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 660.0
+          "precoVenda": 590.0
         }
       ]
     },
@@ -3399,14 +3399,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 112.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "2482",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 660.0
+          "precoVenda": 540.0
         }
       ]
     },
@@ -3421,14 +3421,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 112.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "89",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 660.0
+          "precoVenda": 540.0
         }
       ]
     },
@@ -3443,14 +3443,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 112.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "2486",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 660.0
+          "precoVenda": 540.0
         }
       ]
     },
@@ -3465,14 +3465,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 112.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "2487",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 660.0
+          "precoVenda": 540.0
         }
       ]
     },
@@ -3604,21 +3604,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 26.0
+          "precoVenda": 24.5
         },
         {
           "codigo": "2624",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 142.5
+          "precoVenda": 135.0
         },
         {
           "codigo": "119",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 285.0
+          "precoVenda": 270.0
         }
       ]
     },
@@ -3633,14 +3633,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 22.0
+          "precoVenda": 23.0
         },
         {
           "codigo": "3621",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 100.0
+          "precoVenda": 102.5
+        },
+        {
+          "codigo": "2834",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 123.0
         }
       ]
     },
@@ -3677,14 +3684,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 58.5
+          "precoVenda": 55.5
         },
         {
           "codigo": "98",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 338.0
+          "precoVenda": 320.0
         }
       ]
     },
@@ -3750,21 +3757,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 33.5
+          "precoVenda": 31.0
         },
         {
           "codigo": "190",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 187.5
+          "precoVenda": 175.0
         },
         {
           "codigo": "3478",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 375.0
+          "precoVenda": 350.0
         }
       ]
     },
@@ -3801,14 +3808,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 42.0
+          "precoVenda": 48.5
         },
         {
           "codigo": "100",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 240.0
+          "precoVenda": 280.0
         }
       ]
     },
@@ -3918,14 +3925,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 66.5
+          "precoVenda": 62.0
         },
         {
           "codigo": "117",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 322.5
+          "precoVenda": 300.0
         }
       ]
     },
@@ -3940,14 +3947,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 41.0
+          "precoVenda": 38.0
         },
         {
           "codigo": "60",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 195.0
+          "precoVenda": 180.0
         }
       ]
     },
@@ -4071,7 +4078,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 89.0
+          "precoVenda": 87.0
         }
       ]
     },
@@ -4086,7 +4093,7 @@
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 83.0
+          "precoVenda": 85.0
         }
       ]
     },
@@ -4101,7 +4108,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 20.0
+          "precoVenda": 21.0
         }
       ]
     },
@@ -4184,14 +4191,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 41.0
+          "precoVenda": 39.5
         },
         {
           "codigo": "2391",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 195.0
+          "precoVenda": 186.0
         }
       ]
     },
@@ -4221,7 +4228,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 96.0
+          "precoVenda": 99.0
         }
       ]
     },
@@ -4428,7 +4435,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 125.0
+          "precoVenda": 129.0
         }
       ]
     },
@@ -4443,7 +4450,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 125.0
+          "precoVenda": 129.0
         }
       ]
     },
@@ -4815,14 +4822,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 290.0
+          "precoVenda": 375.0
         },
         {
           "codigo": "2616",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1450.0
+          "precoVenda": 1875.0
         }
       ]
     },
@@ -6345,14 +6352,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.0
+          "precoVenda": 64.5
         },
         {
           "codigo": "99",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 350.0
+          "precoVenda": 312.5
         }
       ]
     },
@@ -6440,7 +6447,7 @@
           "pesoValor": 22.68,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 157.0
+          "precoVenda": 155.0
         }
       ]
     },
@@ -6528,7 +6535,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 85.0
+          "precoVenda": 95.0
         }
       ]
     },
@@ -6652,14 +6659,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 107.0
+          "precoVenda": 97.0
         },
         {
           "codigo": "571",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 525.0
+          "precoVenda": 475.0
         }
       ]
     },
@@ -9561,7 +9568,7 @@
       "id": "crocante-chocolate-branco",
       "descricao": "CROCANTE CHOCOLATE BRANCO",
       "categoria": "doces",
-      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
+      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "3753",
@@ -9613,7 +9620,7 @@
       "id": "crocante-doce-branco",
       "descricao": "CROCANTE DOCE BRANCO",
       "categoria": "doces",
-      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
       "variacoes": [
         {
           "codigo": "4047",

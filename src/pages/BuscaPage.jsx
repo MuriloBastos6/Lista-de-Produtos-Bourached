@@ -72,6 +72,13 @@ function normalizarTexto(texto = "") {
     .trim();
 }
 
+function ehSlugPromocao(slug = "") {
+  const slugNormalizado = normalizarTexto(slug);
+  return ["promocao", "promocoes"].some((termo) =>
+    slugNormalizado.includes(termo),
+  );
+}
+
 function montarCodigos(produto) {
   const variacoes = Array.isArray(produto.variacoes) ? produto.variacoes : [];
   return variacoes
@@ -115,14 +122,28 @@ function BuscaPage() {
             return itens.map((produto, index) => ({
               ...produto,
               id: `${slug}-${produto.id ?? index}`,
+              idOriginal: String(produto.id ?? index),
               slug,
+              isPromocao: ehSlugPromocao(slug),
               codigosBusca: montarCodigos(produto),
             }));
           },
         );
 
+        // Remove o item de promoção quando o mesmo produto já existe na
+        // categoria própria, evitando cards duplicados na busca.
+        const idsNaoPromocao = new Set(
+          respostas
+            .filter((produto) => !produto.isPromocao)
+            .map((produto) => produto.idOriginal),
+        );
+        const respostasSemDuplicatas = respostas.filter(
+          (produto) =>
+            !(produto.isPromocao && idsNaoPromocao.has(produto.idOriginal)),
+        );
+
         if (!cancelado) {
-          setTodosProdutos(respostas);
+          setTodosProdutos(respostasSemDuplicatas);
         }
       } catch {
         if (!cancelado) {

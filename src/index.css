@@ -920,6 +920,7 @@ body::-webkit-scrollbar {
   align-items: flex-end;
   justify-content: space-between;
   gap: 0.6rem;
+  flex-wrap: wrap;
 }
 
 /* caixa "À VISTA" preenchida em amarelo, à esquerda */
@@ -932,6 +933,7 @@ body::-webkit-scrollbar {
   background: linear-gradient(135deg, #ffe45e 0%, #ffce2e 100%);
   box-shadow: 0 6px 14px rgba(214, 168, 0, 0.35);
   transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  min-width: 0;
 }
 
 .preco-label {
@@ -954,6 +956,8 @@ body::-webkit-scrollbar {
 /* pílula de peso/unidade no canto inferior direito */
 .peso-info {
   align-self: flex-end;
+  margin-left: auto;
+  max-width: 100%;
   color: #41597a;
   font-size: 0.78rem;
   font-weight: 700;
