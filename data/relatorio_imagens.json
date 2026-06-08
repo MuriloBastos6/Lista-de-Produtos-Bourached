@@ -4403,10 +4403,10 @@
       "categoria": "doces",
       "id": "crocante-chocolate-branco",
       "descricao": "CROCANTE CHOCOLATE BRANCO",
-      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
+      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_CHOCOLATE_BRANCO.jpg"
+      "arquivo_sugerido": "CROCANTE_DOCE_BRANCO.jpg"
     },
     {
       "categoria": "doces",
@@ -4430,10 +4430,10 @@
       "categoria": "doces",
       "id": "crocante-doce-branco",
       "descricao": "CROCANTE DOCE BRANCO",
-      "imagem": "/images/doces/CROCANTE_DOCE_BRANCO.jpg",
+      "imagem": "/images/doces/CROCANTE_CHOCOLATE_BRANCO.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "CROCANTE_DOCE_BRANCO.jpg"
+      "arquivo_sugerido": "CROCANTE_CHOCOLATE_BRANCO.jpg"
     },
     {
       "categoria": "doces",
