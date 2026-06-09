@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 549,
+    "produtos": 550,
     "matched": 564,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -1410,6 +1410,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "CANJICA_BRANCA.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "canjicao-amarelo",
+      "descricao": "CANJICÃO AMARELO",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "graos",

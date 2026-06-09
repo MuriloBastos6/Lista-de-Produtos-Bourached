@@ -3228,6 +3228,21 @@
       ]
     },
     {
+      "id": "canjicao-amarelo",
+      "descricao": "CANJICÃO AMARELO",
+      "categoria": "graos",
+      "imagem": "/images/graos/canjicao-amarelo.jpg",
+      "variacoes": [
+        {
+          "codigo": "133",
+          "pesoValor": 30.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 85.0
+        }
+      ]
+    },
+    {
       "id": "canjiquinha-g-2",
       "descricao": "CANJIQUINHA G-2",
       "categoria": "graos",
@@ -5712,14 +5727,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 102.0
+          "precoVenda": 92.0
         },
         {
           "codigo": "2777",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 200.0
+          "precoVenda": 180.0
         }
       ]
     },
