@@ -4962,14 +4962,14 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 45.0
+          "precoVenda": 31.0
         },
         {
           "codigo": "3101",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 112.5
+          "precoVenda": 77.5
         }
       ]
     },
@@ -4984,7 +4984,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 125.0
+          "precoVenda": 112.5
         }
       ]
     },
@@ -6673,15 +6673,15 @@
           "codigo": "2245",
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 97.0
+          "unidade": "PC",
+          "precoVenda": 75.5
         },
         {
           "codigo": "571",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 475.0
+          "unidade": "SC",
+          "precoVenda": 362.5
         }
       ]
     },
