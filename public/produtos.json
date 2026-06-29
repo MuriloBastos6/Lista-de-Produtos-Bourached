@@ -4771,14 +4771,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0
+          "precoVenda": 49.0
         },
         {
           "codigo": "2521",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 390.0
+          "precoVenda": 490.0
         }
       ]
     },
@@ -6389,14 +6389,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 34.5
+          "precoVenda": 38.0
         },
         {
           "codigo": "3365",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 162.5
+          "precoVenda": 175.0
         }
       ]
     },
