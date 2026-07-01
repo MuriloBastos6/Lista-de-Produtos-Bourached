@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 560,
-    "matched": 563,
+    "produtos": 573,
+    "matched": 608,
     "fallback": 0,
-    "category_without_folder": 21
+    "category_without_folder": 2
   },
   "details": [
     {
@@ -78,6 +78,123 @@
       "status": "linked-by-id",
       "score": 999.0,
       "arquivo_sugerido": "MIX_DE_BATATA_DOCE.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-ovinho",
+      "descricao": "AMENDOIM OVINHO",
+      "imagem": "/images/amendoim/amendoim-ovinho.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-ovinho.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-ovinho-salsa-e-cebola",
+      "descricao": "AMENDOIM OVINHO SALSA E CEBOLA",
+      "imagem": "/images/amendoim/amendoim-ovinho-cebola-salsa.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-ovinho-cebola-salsa.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-bacon-balsamo",
+      "descricao": "CROCANTE BACON BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_BACON.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_BACON.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-c-salsa-balsamo",
+      "descricao": "CROCANTE C/ SALSA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_SALSA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_SALSA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-com-pimenta-balsamo",
+      "descricao": "CROCANTE COM  PIMENTA BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_PIMENTA.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_PIMENTA.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-japones-balsamo",
+      "descricao": "CROCANTE JAPONES BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_JAPONES.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_JAPONES.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "crocante-natural-balsamo",
+      "descricao": "CROCANTE NATURAL BALSAMO",
+      "imagem": "/images/amendoim/CROCANTE_NATURAL.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "CROCANTE_NATURAL.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-c-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "AMENDOIM-S- PELE-TORRADO-C-sAL.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-s-pele-torrado-s-sal",
+      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-s-pele-torrado-s-sal.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-alho-c-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-c-alho-c-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-c-alho-c-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-alho-s-pele",
+      "descricao": "AMENDOIM FRITO C/ ALHO S/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-alho-sem-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-alho-sem-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-sal-c-pele",
+      "descricao": "AMENDOIM FRITO C/ SAL C/ PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-com-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-com-pele.jpg"
+    },
+    {
+      "categoria": "promoçoes",
+      "id": "amendoim-frito-c-sal-spele",
+      "descricao": "AMENDOIM FRITO C/ SAL  S/PELE",
+      "imagem": "/images/amendoim/amendoim-frito-com-sal-sem-pele.jpg",
+      "status": "linked-by-id",
+      "score": 999.0,
+      "arquivo_sugerido": "amendoim-frito-com-sal-sem-pele.jpg"
     },
     {
       "categoria": "promoçoes",
