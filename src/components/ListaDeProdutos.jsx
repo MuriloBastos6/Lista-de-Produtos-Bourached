@@ -56,8 +56,8 @@ function ListaDeProdutos() {
   const [carregando, setCarregando] = useState(true);
 
   const categoria = {
-    titulo: "Chegou o Arraiá! 🎉",
-    subtitulo: "Os itens que não podem faltar na sua festa junina 🌽🔥",
+    titulo: "Bora Torcer! ⚽🏆",
+    subtitulo: "Os itens que não podem faltar pra torcer com a família🥅",
     capa: "/banner-azul.png",
   };
 
@@ -118,7 +118,7 @@ function ListaDeProdutos() {
       </div>
 
       <div className="data-promocao">
-        <p>🎉 Ofertas de São João durante todo o mês de junho!</p>
+        <p>⚽ Ofertas da Copa durante todo o mês!</p>
       </div>
 
       {carregando ? (

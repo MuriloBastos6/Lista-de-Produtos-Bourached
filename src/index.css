@@ -685,7 +685,7 @@ body::-webkit-scrollbar {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
   overflow: hidden;
-  background-color: #7a1f12;
+  background-color: #0f4e86;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -693,25 +693,37 @@ body::-webkit-scrollbar {
   box-shadow: var(--shadow-soft);
 }
 
-/* Bandeirinhas de festa junina penduradas no topo do banner */
+/* Campo de futebol: listras de gramado em tons de azul cobrindo o banner */
 .categoria-banner::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 30px;
-  z-index: 3;
+  inset: 0;
+  z-index: 1;
   background: repeating-linear-gradient(90deg,
-      #1d6fb8 0 40px,
-      #ffd23f 40px 80px);
-  -webkit-mask:
-    linear-gradient(to bottom right, #000 50%, transparent 51%) 0 0 / 20px 30px repeat-x,
-    linear-gradient(to bottom left, #000 50%, transparent 51%) 20px 0 / 20px 30px repeat-x;
-  mask:
-    linear-gradient(to bottom right, #000 50%, transparent 51%) 0 0 / 20px 30px repeat-x,
-    linear-gradient(to bottom left, #000 50%, transparent 51%) 20px 0 / 20px 30px repeat-x;
-  filter: drop-shadow(0 2px 1px rgba(0, 0, 0, 0.35));
+      #0f4e86 0 56px,
+      #14639f 56px 112px);
+}
+
+/* Linhas do campo (azul e amarelo): laterais, linha e círculo central */
+.categoria-banner::after {
+  content: "";
+  position: absolute;
+  inset: 14px;
+  z-index: 2;
+  border: 3px solid rgba(255, 210, 63, 0.9);
+  border-radius: 4px;
+  background:
+    /* círculo central */
+    radial-gradient(circle at center,
+      transparent 0 44px,
+      rgba(255, 210, 63, 0.9) 44px 47px,
+      transparent 47px),
+    /* linha central vertical */
+    linear-gradient(90deg,
+      transparent calc(50% - 1.5px),
+      rgba(255, 210, 63, 0.9) calc(50% - 1.5px) calc(50% + 1.5px),
+      transparent calc(50% + 1.5px));
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.35));
 }
 
 .data-promocao {
@@ -756,6 +768,7 @@ body::-webkit-scrollbar {
   text-align: start;
   width: 100%;
   box-sizing: border-box;
+  z-index: 3;
   padding: 2.4rem 1.2rem 1rem;
   color: #fff8e7;
   background: linear-gradient(180deg,

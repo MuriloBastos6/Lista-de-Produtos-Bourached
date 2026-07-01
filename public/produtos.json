@@ -46,182 +46,331 @@
       ]
     },
     {
-      "id": "canjica-amarela",
-      "descricao": "CANJICA AMARELA",
+      "id": "batata-frita-lemon-pepper-mexicana",
+      "descricao": "BATATA FRITA LEMON PEPPER MEXICANA",
       "categoria": "promoçoes",
-      "imagem": "/images/graos/CANJICA_AMARELA.jpg",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_LEMON_PEPPER.jpg",
       "variacoes": [
         {
-          "codigo": "11",
-          "pesoValor": 30.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 80.0
+          "codigo": "3870",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 22.0
         }
       ]
     },
     {
-      "id": "canjica-branca",
-      "descricao": "CANJICA BRANCA",
+      "id": "batata-frita-mexicana",
+      "descricao": "BATATA FRITA MEXICANA",
       "categoria": "promoçoes",
-      "imagem": "/images/graos/CANJICA_BRANCA.jpg",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA.jpg",
       "variacoes": [
         {
-          "codigo": "3472",
-          "pesoValor": 30.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 113.0
+          "codigo": "3701",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 22.0
         }
       ]
     },
     {
-      "id": "farinha-de-milho-amarela",
-      "descricao": "FARINHA DE MILHO AMARELA",
+      "id": "batata-frita-pimenta-mexicana",
+      "descricao": "BATATA FRITA PIMENTA MEXICANA",
       "categoria": "promoçoes",
-      "imagem": "/images/farinhas/farinha-de-milho-amarela.jpg",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
       "variacoes": [
         {
-          "codigo": "19",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 168.0
+          "codigo": "3800",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 22.0
         }
       ]
     },
     {
-      "id": "farinha-de-milho-branca",
-      "descricao": "FARINHA DE MILHO BRANCA",
+      "id": "batata-frita-salsa-mexicana",
+      "descricao": "BATATA FRITA SALSA MEXICANA",
       "categoria": "promoçoes",
-      "imagem": "/images/farinhas/farinha-de-milho-branca.jpg",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
-          "codigo": "221",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 300.0
+          "codigo": "3725",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 22.0
         }
       ]
     },
     {
-      "id": "fuba-italiano",
-      "descricao": "FUBA ITALIANO",
+      "id": "mix-batata-doce-chips",
+      "descricao": "MIX BATATA DOCE CHIPS",
       "categoria": "promoçoes",
-      "imagem": "/images/panificacao/FUBA_ITALIANO.jpg",
+      "imagem": "/images/salgadinhos/MIX_DE_BATATA_DOCE.jpg",
       "variacoes": [
         {
-          "codigo": "460",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 78.0
+          "codigo": "3871",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 27.0
         }
       ]
     },
     {
-      "id": "fuba-mimoso-integrada",
-      "descricao": "FUBA MIMOSO INTEGRADA",
+      "id": "salgadinho-bacon",
+      "descricao": "SALGADINHO BACON",
       "categoria": "promoçoes",
-      "imagem": "/images/panificacao/FUBA_MIMOSO.jpg",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
       "variacoes": [
         {
-          "codigo": "128",
-          "pesoValor": 25.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 67.0
-        }
-      ]
-    },
-    {
-      "id": "canela-em-po",
-      "descricao": "CANELA EM PO",
-      "categoria": "promoçoes",
-      "imagem": "/images/especiarias/CANELA_EM_PO.jpg",
-      "variacoes": [
-        {
-          "codigo": "2571",
-          "pesoValor": 10.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 185.0
-        }
-      ]
-    },
-    {
-      "id": "canela-casca-6-cm",
-      "descricao": "CANELA CASCA 6 CM",
-      "categoria": "promoçoes",
-      "imagem": "/images/especiarias/CANELA_CASCA_6CM.jpg",
-      "variacoes": [
-        {
-          "codigo": "2522",
-          "pesoValor": 1.0,
+          "codigo": "2825",
+          "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0
+          "precoVenda": 25.0
         }
       ]
     },
     {
-      "id": "cravo-da-india",
-      "descricao": "CRAVO DA INDIA",
+      "id": "salgadinho-calabresa",
+      "descricao": "SALGADINHO CALABRESA",
       "categoria": "promoçoes",
-      "imagem": "/images/especiarias/CRAVO_DA_INDIA.jpg",
+      "imagem": "/images/salgadinhos/SALGADINHO_CALABRESA.jpg",
       "variacoes": [
         {
-          "codigo": "2615",
-          "pesoValor": 5.0,
+          "codigo": "2828",
+          "pesoValor": 2.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 375.0
+          "precoVenda": 25.0
         }
       ]
     },
     {
-      "id": "amendoim-s-pele-torrado-c-sal",
-      "descricao": "AMENDOIM S/ PELE TORRADO C/ SAL",
+      "id": "salgadinho-camaro",
+      "descricao": "SALGADINHO CAMARÃO",
       "categoria": "promoçoes",
-      "imagem": "/images/amendoim/AMENDOIM-S- PELE-TORRADO-C-sAL.jpg",
+      "imagem": "/images/salgadinhos/SALGADINHO_CAMARAO.jpg",
       "variacoes": [
         {
-          "codigo": "150",
-          "pesoValor": 25.0,
+          "codigo": "2826",
+          "pesoValor": 2.0,
           "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 190.0
+          "unidade": "PC",
+          "precoVenda": 25.0
         }
       ]
     },
     {
-      "id": "amendoim-s-pele-torrado-s-sal",
-      "descricao": "AMENDOIM S/ PELE TORRADO S/ SAL",
+      "id": "salgadinho-cebola-e-salsa",
+      "descricao": "SALGADINHO CEBOLA E SALSA",
       "categoria": "promoçoes",
-      "imagem": "/images/amendoim/amendoim-s-pele-torrado-s-sal.jpg",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_CEBOLA_E_SALSA.jpg",
       "variacoes": [
         {
-          "codigo": "7",
-          "pesoValor": 25.0,
+          "codigo": "3058",
+          "pesoValor": 2.0,
           "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 190.0
+          "unidade": "PC",
+          "precoVenda": 25.0
         }
       ]
     },
     {
-      "id": "xerem-de-amendoim",
-      "descricao": "XEREM DE AMENDOIM",
+      "id": "salgadinho-churrasco",
+      "descricao": "SALGADINHO CHURRASCO",
       "categoria": "promoçoes",
-      "imagem": "/images/amendoim/XEREM_AMENDOIM.jpg",
+      "imagem": "/images/salgadinhos/SALGADINHO_CHURRASCO.jpg",
       "variacoes": [
         {
-          "codigo": "3851",
-          "pesoValor": 10.0,
+          "codigo": "3059",
+          "pesoValor": 2.0,
           "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 75.0
+          "unidade": "PC",
+          "precoVenda": 25.0
+        }
+      ]
+    },
+    {
+      "id": "salgadinho-pimenta-mexicana",
+      "descricao": "SALGADINHO PIMENTA MEXICANA",
+      "categoria": "promoçoes",
+      "imagem": "/images/salgadinhos/BATATA_FRITA_MEXICANA_PIMENTA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2829",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 25.0
+        }
+      ]
+    },
+    {
+      "id": "salgadinho-pizza",
+      "descricao": "SALGADINHO PIZZA",
+      "categoria": "promoçoes",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "variacoes": [
+        {
+          "codigo": "4126",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 25.0
+        }
+      ]
+    },
+    {
+      "id": "salgadinho-queijo",
+      "descricao": "SALGADINHO QUEIJO",
+      "categoria": "promoçoes",
+      "imagem": "/images/salgadinhos/SALGADINHO_BACON.jpg",
+      "variacoes": [
+        {
+          "codigo": "2827",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 25.0
+        }
+      ]
+    },
+    {
+      "id": "mandioca-frita-chips",
+      "descricao": "MANDIOCA FRITA CHIPS",
+      "categoria": "promoçoes",
+      "imagem": "/images/salgadinhos/MANDIOCA_FRITAS_CHIPS.jpg",
+      "variacoes": [
+        {
+          "codigo": "3801",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 25.0
+        }
+      ]
+    },
+    {
+      "id": "torresmo-pronto",
+      "descricao": "TORRESMO PRONTO",
+      "categoria": "promoçoes",
+      "imagem": "/images/salgadinhos/TORRESMO_PRONTO.jpg",
+      "variacoes": [
+        {
+          "codigo": "3764",
+          "pesoValor": 2.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 81.0
+        }
+      ]
+    },
+    {
+      "id": "cajuina-so-geraldo",
+      "descricao": "CAJUINA SÃO GERALDO",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/cajuina-sao-geraldo.jpg",
+      "variacoes": [
+        {
+          "codigo": "3402",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X1LT",
+          "unidade": "FD",
+          "precoVenda": 46.5
+        },
+        {
+          "codigo": "3401",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X2LT",
+          "unidade": "FD",
+          "precoVenda": 66.5
+        },
+        {
+          "codigo": "3403",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X200ML",
+          "unidade": "FD",
+          "precoVenda": 38.5
+        }
+      ]
+    },
+    {
+      "id": "cajuina-so-geraldo-lata",
+      "descricao": "CAJUINA SÃO GERALDO  LATA",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/cajuina-sao-geraldo-lata.jpg",
+      "variacoes": [
+        {
+          "codigo": "4032",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X350ML",
+          "unidade": "FD",
+          "precoVenda": 57.5
+        }
+      ]
+    },
+    {
+      "id": "cajuina-so-geraldo-zero-lata",
+      "descricao": "CAJUINA SÃO GERALDO ZERO  LATA",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/cajuina-sao-geraldo-zero-lata.jpg",
+      "variacoes": [
+        {
+          "codigo": "4460",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X350ML",
+          "unidade": "FD",
+          "precoVenda": 57.5
+        }
+      ]
+    },
+    {
+      "id": "guarana-jesus-garrafa",
+      "descricao": "GUARANA JESUS GARRAFA",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/GUARANA_JESUS.jpg",
+      "variacoes": [
+        {
+          "codigo": "2551",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X1LT",
+          "unidade": "FD",
+          "precoVenda": 82.0
+        }
+      ]
+    },
+    {
+      "id": "guarana-jesus-lata",
+      "descricao": "GUARANA JESUS LATA",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/GUARANA_JESUS_LATA.jpg",
+      "variacoes": [
+        {
+          "codigo": "2550",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X310ML",
+          "unidade": "FD",
+          "precoVenda": 25.5
+        }
+      ]
+    },
+    {
+      "id": "laranja-so-geraldo-lata",
+      "descricao": "LARANJA SÃO GERALDO LATA",
+      "categoria": "promoçoes",
+      "imagem": "/images/refris/laranja-sao-geraldo-lata.jpg",
+      "variacoes": [
+        {
+          "codigo": "4383",
+          "pesoValor": 12.0,
+          "pesoUnidade": "X350ML",
+          "unidade": "FD",
+          "precoVenda": 53.0
         }
       ]
     }
