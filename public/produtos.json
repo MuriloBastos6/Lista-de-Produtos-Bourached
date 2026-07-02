@@ -1372,14 +1372,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.5
+          "precoVenda": 75.5
         },
         {
           "codigo": "3081",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 139.0
+          "precoVenda": 145.0
         }
       ]
     },
@@ -1394,14 +1394,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.5
+          "precoVenda": 75.5
         },
         {
           "codigo": "2234",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 139.0
+          "precoVenda": 145.0
         }
       ]
     },
@@ -1416,14 +1416,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.5
+          "precoVenda": 75.5
         },
         {
           "codigo": "2238",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 139.0
+          "precoVenda": 145.0
         }
       ]
     },
@@ -1460,14 +1460,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.5
+          "precoVenda": 75.5
         },
         {
           "codigo": "2236",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 139.0
+          "precoVenda": 145.0
         }
       ]
     },
@@ -1482,14 +1482,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 72.5
+          "precoVenda": 75.5
         },
         {
           "codigo": "2232",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 139.0
+          "precoVenda": 145.0
         }
       ]
     },
@@ -3623,14 +3623,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 22.0
+          "precoVenda": 24.0
         },
         {
           "codigo": "3472",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 113.0
+          "precoVenda": 126.0
         }
       ]
     },
@@ -5134,6 +5134,21 @@
           "pesoUnidade": "KG",
           "unidade": "SC",
           "precoVenda": 60.0
+        }
+      ]
+    },
+    {
+      "id": "pecarbonato-jezza",
+      "descricao": "PECARBONATO JEZZA",
+      "categoria": "especiarias",
+      "imagem": "/images/especiarias/pecarbonato-jezza.jpg",
+      "variacoes": [
+        {
+          "codigo": "4657",
+          "pesoValor": 20.0,
+          "pesoUnidade": "X1KG",
+          "unidade": "FD",
+          "precoVenda": 290.0
         }
       ]
     },

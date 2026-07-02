@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 573,
-    "matched": 608,
+    "produtos": 574,
+    "matched": 610,
     "fallback": 0,
-    "category_without_folder": 2
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -2247,6 +2247,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "AMACIANTE_DE_CARNE.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "pecarbonato-jezza",
+      "descricao": "PECARBONATO JEZZA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "especiarias",
