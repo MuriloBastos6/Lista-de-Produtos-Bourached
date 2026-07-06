@@ -2490,21 +2490,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 36.0
-        },
-        {
-          "codigo": "3869",
-          "pesoValor": 20.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 720.0
+          "precoVenda": 31.0
         },
         {
           "codigo": "2248",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 900.0
+          "precoVenda": 775.0
         }
       ]
     },
