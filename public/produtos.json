@@ -3555,14 +3555,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 150.0
+          "precoVenda": 143.5
         },
         {
           "codigo": "4165",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0
+          "precoVenda": 280.0
         }
       ]
     },
@@ -3577,14 +3577,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 210.0
+          "precoVenda": 183.5
         },
         {
           "codigo": "4280",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 420.0
+          "precoVenda": 360.0
         }
       ]
     }
@@ -6728,7 +6728,7 @@
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 420.0
+          "precoVenda": 340.0
         }
       ]
     },
@@ -7326,14 +7326,14 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0
+          "precoVenda": 71.0
         },
         {
           "codigo": "2336",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 750.0
+          "precoVenda": 575.0
         }
       ]
     },
@@ -7465,7 +7465,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 259.5
+          "precoVenda": 228.5
         }
       ]
     },
@@ -8161,21 +8161,21 @@
           "pesoValor": 4.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 145.5
+          "precoVenda": 127.0
         },
         {
           "codigo": "4205",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 360.0
+          "precoVenda": 310.0
         },
         {
           "codigo": "4225",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 900.0
+          "precoVenda": 775.0
         }
       ]
     },
@@ -8315,14 +8315,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 197.0
+          "precoVenda": 178.5
         },
         {
           "codigo": "3437",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 390.0
+          "precoVenda": 350.0
         }
       ]
     },
