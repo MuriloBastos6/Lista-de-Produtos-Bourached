@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Instaladores/executáveis que não pertencem ao repo
+*.exe

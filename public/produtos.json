@@ -3997,14 +3997,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 49.5
+          "precoVenda": 56.5
         },
         {
           "codigo": "101",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 280.0
+          "precoVenda": 320.0
         }
       ]
     },
@@ -4019,21 +4019,21 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 24.5
+          "precoVenda": 30.5
         },
         {
           "codigo": "2624",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 135.0
+          "precoVenda": 165.0
         },
         {
           "codigo": "119",
           "pesoValor": 60.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 270.0
+          "precoVenda": 330.0
         }
       ]
     },
@@ -7053,14 +7053,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 313.5
+          "precoVenda": 378.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1550.0
+          "precoVenda": 1875.0
         }
       ]
     },
