@@ -56,9 +56,9 @@ function ListaDeProdutos() {
   const [carregando, setCarregando] = useState(true);
 
   const categoria = {
-    titulo: "Bora Torcer! ⚽🏆",
-    subtitulo: "Os itens que não podem faltar pra torcer com a família🥅",
-    capa: "/banner-azul.png",
+    titulo: "Ofertas Imperdíveis! ⭐",
+    subtitulo: "Os melhores preços da região, direto pra sua casa 🛒",
+    capa: "/graos.jpeg",
   };
 
   useEffect(() => {
@@ -118,7 +118,7 @@ function ListaDeProdutos() {
       </div>
 
       <div className="data-promocao">
-        <p>⚽ Ofertas da Copa durante todo o mês!</p>
+        <p>⭐ Preços especiais toda semana, só aqui!</p>
       </div>
 
       {carregando ? (
