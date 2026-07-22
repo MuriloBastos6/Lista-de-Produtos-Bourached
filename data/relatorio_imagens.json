@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 556,
-    "matched": 571,
+    "produtos": 557,
+    "matched": 575,
     "fallback": 0,
-    "category_without_folder": 3
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -1554,6 +1554,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "FEIJAO_ANDU.jpg"
+    },
+    {
+      "categoria": "graos",
+      "id": "feijao-andu-paulista",
+      "descricao": "FEIJÃO ANDU PAULISTA",
+      "imagem": "/arroz.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "arroz.jpeg"
     },
     {
       "categoria": "graos",

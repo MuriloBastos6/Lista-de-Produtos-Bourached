@@ -3643,6 +3643,21 @@
       ]
     },
     {
+      "id": "feijao-andu-paulista",
+      "descricao": "FEIJÃO ANDU PAULISTA",
+      "categoria": "graos",
+      "imagem": "/images/graos/feijao-andu-paulista.jpg",
+      "variacoes": [
+        {
+          "codigo": "4664",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 350.0
+        }
+      ]
+    },
+    {
       "id": "feijo-azuki",
       "descricao": "FEIJÃO AZUKI",
       "categoria": "graos",
@@ -6376,14 +6391,14 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 455.0
+          "precoVenda": 850.0
         },
         {
           "codigo": "4492",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 227.5
+          "precoVenda": 425.0
         }
       ]
     },
@@ -6658,14 +6673,14 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 395.0
+          "precoVenda": 405.0
         },
         {
           "codigo": "4202",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 197.5
+          "precoVenda": 202.5
         }
       ]
     },
