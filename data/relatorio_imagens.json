@@ -1559,10 +1559,10 @@
       "categoria": "graos",
       "id": "feijao-andu-paulista",
       "descricao": "FEIJÃO ANDU PAULISTA",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/graos/feijao-andu-paulista.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "feijao-andu-paulista.jpg"
     },
     {
       "categoria": "graos",

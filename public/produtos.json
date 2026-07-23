@@ -1544,14 +1544,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 113.5
+          "precoVenda": 133.5
         },
         {
           "codigo": "94",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 550.0
+          "precoVenda": 650.0
         }
       ]
     },
@@ -3648,6 +3648,13 @@
       "categoria": "graos",
       "imagem": "/images/graos/feijao-andu-paulista.jpg",
       "variacoes": [
+        {
+          "codigo": "",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 73.0
+        },
         {
           "codigo": "4664",
           "pesoValor": 25.0,
@@ -7166,7 +7173,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 299.5
+          "precoVenda": 313.5
         },
         {
           "codigo": "3486",
@@ -10354,14 +10361,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 85.0
+          "precoVenda": 88.0
         },
         {
           "codigo": "4415",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 414.0
+          "precoVenda": 424.0
         }
       ]
     },
