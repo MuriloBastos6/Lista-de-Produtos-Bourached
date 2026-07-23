@@ -3649,7 +3649,7 @@
       "imagem": "/images/graos/feijao-andu-paulista.jpg",
       "variacoes": [
         {
-          "codigo": "",
+          "codigo": "4665",
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
@@ -6804,14 +6804,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 378.5
+          "precoVenda": 328.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1875.0
+          "precoVenda": 1625.0
         }
       ]
     },
