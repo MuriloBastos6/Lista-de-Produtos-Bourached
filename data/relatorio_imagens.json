@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 557,
-    "matched": 575,
+    "produtos": 560,
+    "matched": 577,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -780,6 +780,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "CHA_ASHWAGANDHA.jpg"
+    },
+    {
+      "categoria": "cha",
+      "id": "ch-arruda",
+      "descricao": "CHÁ ARRUDA",
+      "imagem": "/images/cha/ch-arruda.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ch-arruda.jpg"
     },
     {
       "categoria": "cha",
@@ -2043,6 +2052,15 @@
     },
     {
       "categoria": "panificacao",
+      "id": "tapioca-granulada-cassava",
+      "descricao": "TAPIOCA GRANULADA CASSAVA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
+    },
+    {
+      "categoria": "panificacao",
       "id": "trigo-p-kibe-marrocos",
       "descricao": "TRIGO P/ KIBE MARROCOS",
       "imagem": "/images/panificacao/TRIGO_P_KIBE.jpg",
@@ -2112,6 +2130,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "BICARBONATO_DE_SODIO_SOLVAY.jpg"
+    },
+    {
+      "categoria": "especiarias",
+      "id": "bicarbonato-de-sodio",
+      "descricao": "BICARBONATO DE SODIO",
+      "imagem": "/arroz.jpeg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "arroz.jpeg"
     },
     {
       "categoria": "especiarias",

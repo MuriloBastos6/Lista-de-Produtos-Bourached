@@ -1761,6 +1761,28 @@
       ]
     },
     {
+      "id": "ch-arruda",
+      "descricao": "CHÁ ARRUDA",
+      "categoria": "cha",
+      "imagem": "/images/cha/ch-arruda.jpg",
+      "variacoes": [
+        {
+          "codigo": "4667",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 77.0
+        },
+        {
+          "codigo": "4668",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 770.0
+        }
+      ]
+    },
+    {
       "id": "ch-barbatimo",
       "descricao": "CHÁ BARBATIMÃO",
       "categoria": "cha",
@@ -4763,6 +4785,21 @@
       ]
     },
     {
+      "id": "tapioca-granulada-cassava",
+      "descricao": "TAPIOCA GRANULADA CASSAVA",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/tapioca-granulada-cassava.jpg",
+      "variacoes": [
+        {
+          "codigo": "4671",
+          "pesoValor": 25.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 164.0
+        }
+      ]
+    },
+    {
       "id": "trigo-p-kibe-marrocos",
       "descricao": "TRIGO P/ KIBE MARROCOS",
       "categoria": "panificacao",
@@ -4920,6 +4957,21 @@
       ]
     },
     {
+      "id": "bicarbonato-de-sodio",
+      "descricao": "BICARBONATO DE SODIO",
+      "categoria": "especiarias",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
+      "variacoes": [
+        {
+          "codigo": "4669",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 52.0
+        }
+      ]
+    },
+    {
       "id": "canela-casca-6-cm",
       "descricao": "CANELA CASCA 6 CM",
       "categoria": "especiarias",
@@ -4974,14 +5026,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 92.0
+          "precoVenda": 108.5
         },
         {
           "codigo": "4111",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 180.0
+          "precoVenda": 210.0
         }
       ]
     },
@@ -6548,14 +6600,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 38.0
+          "precoVenda": 40.5
         },
         {
           "codigo": "3365",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 175.0
+          "precoVenda": 187.5
         }
       ]
     },
@@ -7195,7 +7247,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 228.5
+          "precoVenda": 190.0
         }
       ]
     },
