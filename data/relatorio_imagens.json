@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 560,
-    "matched": 577,
+    "produtos": 562,
+    "matched": 578,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 2
   },
   "details": [
     {
@@ -2054,10 +2054,10 @@
       "categoria": "panificacao",
       "id": "tapioca-granulada-cassava",
       "descricao": "TAPIOCA GRANULADA CASSAVA",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/panificacao/tapioca-granulada-cassava.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "tapioca-granulada-cassava.jpg"
     },
     {
       "categoria": "panificacao",
@@ -2135,10 +2135,10 @@
       "categoria": "especiarias",
       "id": "bicarbonato-de-sodio",
       "descricao": "BICARBONATO DE SODIO",
-      "imagem": "/arroz.jpeg",
+      "imagem": "/images/especiarias/BICARBONATO_DE_SODIO_SOLVAY.jpg",
       "status": "fixed-existing",
       "score": 999.0,
-      "arquivo_sugerido": "arroz.jpeg"
+      "arquivo_sugerido": "BICARBONATO_DE_SODIO_SOLVAY.jpg"
     },
     {
       "categoria": "especiarias",
@@ -2877,6 +2877,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "TAMARA_C_CAROCO_JUMBO.jpg"
+    },
+    {
+      "categoria": "frutas",
+      "id": "tamara-c-caroo-jumbo-ll",
+      "descricao": "TAMARA C/ CAROÇO JUMBO II",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "frutas",
@@ -3849,6 +3858,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "ANEIS_DE_CEBOLA.jpg"
+    },
+    {
+      "categoria": "salgadinhos",
+      "id": "banana-palha",
+      "descricao": "BANANA PALHA",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "salgadinhos",

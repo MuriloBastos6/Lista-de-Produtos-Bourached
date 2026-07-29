@@ -660,7 +660,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 54.0
+          "precoVenda": 63.0
         }
       ]
     },
@@ -675,7 +675,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 62.0
+          "precoVenda": 65.0
         }
       ]
     },
@@ -690,7 +690,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 52.0
+          "precoVenda": 57.0
         }
       ]
     },
@@ -6472,7 +6472,22 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 250.0
+          "precoVenda": 275.0
+        }
+      ]
+    },
+    {
+      "id": "tamara-c-caroo-jumbo-ll",
+      "descricao": "TAMARA C/ CAROÇO JUMBO II",
+      "categoria": "frutas",
+      "imagem": "/images/frutas/TAMARA_C_CAROCO_JUMBO.jpg",
+      "variacoes": [
+        {
+          "codigo": "4674",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 245.0
         }
       ]
     },
@@ -6856,14 +6871,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 328.5
+          "precoVenda": 353.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1625.0
+          "precoVenda": 1750.0
         }
       ]
     },
@@ -8623,6 +8638,21 @@
           "pesoUnidade": "G",
           "unidade": "PC",
           "precoVenda": 22.0
+        }
+      ]
+    },
+    {
+      "id": "banana-palha",
+      "descricao": "BANANA PALHA",
+      "categoria": "salgadinhos",
+      "imagem": "/images/salgadinhos/banana-palha.jpg",
+      "variacoes": [
+        {
+          "codigo": "4672",
+          "pesoValor": 500.0,
+          "pesoUnidade": "G",
+          "unidade": "PC",
+          "precoVenda": 23.0
         }
       ]
     },
