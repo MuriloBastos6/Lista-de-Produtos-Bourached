@@ -3850,14 +3850,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 102.5
-        },
-        {
-          "codigo": "2834",
-          "pesoValor": 30.0,
-          "pesoUnidade": "KG",
-          "unidade": "SC",
-          "precoVenda": 138.0
+          "precoVenda": 115.0
         }
       ]
     },
@@ -6332,7 +6325,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 500.0
+          "precoVenda": 450.0
         }
       ]
     },
@@ -10247,10 +10240,17 @@
     },
     {
       "id": "doce-de-leite-c-cocosouvenir",
-      "descricao": "DOCE DE LEITE C/COCOSUVENIR",
+      "descricao": "DOCE DE LEITE C/COCOSOUVENIR",
       "categoria": "doces",
       "imagem": "/images/doces/doce-de-leite-c-cocosouvenir.jpg",
       "variacoes": [
+        {
+          "codigo": "4687",
+          "pesoValor": 6.0,
+          "pesoUnidade": "X400G",
+          "unidade": "PT",
+          "precoVenda": 64.0
+        },
         {
           "codigo": "4630",
           "pesoValor": 12.0,
