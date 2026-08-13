@@ -2266,6 +2266,21 @@
       ]
     },
     {
+      "id": "ch-melao",
+      "descricao": "CHÁ MELÃO SÃO CAETANO",
+      "categoria": "cha",
+      "imagem": "/images/cha/ch-melao.webp",
+      "variacoes": [
+        {
+          "codigo": "4689",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 33.0
+        }
+      ]
+    },
+    {
       "id": "ch-melissa",
       "descricao": "CHÁ MELISSA",
       "categoria": "cha",
@@ -3600,14 +3615,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 68.0
+          "precoVenda": 56.5
         },
         {
           "codigo": "2260",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 390.0
+          "precoVenda": 320.0
         }
       ]
     },
@@ -3622,14 +3637,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 73.0
+          "precoVenda": 69.0
         },
         {
           "codigo": "4664",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 350.0
+          "precoVenda": 330.0
         }
       ]
     },
