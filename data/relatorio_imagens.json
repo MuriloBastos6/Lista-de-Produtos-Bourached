@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 18,
     "produtos": 559,
-    "matched": 576,
+    "matched": 577,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -983,10 +983,10 @@
       "categoria": "cha",
       "id": "ch-melao",
       "descricao": "CHÁ MELÃO SÃO CAETANO",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/cha/ch-melao.webp",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "ch-melao.webp"
     },
     {
       "categoria": "cha",
