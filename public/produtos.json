@@ -218,14 +218,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 60.5
+          "precoVenda": 66.5
         },
         {
           "codigo": "571",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 287.5
+          "precoVenda": 312.5
         }
       ]
     },
