@@ -166,7 +166,7 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 250.0
+          "precoVenda": 275.0
         }
       ]
     },
@@ -196,14 +196,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 378.5
+          "precoVenda": 373.5
         },
         {
           "codigo": "4400",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 1875.0
+          "precoVenda": 1850.0
         }
       ]
     },
