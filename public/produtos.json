@@ -923,6 +923,28 @@
       ]
     },
     {
+      "id": "castanha-de-caju-caramelizada-ninho",
+      "descricao": "CASTANHA DE CAJU CARAM NINHO",
+      "categoria": "amendoim",
+      "imagem": "/images/amendoim/castanha-de-caju-caramelizada-ninho.jpg",
+      "variacoes": [
+        {
+          "codigo": "4692",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 213.5
+        },
+        {
+          "codigo": "4691",
+          "pesoValor": 11.4,
+          "pesoUnidade": "KG",
+          "unidade": "CX",
+          "precoVenda": 476.0
+        }
+      ]
+    },
+    {
       "id": "castanha-de-caju-w1-assada",
       "descricao": "CASTANHA DE CAJU W1 ASSADA",
       "categoria": "amendoim",
@@ -4793,10 +4815,10 @@
         },
         {
           "codigo": "4139",
-          "pesoValor": 20.0,
+          "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 380.0
+          "precoVenda": 475.0
         }
       ]
     },
@@ -4815,10 +4837,10 @@
         },
         {
           "codigo": "4520",
-          "pesoValor": 20.0,
+          "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 350.0
+          "precoVenda": 437.5
         }
       ]
     },
@@ -5106,14 +5128,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 29.0
+          "precoVenda": 26.0
         },
         {
           "codigo": "2492",
           "pesoValor": 12.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 348.0
+          "precoVenda": 300.0
         }
       ]
     },
@@ -6570,14 +6592,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 40.5
+          "precoVenda": 46.5
         },
         {
           "codigo": "3365",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 187.5
+          "precoVenda": 217.5
         }
       ]
     },
@@ -10017,7 +10039,7 @@
           "pesoValor": 12.0,
           "pesoUnidade": "X500G",
           "unidade": "PC",
-          "precoVenda": 210.0
+          "precoVenda": 225.5
         }
       ]
     },
