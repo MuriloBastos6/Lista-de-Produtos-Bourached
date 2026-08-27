@@ -1123,14 +1123,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 281.0
+          "precoVenda": 313.5
         },
         {
           "codigo": "3532",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1110.0
+          "precoVenda": 1240.0
         }
       ]
     },
@@ -4371,7 +4371,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 110.0
+          "precoVenda": 125.0
         }
       ]
     },
@@ -4386,7 +4386,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 99.0
+          "precoVenda": 105.0
         }
       ]
     },
@@ -4593,7 +4593,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 129.0
+          "precoVenda": 139.0
         }
       ]
     },
@@ -4608,7 +4608,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 129.0
+          "precoVenda": 135.0
         }
       ]
     },
@@ -4728,14 +4728,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 36.0
+          "precoVenda": 37.0
         },
         {
           "codigo": "50",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 165.0
+          "precoVenda": 170.0
         }
       ]
     },
@@ -4750,14 +4750,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 33.0
+          "precoVenda": 37.0
         },
         {
           "codigo": "52",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 165.0
+          "precoVenda": 170.0
         }
       ]
     },
@@ -4914,7 +4914,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 130.0
+          "precoVenda": 125.0
         }
       ]
     },
@@ -4929,7 +4929,7 @@
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 127.0
+          "precoVenda": 130.0
         }
       ]
     },
