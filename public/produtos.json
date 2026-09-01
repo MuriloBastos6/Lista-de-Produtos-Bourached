@@ -1079,14 +1079,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 421.0
+          "precoVenda": 448.5
         },
         {
           "codigo": "3534",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1670.0
+          "precoVenda": 1780.0
         }
       ]
     },
@@ -1101,14 +1101,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 398.5
+          "precoVenda": 433.5
         },
         {
           "codigo": "3533",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1580.0
+          "precoVenda": 1720.0
         }
       ]
     },
@@ -1123,14 +1123,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 313.5
+          "precoVenda": 368.5
         },
         {
           "codigo": "3532",
           "pesoValor": 20.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 1240.0
+          "precoVenda": 1460.0
         }
       ]
     },
