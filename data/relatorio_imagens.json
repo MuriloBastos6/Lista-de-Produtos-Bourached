@@ -1,10 +1,10 @@
 {
   "summary": {
     "categorias": 18,
-    "produtos": 560,
+    "produtos": 561,
     "matched": 578,
     "fallback": 0,
-    "category_without_folder": 0
+    "category_without_folder": 1
   },
   "details": [
     {
@@ -1905,6 +1905,15 @@
       "status": "fixed-existing",
       "score": 999.0,
       "arquivo_sugerido": "FLOCAO_DEA_ARROZ_CORINGA.jpg"
+    },
+    {
+      "categoria": "panificacao",
+      "id": "flocos-de-arroz",
+      "descricao": "FLOCOS DE ARROZ",
+      "imagem": "/arroz.jpeg",
+      "status": "manual-default",
+      "score": 0.0,
+      "arquivo_sugerido": null
     },
     {
       "categoria": "panificacao",

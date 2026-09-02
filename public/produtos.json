@@ -3165,14 +3165,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 28.0
+          "precoVenda": 29.0
         },
         {
           "codigo": "4089",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 122.0
+          "precoVenda": 130.0
         }
       ]
     },
@@ -4039,14 +4039,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 40.5
+          "precoVenda": 50.5
         },
         {
           "codigo": "3670",
           "pesoValor": 30.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 225.0
+          "precoVenda": 285.0
         }
       ]
     },
@@ -4524,6 +4524,21 @@
       ]
     },
     {
+      "id": "flocos-de-arroz",
+      "descricao": "FLOCOS DE ARROZ",
+      "categoria": "panificacao",
+      "imagem": "/images/panificacao/flocos-de-arroz.jpg",
+      "variacoes": [
+        {
+          "codigo": "4697",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 14.0
+        }
+      ]
+    },
+    {
       "id": "floco-de-milho-coringa",
       "descricao": "FLOCÃO DE MILHO CORINGA",
       "categoria": "panificacao",
@@ -4787,14 +4802,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 25.5
+          "precoVenda": 28.0
         },
         {
           "codigo": "53",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 118.0
+          "precoVenda": 125.0
         }
       ]
     }
