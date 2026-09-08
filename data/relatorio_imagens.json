@@ -2,9 +2,9 @@
   "summary": {
     "categorias": 18,
     "produtos": 561,
-    "matched": 578,
+    "matched": 579,
     "fallback": 0,
-    "category_without_folder": 1
+    "category_without_folder": 0
   },
   "details": [
     {
@@ -1910,10 +1910,10 @@
       "categoria": "panificacao",
       "id": "flocos-de-arroz",
       "descricao": "FLOCOS DE ARROZ",
-      "imagem": "/arroz.jpeg",
-      "status": "manual-default",
-      "score": 0.0,
-      "arquivo_sugerido": null
+      "imagem": "/images/panificacao/flocos-de-arroz.jpg",
+      "status": "fixed-existing",
+      "score": 999.0,
+      "arquivo_sugerido": "flocos-de-arroz.jpg"
     },
     {
       "categoria": "panificacao",
