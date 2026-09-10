@@ -1696,14 +1696,14 @@
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 114.0
+          "precoVenda": 95.5
         },
         {
           "codigo": "3440",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "CX",
-          "precoVenda": 448.0
+          "precoVenda": 375.0
         }
       ]
     },
@@ -2206,11 +2206,18 @@
           "precoVenda": 31.0
         },
         {
+          "codigo": "3869",
+          "pesoValor": 20.0,
+          "pesoUnidade": "KG",
+          "unidade": "SC",
+          "precoVenda": 520.0
+        },
+        {
           "codigo": "2248",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 775.0
+          "precoVenda": 625.0
         }
       ]
     },
@@ -5136,14 +5143,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 26.0
+          "precoVenda": 25.0
         },
         {
           "codigo": "2492",
           "pesoValor": 12.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0
+          "precoVenda": 288.0
         }
       ]
     },
@@ -6157,6 +6164,28 @@
       ]
     },
     {
+      "id": "tempero-pimenta-calabresa-po",
+      "descricao": "TEMPERO PIMENTA CALABRESA PÓ",
+      "categoria": "especiarias",
+      "imagem": "/images/especiarias/tempero-pimenta-calabresa-po.jpg",
+      "variacoes": [
+        {
+          "codigo": "4701",
+          "pesoValor": 5.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 88.0
+        },
+        {
+          "codigo": "4702",
+          "pesoValor": 10.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 170.0
+        }
+      ]
+    },
+    {
       "id": "pimenta-do-reino-em-gros",
       "descricao": "PIMENTA DO REINO EM GRÃOS",
       "categoria": "especiarias",
@@ -6386,6 +6415,13 @@
       "categoria": "frutas",
       "imagem": "/images/frutas/MORANGO_CHIPS.jpg",
       "variacoes": [
+        {
+          "codigo": "4700",
+          "pesoValor": 1.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 280.0
+        },
         {
           "codigo": "4585",
           "pesoValor": 2.0,
@@ -10183,6 +10219,21 @@
           "pesoUnidade": "X50G",
           "unidade": "PC",
           "precoVenda": 48.0
+        }
+      ]
+    },
+    {
+      "id": "doce-de-leite-chup-chup",
+      "descricao": "DOCE DE LEITE CHUP CHUP",
+      "categoria": "doces",
+      "imagem": "/images/doces/doce-de-leite-chup-chup.jpg",
+      "variacoes": [
+        {
+          "codigo": "4699",
+          "pesoValor": 50.0,
+          "pesoUnidade": "X30G",
+          "unidade": "FD",
+          "precoVenda": 30.0
         }
       ]
     },
