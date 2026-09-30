@@ -6812,14 +6812,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 19.0
+          "precoVenda": 23.0
         },
         {
           "codigo": "653",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 95.0
+          "precoVenda": 122.5
         }
       ]
     },
@@ -6936,14 +6936,14 @@
           "pesoValor": 5.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 66.5
+          "precoVenda": 58.0
         },
         {
           "codigo": "571",
           "pesoValor": 25.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 312.5
+          "precoVenda": 275.0
         }
       ]
     },
