@@ -1968,14 +1968,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 20.0
+          "precoVenda": 25.0
         },
         {
           "codigo": "3040",
           "pesoValor": 15.0,
           "pesoUnidade": "KG",
           "unidade": "SC",
-          "precoVenda": 300.0
+          "precoVenda": 375.0
         }
       ]
     },
