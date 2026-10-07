@@ -6790,14 +6790,14 @@
           "pesoValor": 2.0,
           "pesoUnidade": "X2.5KG",
           "unidade": "CX",
-          "precoVenda": 405.0
+          "precoVenda": 295.0
         },
         {
           "codigo": "4202",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 202.5
+          "precoVenda": 147.5
         }
       ]
     },
@@ -7400,7 +7400,7 @@
     },
     {
       "id": "farofa-flocada-torresmo",
-      "descricao": "FAROFA FLOCADA TORRESMO",
+      "descricao": "FAROFA SABOR PICANHA C/ALHO",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -7409,13 +7409,13 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0
+          "precoVenda": 69.0
         }
       ]
     },
     {
       "id": "farofa-flocada-gourmet",
-      "descricao": "FAROFA FLOCADA GOURMET",
+      "descricao": "FAROFA SABOR TORRESMO",
       "categoria": "produtosnaturais",
       "imagem": "/images/produtosnaturais/farofa.jpg",
       "variacoes": [
@@ -7424,44 +7424,7 @@
           "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 39.0
-        }
-      ]
-    },
-    {
-      "id": "farofa-fina-tradicional",
-      "descricao": "FAROFA FINA TRADICIONAL",
-      "categoria": "produtosnaturais",
-      "imagem": "/images/produtosnaturais/farofa.jpg",
-      "variacoes": [
-        {
-          "codigo": "2658",
-          "pesoValor": 3.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 39.0
-        },
-        {
-          "codigo": "2658",
-          "pesoValor": 5.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 65.0
-        }
-      ]
-    },
-    {
-      "id": "farofa-fina-c-pimenta",
-      "descricao": "FAROFA FINA C/ PIMENTA",
-      "categoria": "produtosnaturais",
-      "imagem": "/images/produtosnaturais/farofa.jpg",
-      "variacoes": [
-        {
-          "codigo": "2657",
-          "pesoValor": 3.0,
-          "pesoUnidade": "KG",
-          "unidade": "PC",
-          "precoVenda": 39.0
+          "precoVenda": 69.0
         }
       ]
     },
@@ -7473,10 +7436,25 @@
       "variacoes": [
         {
           "codigo": "2657",
-          "pesoValor": 5.0,
+          "pesoValor": 3.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 65.0
+          "precoVenda": 69.0
+        }
+      ]
+    },
+    {
+      "id": "farofa-fina-tradicional",
+      "descricao": "FAROFA TRADICIONAL",
+      "categoria": "produtosnaturais",
+      "imagem": "/images/produtosnaturais/farofa.jpg",
+      "variacoes": [
+        {
+          "codigo": "2658",
+          "pesoValor": 3.0,
+          "pesoUnidade": "KG",
+          "unidade": "PC",
+          "precoVenda": 69.0
         }
       ]
     },
