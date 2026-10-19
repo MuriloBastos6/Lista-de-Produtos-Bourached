@@ -1872,14 +1872,14 @@
           "pesoValor": 1.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 20.0
+          "precoVenda": 22.0
         },
         {
           "codigo": "3503",
           "pesoValor": 10.0,
           "pesoUnidade": "KG",
           "unidade": "PC",
-          "precoVenda": 200.0
+          "precoVenda": 220.0
         }
       ]
     },
