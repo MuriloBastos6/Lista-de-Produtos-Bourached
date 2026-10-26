@@ -101,6 +101,12 @@ function Carrosel() {
       subtitle: "Clique para ver todos os produtos",
     },
     {
+      slug: "bolachas",
+      image: "/bolachas.jpeg",
+      title: "Bolachas Mineiras",
+      subtitle: "Clique para ver todos os produtos",
+    },
+    {
       slug: "potes",
       image: "/pote.jpeg",
       title: "Potes",

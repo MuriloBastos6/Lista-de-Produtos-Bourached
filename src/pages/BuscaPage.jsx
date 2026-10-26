@@ -22,6 +22,7 @@ const ordemCategorias = [
   "goma",
   "salgadinhos",
   "doces",
+  "bolachas",
   "potes",
 ];
 
@@ -42,6 +43,7 @@ const titulos = {
   goma: "Goma",
   salgadinhos: "Salgadinhos",
   doces: "Doces",
+  bolachas: "Bolachas Mineiras",
   potes: "Potes",
 };
 
@@ -62,6 +64,7 @@ const capasPorSlug = {
   goma: "/Goma.png",
   salgadinhos: "/salgadinho.jpeg",
   doces: "/doces.jpeg",
+  bolachas: "/bolachas.jpeg",
   potes: "/pote.jpeg",
 };
 

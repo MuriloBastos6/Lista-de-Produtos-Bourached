@@ -83,6 +83,11 @@ export const categorias = [
       slug: "doces",
     },
     {
+      titulo: "Bolachas Mineiras",
+      capa: "/bolachas.jpeg",
+      slug: "bolachas",
+    },
+    {
       titulo: "Potes",
       capa: "/pote.jpeg",
     slug: "potes",
