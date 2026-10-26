@@ -2611,7 +2611,7 @@
     {
       "categoria": "especiarias",
       "id": "tempero-glutamato",
-      "descricao": "TEMPERO GLUTAMATO",
+      "descricao": "GLUTAMATO",
       "imagem": "/images/especiarias/TEMPERO_GLUTAMATO.jpg",
       "status": "fixed-existing",
       "score": 999.0,

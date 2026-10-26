@@ -5935,7 +5935,7 @@
     },
     {
       "id": "tempero-glutamato",
-      "descricao": "TEMPERO GLUTAMATO",
+      "descricao": "GLUTAMATO",
       "categoria": "especiarias",
       "imagem": "/images/especiarias/TEMPERO_GLUTAMATO.jpg",
       "variacoes": [
@@ -9675,7 +9675,7 @@
       "imagem": "/images/doces/bolacha-kishow-limao.webp",
       "variacoes": [
         {
-          "codigo": "2505",
+          "codigo": "4662",
           "pesoValor": 2.5,
           "pesoUnidade": "KG",
           "unidade": "PC",
